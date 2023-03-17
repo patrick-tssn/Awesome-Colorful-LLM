@@ -1,10 +1,12 @@
-# Awesome-Multimodal Language Model [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome-Multimodal Large Language Model [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Learn the colorful world from LLM.
 
 - [VISION](#vision)
   - [Image Language Model](#image-language-model)
+    - [Reading List](#reading-list)
   - [Video Language Model](#video-language-model)
+    - [Reading List](#reading-list-1)
     - [Supplementary Material](#supplementary-material)
   - [Other Curated Lists](#other-curated-lists)
 - [SPEECH](#speech)
@@ -16,6 +18,8 @@ Learn the colorful world from LLM.
 ## VISION
 
 ### Image Language Model
+
+#### Reading List
 
 | Paper                                                                                                  | Base Language Model      | Code                                                                                                               | Publication | Preprint                                    | Affiliation |
 | ------------------------------------------------------------------------------------------------------ | ------------------------ | ------------------------------------------------------------------------------------------------------------------ | ----------- | ------------------------------------------- | ----------- |
@@ -31,6 +35,8 @@ Learn the colorful world from LLM.
 
 ### Video Language Model
 
+#### Reading List
+
 | Paper                                                                                                                                                                    | Base Language Model | Code                                                                                                                                                     | Publication         | Preprint                                    | Affiliation |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- | ------------------------------------------- | ----------- |
 | Vid2Seq: Large-Scale Pretraining of a Visual Language Model for Dense Video Captioning                                                                                   | T5                  | [Vid2Seq](https://github.com/google-research/scenic/tree/main/scenic/projects/vid2seq)                                                                      |                     | [2302.14115](https://arxiv.org/abs/2302.14115) | Google      |
@@ -43,7 +49,7 @@ Learn the colorful world from LLM.
 | LAVENDER: Unifying Video-Language Understanding as Masked Language Modeling                                                                                              | Bert-like           |                                                                                                                                                          | CVPR 2023           | [2206.07160](https://arxiv.org/abs/2206.07160) | Microsoft   |
 | Revealing Single Frame Bias for Video-and-Language Learning                                                                                                              | Bert                | [Singularity](https://github.com/jayleicn/singularity%5D(https://docs.qq.com/sheet/DTUFnanVtYWVCdlVQ))                                                      |                     | [2206.03428](https://arxiv.org/abs/2206.03428) | UNC         |
 | Flamingo: a Visual Language Model for Few-Shot Learning                                                                                                                  | Chinchilla          | [Flamingo](https://github.com/lucidrains/flamingo-pytorch%5D(https://docs.qq.com/sheet/DTUFnanVtYWVCdlVQ))                                                  | NIPS 2022           | [2204.14198](https://arxiv.org/abs/2204.14198) | DeepMind    |
-| All in One: Exploring Unified Video-Language Pre-training                                                                                                                |                     | [All-In-One](https://github.com/showlab/all-in-one%5D(https://docs.qq.com/sheet/DTUFnanVtYWVCdlVQ))                                                         | CVPR 2023           | [2203.07303](https://arxiv.org/abs/2203.07303) | NUS         |
+| All in One: Exploring Unified Video-Language Pre-training                                                                                                                | Bert-like           | [All-In-One](https://github.com/showlab/all-in-one%5D(https://docs.qq.com/sheet/DTUFnanVtYWVCdlVQ))                                                         | CVPR 2023           | [2203.07303](https://arxiv.org/abs/2203.07303) | NUS         |
 | End-to-end Generative Pretraining for Multimodal Video Captioning                                                                                                        | Bert+GPT2           |                                                                                                                                                          | CVPR 2022           | [2201.08264](https://arxiv.org/abs/2201.08264) | Google      |
 | Align and Prompt: Video-and-Language Pre-training with Entity Prompts                                                                                                    | Bert-like           | [ALPRO](https://github.com/salesforce/ALPRO%5D(https://docs.qq.com/sheet/DTUFnanVtYWVCdlVQ))                                                                | CVPR 2022           | [2112.09583](https://arxiv.org/abs/2112.09583) | Salesforce  |
 | VIOLET : End-to-End Video-Language Transformers with Masked Visual-token Modeling[V2](https://arxiv.org/pdf/2209.01540.pdf%5D(https://docs.qq.com/sheet/DTUFnanVtYWVCdlVQ)) | Bert                | [VIOLET](https://github.com/tsujuifu/pytorch_violet%5D(https://docs.qq.com/sheet/DTUFnanVtYWVCdlVQ))                                                        |                     | [2111.12681](https://arxiv.org/abs/2111.12681) | Microsoft   |
