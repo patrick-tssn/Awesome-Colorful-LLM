@@ -1,4 +1,4 @@
-# Awesome-Multimodal Large Language Model [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome-Colorful Large Language Model [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of Large Language Model ➕ Vision/Speech/Robotic.
 
@@ -149,3 +149,7 @@ A curated list of Large Language Model ➕ Vision/Speech/Robotic.
 
 - [Awesome-Multimodal-Research](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research)
 - [Awesome-Multimodal-ML](https://github.com/pliang279/awesome-multimodal-ml)
+
+## Contributing
+
+Welcome to [pull requests](https://github.com/patrick-tssn/Awesome-Colorful-LLM/pulls) or drop me an [email](flagwyx@gmail.com)
