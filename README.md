@@ -152,4 +152,4 @@ A curated list of Large Language Model ➕ Vision/Speech/Robotic.
 
 ## Contributing
 
-Welcome to [pull requests](https://github.com/patrick-tssn/Awesome-Colorful-LLM/pulls) or drop me an [email](flagwyx@gmail.com)
+Please freely create [pull request](https://github.com/patrick-tssn/Awesome-Colorful-LLM/pulls) or drop me an [email](flagwyx@gmail.com)
