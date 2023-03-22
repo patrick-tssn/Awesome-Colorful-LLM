@@ -148,6 +148,7 @@ A curated list of Large Language Model ➕ Vision/Speech/Robotic.
 
 - [LLM-in-Vision](https://github.com/DirtyHarryLYL/LLM-in-Vision)
 - [Awesome-Vision-and-Language](https://github.com/sangminwoo/awesome-vision-and-language#survey)
+- [Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models)
 
 ## Speech
 
