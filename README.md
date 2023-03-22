@@ -140,6 +140,7 @@ A curated list of Large Language Model ➕ Vision/Speech/Robotic.
 
 </details>
 
+
 ### Tutorials
 
 - [[CVPR2022 Tutorial] Recent Advances in Vision-and-Language Pre-training](https://vlp-tutorial.github.io/)
@@ -149,6 +150,7 @@ A curated list of Large Language Model ➕ Vision/Speech/Robotic.
 - [LLM-in-Vision](https://github.com/DirtyHarryLYL/LLM-in-Vision)
 - [Awesome-Vision-and-Language](https://github.com/sangminwoo/awesome-vision-and-language#survey)
 - [Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models)
+- [Awesome-3D-Vision-and-Language](https://github.com/jianghaojun/Awesome-3D-Vision-and-Language)
 
 ## Speech
 
@@ -161,6 +163,7 @@ A curated list of Large Language Model ➕ Vision/Speech/Robotic.
 ### Other Curated Lists
 
 - [Awesome-LLM-Robotics](https://github.com/GT-RIPL/Awesome-LLM-Robotics)
+- [PromptCraft-Robotics](https://github.com/microsoft/PromptCraft-Robotics)
 - [Awesome-Robotics](https://github.com/ahundt/awesome-robotics)
 
 ## Related
