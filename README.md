@@ -33,6 +33,7 @@ A curated list of Large Language Model ➕ Vision/Speech/Robotic.
 | PaLM-E: An Embodied Multimodal Language Model                                                          | PaLM                     |                                                                    |             | [2303.03378](https://arxiv.org/abs/2303.03378) | Google      |
 | Language Is Not All You Need: Aligning Perception with Language Models                                 | Magneto                  | [KOSMOS-1](https://github.com/microsoft/unilm)                        |             | [2302.14045](https://arxiv.org/abs/2302.14045) | Microsoft   |
 | BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models | Flan-T5                  | [BLIP2](https://github.com/salesforce/LAVIS/tree/main/projects/blip2) |             | [2301.12597](https://arxiv.org/abs/2301.12597) | Salesforce  |
+| Generalized Decoding for Pixel, Image, and Language                                                    | GPT3                     | [X-GPT](https://github.com/microsoft/X-Decoder/tree/xgpt)             |             | [2212.11270](https://arxiv.org/abs/2212.11270) |             |
 | Language Models are General-Purpose Interfaces                                                         | DeepNorm                 | [METALM](https://github.com/microsoft/unilm)                          |             | [2206.06336](https://arxiv.org/abs/2206.06336) | Microsoft   |
 | Flamingo: a Visual Language Model for Few-Shot Learning                                                | Chinchilla               | [Flamingo](https://github.com/lucidrains/flamingo-pytorch)            | NIPS 2022   | [2204.14198](https://arxiv.org/abs/2204.14198) | DeepMind    |
 | Learning Transferable Visual Models From Natural Language Supervision                                  | Bert                     | [CLIP](https://github.com/openai/CLIP)                                | ICML 2021   | [2103.00020](https://arxiv.org/abs/2103.00020) | OpenAI      |
@@ -128,16 +129,16 @@ A curated list of Large Language Model ➕ Vision/Speech/Robotic.
 
 <details><summary>Long-form Video Language Tasks</summary>
 
-| paper                                                        | task                     | duration | domain       | link                                                       | publication |
-| ------------------------------------------------------------ | ------------------------ | -------- | ------------ | ---------------------------------------------------------- | ----------- |
-| VIOLIN: A Large-Scale Dataset for Video-and-Language Inference | Video Language Inference | 35.2     | movie        | [VIOLIN](https://github.com/jimmy646/violin)               | CVPR 2020   |
-| TVQA: Localized, Compositional Video Question Answering      | Video QA                 | 60-90    | movie        | [TVQA](https://tvqa.cs.unc.edu/)                           | EMNLP 2018  |
-| AGQA: A Benchmark for Compositional Spatio-Temporal Reasoning | Video QA                 | 30s      | open         | [AGQA](https://cs.stanford.edu/people/ranjaykrishna/agqa/) | CVPR 2021   |
-| NExT-QA: Next Phase of Question-Answering to Explaining Temporal Actions | Video QA                 | 44s      | open         | [NExT-QA](https://doc-doc.github.io/docs/nextqa.html)      | CVPR 2021   |
-| STAR: A Benchmark for Situated Reasoning in Real-World Videos | Video QA                 | 12s      | open         | [Star](https://github.com/csbobby/STAR_Benchmark)          | NIPS 2021   |
+| paper                                                                                                | task                     | duration | domain       | link                                                    | publication |
+| ---------------------------------------------------------------------------------------------------- | ------------------------ | -------- | ------------ | ------------------------------------------------------- | ----------- |
+| VIOLIN: A Large-Scale Dataset for Video-and-Language Inference                                       | Video Language Inference | 35.2     | movie        | [VIOLIN](https://github.com/jimmy646/violin)               | CVPR 2020   |
+| TVQA: Localized, Compositional Video Question Answering                                              | Video QA                 | 60-90    | movie        | [TVQA](https://tvqa.cs.unc.edu/)                           | EMNLP 2018  |
+| AGQA: A Benchmark for Compositional Spatio-Temporal Reasoning                                        | Video QA                 | 30s      | open         | [AGQA](https://cs.stanford.edu/people/ranjaykrishna/agqa/) | CVPR 2021   |
+| NExT-QA: Next Phase of Question-Answering to Explaining Temporal Actions                             | Video QA                 | 44s      | open         | [NExT-QA](https://doc-doc.github.io/docs/nextqa.html)      | CVPR 2021   |
+| STAR: A Benchmark for Situated Reasoning in Real-World Videos                                        | Video QA                 | 12s      | open         | [Star](https://github.com/csbobby/STAR_Benchmark)          | NIPS 2021   |
 | Env-QA: A Video Question Answering Benchmark for Comprehensive Understanding of Dynamic Environments | Video QA                 | 20s      | virtual env. | [Env-QA](https://envqa.github.io/)                         | ICCV 2021   |
-</details>
 
+</details>
 
 ### Tutorials
 
