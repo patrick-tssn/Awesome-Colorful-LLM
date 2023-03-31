@@ -1,6 +1,6 @@
 # Awesome-Colorful Large Language Model [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of Large Language Model ➕ Vision/Speech/Robotic, Augmented Language Model.
+A curated list of Large Language Model ➕ Vision/Audio/Robotic, Augmented Language Model.
 
 **CONTENTS**
 
