@@ -192,6 +192,7 @@ A curated list of Large Language Model ➕ Vision/Speech/Robotic, Augmented Lang
 
 - [Awesome-Multimodal-Research](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research)
 - [Awesome-Multimodal-ML](https://github.com/pliang279/awesome-multimodal-ml)
+- [Awesome-ALM](https://github.com/pbhu1024/awesome-augmented-language-model#action-and-plan)
 
 ## Contributing
 
