@@ -14,6 +14,8 @@ A curated list of Large Language Model ➕ Vision/Audio/Robotic, Augmented Langu
     - [Datasets](#datasets)
   - [Tutorials](#tutorials)
   - [Other Curated Lists](#other-curated-lists)
+    - [Model](#model)
+    - [Dataset](#dataset)
 - [Audio](#audio)
   - [Other Curated Lists](#other-curated-lists-1)
 - [Robotic](#robotic)
@@ -163,10 +165,15 @@ A curated list of Large Language Model ➕ Vision/Audio/Robotic, Augmented Langu
 
 ### Other Curated Lists
 
+#### Model:
+
 - [LLM-in-Vision](https://github.com/DirtyHarryLYL/LLM-in-Vision)
 - [Awesome-Vision-and-Language](https://github.com/sangminwoo/awesome-vision-and-language#survey)
 - [Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models)
 - [Awesome-3D-Vision-and-Language](https://github.com/jianghaojun/Awesome-3D-Vision-and-Language)
+
+#### Dataset:
+- [Awesome-Video-Datasets](https://github.com/xiaobai1217/Awesome-Video-Datasets#Video-and-Language)
 
 ## Audio
 
