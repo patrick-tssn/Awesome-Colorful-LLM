@@ -23,6 +23,7 @@ A curated list of Large Language Model ➕ Vision/Audio/Robotic and Augmented La
   - [Other Curated Lists](#other-curated-lists-2)
 - [Augmented Language Model](#augmented-language-model)
   - [Reading List](#reading-list-3)
+  - [Project]
   - [Other Curated Lists](#other-curated-lists-3)
 - [Related](#related)
 
@@ -217,10 +218,17 @@ Reading List
 | HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace                                       | ChatGPT            | [JARVIS](https://github.com/microsoft/JARVIS)                                     |             | [2303.17580](https://arxiv.org/abs/2303.17580) | Microsoft     |
 | Language Models can Solve Computer Tasks                                                                       | ChatGPT, GPT3, etc | [RCI Agent](https://github.com/posgnu/rci-agent)                                  |             | [2303.17491](https://arxiv.org/abs/2303.17491) | CMU           |
 | TaskMatrix.AI: Completing Tasks by Connecting Foundation Models with Millions of APIs                          | ChatGPT            | [TaskMatrix](https://github.com/microsoft/visual-chatgpt/tree/main/TaskMatrix.AI) |             | [2303.16434](https://arxiv.org/abs/2303.16434) | Microsoft     |
+| MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action                                        | ChatGPT                   | [MM-REACT](https://github.com/microsoft/MM-REACT)                                                |             | [2303.11381](https://arxiv.org/abs/2303.11381) | Microsoft   |
 | ART: Automatic multi-step reasoning and tool-use for large language models                                    | GPT3, Codex        | [Language-Programmes](https://github.com/bhargaviparanjape/language-programmes)   |             | [2303.09014](https://arxiv.org/abs/2303.09014) | Microsoft     |
 | Foundation Models for Decision Making: Problems, Methods, and Opportunities                                    | -                  | -                                                                              |             | [2303.04129](https://arxiv.org/abs/2303.04129) | Google        |
 | Check Your Facts and Try Again: Improving Large Language Models with External Knowledge and Automated Feedback | ChatGPT            | [LLM-Augmenter](https://github.com/pengbaolin/LLM-Augmenter)                      |             | [2302.12813](https://arxiv.org/abs/2302.12813) | Microsoft     |
 | Toolformer: Language Models Can Teach Themselves to Use Tools                                                  | GPT-J, OPT, GPT3   | [Toolformer (Unofficial)](https://github.com/lucidrains/toolformer-pytorch)       |             | [2302.04761](https://arxiv.org/abs/2302.04761) | Meta          |
+
+### Projects
+- (2023-04) AgentGPT [code](https://github.com/reworkd/AgentGPT)
+- (2023-04) Auto-GPT [code](https://github.com/Torantulino/Auto-GPT)
+- (2023-04) BabyAGI [code](https://github.com/yoheinakajima/babyagi), [blog](https://twitter.com/yoheinakajima/status/1640934493489070080?s=20)
+
 
 ### Other Curated Lists
 
