@@ -1,6 +1,6 @@
 # Awesome-Colorful Large Language Model [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of Large Language Model ➕ Vision/Audio/Robotic, Augmented Language Model.
+A curated list of Large Language Model ➕ Vision/Audio/Robotic and Augmented Language Model (action, reasoning).
 
 **CONTENTS**
 
@@ -19,7 +19,11 @@ A curated list of Large Language Model ➕ Vision/Audio/Robotic, Augmented Langu
 - [Audio](#audio)
   - [Other Curated Lists](#other-curated-lists-1)
 - [Robotic](#robotic)
+  - [Reading List](#reading-list-2)
   - [Other Curated Lists](#other-curated-lists-2)
+- [Augmented Language Model](#augmented-language-model)
+  - [Reading List](#reading-list-3)
+  - [Other Curated Lists](#other-curated-lists-3)
 - [Related](#related)
 
 ## VISION
@@ -34,26 +38,27 @@ A curated list of Large Language Model ➕ Vision/Audio/Robotic, Augmented Langu
 
 #### Reading List
 
-| Paper                                                                                                  | Base Language Model      | Code                                                                                          | Publication | Preprint                                    | Affiliation |
-| ------------------------------------------------------------------------------------------------------ | ------------------------ | --------------------------------------------------------------------------------------------- | ----------- | ------------------------------------------- | ----------- |
-| MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action                                        | ChatGPT                  | [MM-REACT](https://github.com/microsoft/MM-REACT)                                                |             | [2303.11381](https://arxiv.org/abs/2303.11381) | Microsoft   |
-| ViperGPT: Visual Inference via Python Execution for Reasoning                                          | Codex                    | [ViperGPT](https://github.com/cvlab-columbia/viper)                                              |             | [2303.08128](https://arxiv.org/abs/2303.08128) | Columbia    |
-| Scaling Vision-Language Models with Sparse Mixture of Experts                                          | (MOE + Scaling)          |                                                                                               |             | [2303.07226](https://arxiv.org/abs/2303.07226) | Microsoft   |
-| ChatGPT Asks, BLIP-2 Answers: Automatic Questioning Towards Enriched Visual Descriptions               | ChatGPT, Flan-T5 (BLIP2) | [ChatCaptioner](https://github.com/Vision-CAIR/ChatCaptioner)                                    |             | [2303.06594](https://arxiv.org/abs/2303.06594) | KAUST       |
-| Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models                             | ChatGPT                  | [Visual ChatGPT](https://github.com/microsoft/visual-chatgpt)                                    |             | [2303.04671](https://arxiv.org/abs/2303.04671) | Microsoft   |
-| PaLM-E: An Embodied Multimodal Language Model                                                          | PaLM                     |                                                                                               |             | [2303.03378](https://arxiv.org/abs/2303.03378) | Google      |
-| Prismer: A Vision-Language Model with An Ensemble of Experts                                           | RoBERTa, OPT, BLOOM      | [Prismer](https://github.com/NVlabs/prismer)                                                     |             | [2303.02506](https://arxiv.org/abs/2303.02506) | Nvidia      |
-| Language Is Not All You Need: Aligning Perception with Language Models                                 | Magneto                  | [KOSMOS-1](https://github.com/microsoft/unilm)                                                   |             | [2302.14045](https://arxiv.org/abs/2302.14045) | Microsoft   |
-| Scaling Vision Transformers to 22 Billion Parameters                                                   | (CLIP + Scaling)         |                                                                                               |             | [2302.05442](https://arxiv.org/abs/2302.05442) | Google      |
-| Multimodal Chain-of-Thought Reasoning in Language Models                                               | T5                       | [MM-COT](https://github.com/amazon-science/mm-cot)                                               |             | [2302.00923](https://arxiv.org/abs/2302.00923) | Amazon      |
-| Re-ViLM: Retrieval-Augmented Visual Language Model for Zero and Few-Shot Image Caption                 | RETRO                    |                                                                                               |             | [2302.04858](https://arxiv.org/abs/2302.04858) | Nvidia      |
-| BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models | Flan-T5                  | [BLIP2](https://github.com/salesforce/LAVIS/tree/main/projects/blip2)                            |             | [2301.12597](https://arxiv.org/abs/2301.12597) | Salesforce  |
-| Generalized Decoding for Pixel, Image, and Language                                                    | GPT3                     | [X-GPT](https://github.com/microsoft/X-Decoder/tree/xgpt)                                        |             | [2212.11270](https://arxiv.org/abs/2212.11270) | Microsoft   |
-| Language Models are General-Purpose Interfaces                                                         | DeepNorm                 | [METALM](https://github.com/microsoft/unilm)                                                     |             | [2206.06336](https://arxiv.org/abs/2206.06336) | Microsoft   |
-| Language Models Can See: Plugging Visual Controls in Text Generation                                   | GPT2                     | [MAGIC](https://github.com/yxuansu/MAGIC)                                                        |             | [2205.02655](https://arxiv.org/abs/2205.02655) | Tencent     |
-| Flamingo: a Visual Language Model for Few-Shot Learning                                                | Chinchilla               | [Flamingo](https://github.com/lucidrains/flamingo-pytorch)                                       | NIPS 2022   | [2204.14198](https://arxiv.org/abs/2204.14198) | DeepMind    |
-| Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language                                | GPT3, RoBERTa            | [Socratic Models](https://github.com/google-research/google-research/tree/master/socraticmodels) | ICLR 2023   | [2204.00598](https://arxiv.org/abs/2204.00598) | Google      |
-| Learning Transferable Visual Models From Natural Language Supervision                                  | Bert                     | [CLIP](https://github.com/openai/CLIP)                                                           | ICML 2021   | [2103.00020](https://arxiv.org/abs/2103.00020) | OpenAI      |
+| Paper                                                                                                  | Base Language Model       | Code                                                                                          | Publication | Preprint                                    | Affiliation |
+| ------------------------------------------------------------------------------------------------------ | ------------------------- | --------------------------------------------------------------------------------------------- | ----------- | ------------------------------------------- | ----------- |
+| Video ChatCaptioner: Towards the Enriched Spatiotemporal Descriptions                                  | ChatGPT, Flan-T5 (BLIP2) | [ChatCaptioner](https://github.com/Vision-CAIR/ChatCaptioner)                                    |             | [2304.04227](https://arxiv.org/abs/2304.04227) | KAUST       |
+| MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action                                        | ChatGPT                   | [MM-REACT](https://github.com/microsoft/MM-REACT)                                                |             | [2303.11381](https://arxiv.org/abs/2303.11381) | Microsoft   |
+| ViperGPT: Visual Inference via Python Execution for Reasoning                                          | Codex                     | [ViperGPT](https://github.com/cvlab-columbia/viper)                                              |             | [2303.08128](https://arxiv.org/abs/2303.08128) | Columbia    |
+| Scaling Vision-Language Models with Sparse Mixture of Experts                                          | (MOE + Scaling)           |                                                                                               |             | [2303.07226](https://arxiv.org/abs/2303.07226) | Microsoft   |
+| ChatGPT Asks, BLIP-2 Answers: Automatic Questioning Towards Enriched Visual Descriptions               | ChatGPT, Flan-T5 (BLIP2)  | [ChatCaptioner](https://github.com/Vision-CAIR/ChatCaptioner)                                    |             | [2303.06594](https://arxiv.org/abs/2303.06594) | KAUST       |
+| Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models                             | ChatGPT                   | [Visual ChatGPT](https://github.com/microsoft/visual-chatgpt)                                    |             | [2303.04671](https://arxiv.org/abs/2303.04671) | Microsoft   |
+| PaLM-E: An Embodied Multimodal Language Model                                                          | PaLM                      |                                                                                               |             | [2303.03378](https://arxiv.org/abs/2303.03378) | Google      |
+| Prismer: A Vision-Language Model with An Ensemble of Experts                                           | RoBERTa, OPT, BLOOM       | [Prismer](https://github.com/NVlabs/prismer)                                                     |             | [2303.02506](https://arxiv.org/abs/2303.02506) | Nvidia      |
+| Language Is Not All You Need: Aligning Perception with Language Models                                 | Magneto                   | [KOSMOS-1](https://github.com/microsoft/unilm)                                                   |             | [2302.14045](https://arxiv.org/abs/2302.14045) | Microsoft   |
+| Scaling Vision Transformers to 22 Billion Parameters                                                   | (CLIP + Scaling)          |                                                                                               |             | [2302.05442](https://arxiv.org/abs/2302.05442) | Google      |
+| Multimodal Chain-of-Thought Reasoning in Language Models                                               | T5                        | [MM-COT](https://github.com/amazon-science/mm-cot)                                               |             | [2302.00923](https://arxiv.org/abs/2302.00923) | Amazon      |
+| Re-ViLM: Retrieval-Augmented Visual Language Model for Zero and Few-Shot Image Caption                 | RETRO                     |                                                                                               |             | [2302.04858](https://arxiv.org/abs/2302.04858) | Nvidia      |
+| BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models | Flan-T5                   | [BLIP2](https://github.com/salesforce/LAVIS/tree/main/projects/blip2)                            |             | [2301.12597](https://arxiv.org/abs/2301.12597) | Salesforce  |
+| Generalized Decoding for Pixel, Image, and Language                                                    | GPT3                      | [X-GPT](https://github.com/microsoft/X-Decoder/tree/xgpt)                                        |             | [2212.11270](https://arxiv.org/abs/2212.11270) | Microsoft   |
+| Language Models are General-Purpose Interfaces                                                         | DeepNorm                  | [METALM](https://github.com/microsoft/unilm)                                                     |             | [2206.06336](https://arxiv.org/abs/2206.06336) | Microsoft   |
+| Language Models Can See: Plugging Visual Controls in Text Generation                                   | GPT2                      | [MAGIC](https://github.com/yxuansu/MAGIC)                                                        |             | [2205.02655](https://arxiv.org/abs/2205.02655) | Tencent     |
+| Flamingo: a Visual Language Model for Few-Shot Learning                                                | Chinchilla                | [Flamingo](https://github.com/lucidrains/flamingo-pytorch)                                       | NIPS 2022   | [2204.14198](https://arxiv.org/abs/2204.14198) | DeepMind    |
+| Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language                                | GPT3, RoBERTa             | [Socratic Models](https://github.com/google-research/google-research/tree/master/socraticmodels) | ICLR 2023   | [2204.00598](https://arxiv.org/abs/2204.00598) | Google      |
+| Learning Transferable Visual Models From Natural Language Supervision                                  | Bert                      | [CLIP](https://github.com/openai/CLIP)                                                           | ICML 2021   | [2103.00020](https://arxiv.org/abs/2103.00020) | OpenAI      |
 
 ### Video Language Model
 
@@ -146,16 +151,16 @@ A curated list of Large Language Model ➕ Vision/Audio/Robotic, Augmented Langu
 
 <details><summary>Advanced Video Language Tasks</summary>
 
-| paper                                                                                                          | task                     | duration | domain       | link                                                    | publication |
-| -------------------------------------------------------------------------------------------------------------- | ------------------------ | -------- | ------------ | ------------------------------------------------------- | ----------- |
-| From Representation to Reasoning: Towards both Evidence and Commonsense Reasoning for Video Question-Answering | Video QA                 | 9s       | open         | [Causal-VidQA](https://github.com/bcmi/Causal-VidQA)       | CVPR 2022   |
-| VIOLIN: A Large-Scale Dataset for Video-and-Language Inference                                                 | Video Language Inference | 35.2s    | movie        | [VIOLIN](https://github.com/jimmy646/violin)               | CVPR 2020   |
-| TVQA: Localized, Compositional Video Question Answering                                                        | Video QA                 | 60-90s   | movie        | [TVQA](https://tvqa.cs.unc.edu/)                           | EMNLP 2018  |
-| AGQA: A Benchmark for Compositional Spatio-Temporal Reasoning                                                  | Video QA                 | 30s      | open         | [AGQA](https://cs.stanford.edu/people/ranjaykrishna/agqa/) | CVPR 2021   |
-| NExT-QA: Next Phase of Question-Answering to Explaining Temporal Actions                                       | Video QA                 | 44s      | open         | [NExT-QA-MC](https://github.com/doc-doc/NExT-QA), [NExT-QA-OE](https://github.com/doc-doc/NExT-OE)      | CVPR 2021   |
-| STAR: A Benchmark for Situated Reasoning in Real-World Videos                                                  | Video QA                 | 12s      | open         | [Star](https://github.com/csbobby/STAR_Benchmark)          | NIPS 2021   |
-| Env-QA: A Video Question Answering Benchmark for Comprehensive Understanding of Dynamic Environments           | Video QA                 | 20s      | virtual env. | [Env-QA](https://envqa.github.io/)                         | ICCV 2021   |
-| Social-IQ: A Question Answering Benchmark for Artificial Social Intelligence                                   | Video QA                 | 60s      | open         | [Social-IQ](https://www.thesocialiq.com/)                  | CVPR 2019   |
+| paper                                                                                                          | task                     | duration | domain       | link                                                                                         | publication |
+| -------------------------------------------------------------------------------------------------------------- | ------------------------ | -------- | ------------ | -------------------------------------------------------------------------------------------- | ----------- |
+| From Representation to Reasoning: Towards both Evidence and Commonsense Reasoning for Video Question-Answering | Video QA                 | 9s       | open         | [Causal-VidQA](https://github.com/bcmi/Causal-VidQA)                                            | CVPR 2022   |
+| VIOLIN: A Large-Scale Dataset for Video-and-Language Inference                                                 | Video Language Inference | 35.2s    | movie        | [VIOLIN](https://github.com/jimmy646/violin)                                                    | CVPR 2020   |
+| TVQA: Localized, Compositional Video Question Answering                                                        | Video QA                 | 60-90s   | movie        | [TVQA](https://tvqa.cs.unc.edu/)                                                                | EMNLP 2018  |
+| AGQA: A Benchmark for Compositional Spatio-Temporal Reasoning                                                  | Video QA                 | 30s      | open         | [AGQA](https://cs.stanford.edu/people/ranjaykrishna/agqa/)                                      | CVPR 2021   |
+| NExT-QA: Next Phase of Question-Answering to Explaining Temporal Actions                                       | Video QA                 | 44s      | open         | [NExT-QA-MC](https://github.com/doc-doc/NExT-QA), [NExT-QA-OE](https://github.com/doc-doc/NExT-OE) | CVPR 2021   |
+| STAR: A Benchmark for Situated Reasoning in Real-World Videos                                                  | Video QA                 | 12s      | open         | [Star](https://github.com/csbobby/STAR_Benchmark)                                               | NIPS 2021   |
+| Env-QA: A Video Question Answering Benchmark for Comprehensive Understanding of Dynamic Environments           | Video QA                 | 20s      | virtual env. | [Env-QA](https://envqa.github.io/)                                                              | ICCV 2021   |
+| Social-IQ: A Question Answering Benchmark for Artificial Social Intelligence                                   | Video QA                 | 60s      | open         | [Social-IQ](https://www.thesocialiq.com/)                                                       | CVPR 2019   |
 
 </details>
 
@@ -173,6 +178,7 @@ A curated list of Large Language Model ➕ Vision/Audio/Robotic, Augmented Langu
 - [Awesome-3D-Vision-and-Language](https://github.com/jianghaojun/Awesome-3D-Vision-and-Language)
 
 #### Dataset:
+
 - [Awesome-Video-Datasets](https://github.com/xiaobai1217/Awesome-Video-Datasets#Video-and-Language)
 
 ## Audio
@@ -194,6 +200,29 @@ A curated list of Large Language Model ➕ Vision/Audio/Robotic, Augmented Langu
 - [Awesome-LLM-Robotics](https://github.com/GT-RIPL/Awesome-LLM-Robotics)
 - [PromptCraft-Robotics](https://github.com/microsoft/PromptCraft-Robotics)
 - [Awesome-Robotics](https://github.com/ahundt/awesome-robotics)
+
+## Augmented Language Model
+
+### Reading List
+
+Survey
+
+- (2023-02) Augmented Language Models: a Survey [paper](https://arxiv.org/abs/2302.07842)
+
+Reading List
+
+| Paper                                                                                                          | LLM                | Code                                                                           | Publication | Preprint                                    | Affiliation   |
+| -------------------------------------------------------------------------------------------------------------- | ------------------ | ------------------------------------------------------------------------------ | ----------- | ------------------------------------------- | ------------- |
+| OpenAGI: When LLM Meets Domain Experts                                                                         | ChatGPT            | [OpenAGI](https://github.com/agiresearch/OpenAGI)                                 |             | [2304.04370](https://arxiv.org/abs/2304.04370) | Rutgers Univ. |
+| HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace                                       | ChatGPT            | [JARVIS](https://github.com/microsoft/JARVIS)                                     |             | [2303.17580](https://arxiv.org/abs/2303.17580) | Microsoft     |
+| Language Models can Solve Computer Tasks                                                                       | ChatGPT, GPT3, etc | [RCI Agent](https://github.com/posgnu/rci-agent)                                  |             | [2303.17491](https://arxiv.org/abs/2303.17491) | CMU           |
+| TaskMatrix.AI: Completing Tasks by Connecting Foundation Models with Millions of APIs                          | ChatGPT            | [TaskMatrix](https://github.com/microsoft/visual-chatgpt/tree/main/TaskMatrix.AI) |             | [2303.16434](https://arxiv.org/abs/2303.16434) | Microsoft     |
+| ART: Automatic multi-step reasoning and tool-use for large language models                                    | GPT3, Codex        | [Language-Programmes](https://github.com/bhargaviparanjape/language-programmes)   |             | [2303.09014](https://arxiv.org/abs/2303.09014) | Microsoft     |
+| Foundation Models for Decision Making: Problems, Methods, and Opportunities                                    | -                  | -                                                                              |             | [2303.04129](https://arxiv.org/abs/2303.04129) | Google        |
+| Check Your Facts and Try Again: Improving Large Language Models with External Knowledge and Automated Feedback | ChatGPT            | [LLM-Augmenter](https://github.com/pengbaolin/LLM-Augmenter)                      |             | [2302.12813](https://arxiv.org/abs/2302.12813) | Microsoft     |
+| Toolformer: Language Models Can Teach Themselves to Use Tools                                                  | GPT-J, OPT, GPT3   | [Toolformer (Unofficial)](https://github.com/lucidrains/toolformer-pytorch)       |             | [2302.04761](https://arxiv.org/abs/2302.04761) | Meta          |
+
+### Other Curated Lists
 
 ## Related
 
