@@ -23,7 +23,7 @@ A curated list of Large Language Model ➕ Vision/Audio/Robotic and Augmented La
   - [Other Curated Lists](#other-curated-lists-2)
 - [Augmented Language Model](#augmented-language-model)
   - [Reading List](#reading-list-3)
-  - [Project]
+  - [Projects](#projects)
   - [Other Curated Lists](#other-curated-lists-3)
 - [Related](#related)
 
