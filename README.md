@@ -218,6 +218,7 @@ A curated list of Large Language Model ➕ Vision/Audio/Robotic and Augmented La
 
 Survey
 
+- (2023-04) Tool Learning with Foundation Models [paper](https://arxiv.org/abs/2304.08354)
 - (2023-02) Augmented Language Models: a Survey [paper](https://arxiv.org/abs/2302.07842)
 
 Reading List
