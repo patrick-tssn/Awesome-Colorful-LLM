@@ -234,6 +234,7 @@ Reading List
 | Foundation Models for Decision Making: Problems, Methods, and Opportunities                                    | -                  | -                                                                              |             | [2303.04129](https://arxiv.org/abs/2303.04129) | Google        |
 | Check Your Facts and Try Again: Improving Large Language Models with External Knowledge and Automated Feedback | ChatGPT            | [LLM-Augmenter](https://github.com/pengbaolin/LLM-Augmenter)                      |             | [2302.12813](https://arxiv.org/abs/2302.12813) | Microsoft     |
 | Toolformer: Language Models Can Teach Themselves to Use Tools                                                  | GPT-J, OPT, GPT3   | [Toolformer (Unofficial)](https://github.com/lucidrains/toolformer-pytorch)       |             | [2302.04761](https://arxiv.org/abs/2302.04761) | Meta          |
+| Visual Programming: Compositional visual reasoning without training | GPT3 | [VisProg](https://github.com/allenai/visprog) | CVPR2023 | [2211.11559](https://arxiv.org/abs/2211.11559) | AI2 | 
 
 ### Projects
 - (2023-04) AgentGPT [code](https://github.com/reworkd/AgentGPT)
