@@ -245,6 +245,8 @@ Reading List
 
 ### Other Curated Lists
 
+- [ToolLearningPapers](https://github.com/thunlp/ToolLearningPapers)
+
 ## Related
 
 - [Awesome-Multimodal-Research](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research)
