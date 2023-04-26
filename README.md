@@ -225,6 +225,7 @@ Reading List
 
 | Paper                                                                                                          | LLM                | Code                                                                           | Publication | Preprint                                    | Affiliation   |
 | -------------------------------------------------------------------------------------------------------------- | ------------------ | ------------------------------------------------------------------------------ | ----------- | ------------------------------------------- | ------------- |
+| LLM+P: Empowering Large Language Models with Optimal Planning Proficiency | GPT4 | [LLM-PDDL](https://github.com/Cranial-XIX/llm-pddl) | | [2304.11477](https://arxiv.org/abs/2304.11477) | UTEXAS |
 | Can GPT-4 Perform Neural Architecture Search? | GPT4 | [GENIUS](https://github.com/mingkai-zheng/GENIUS) | | [2304.10970](https://arxiv.org/abs/2304.10970) | Cambridge | 
 | Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models | GPT4 | [Chameleon](https://github.com/lupantech/chameleon-llm) | | [2304.09842](https://arxiv.org/abs/2304.09842) | Microsoft |
 | OpenAGI: When LLM Meets Domain Experts                                                                         | ChatGPT            | [OpenAGI](https://github.com/agiresearch/OpenAGI)                                 |             | [2304.04370](https://arxiv.org/abs/2304.04370) | Rutgers Univ. |
