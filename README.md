@@ -254,6 +254,7 @@ Reading List
 - [Awesome-Multimodal-Research](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research)
 - [Awesome-Multimodal-ML](https://github.com/pliang279/awesome-multimodal-ml)
 - [Awesome-ALM](https://github.com/pbhu1024/awesome-augmented-language-model#action-and-plan)
+- [LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide)
 
 ## Contributing
 
