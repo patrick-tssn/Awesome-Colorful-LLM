@@ -41,6 +41,8 @@ A curated list of Large Language Model ➕ Vision/Audio/Robotic and Augmented La
 
 | Paper                                                                                                  | Base Language Model       | Code                                                                                          | Publication | Preprint                                    | Affiliation |
 | ------------------------------------------------------------------------------------------------------ | ------------------------- | --------------------------------------------------------------------------------------------- | ----------- | ------------------------------------------- | ----------- |
+| Multimodal Procedural Planning via Dual Text-Image Prompting | OFA, BLIP, GPT3  | [TIP](https://github.com/YujieLu10/TIP) | | [2305.01795](https://arxiv.org/abs/2305.01795) | UCSB |
+| mPLUG-Owl: Modularization Empowers Large Language Models with Multimodality, [mPLUG](https://aclanthology.org/2022.emnlp-main.488/), [mPLUG-2](https://arxiv.org/abs/2302.00402) | LLaMA | [mPLUG-Owl](https://github.com/X-PLUG/mPLUG-Owl) |  | [2304.14178](https://arxiv.org/abs/2304.14178) | DAMO Academy |
 | MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models | Vicunna | [MiniGPT4](https://github.com/Vision-CAIR/MiniGPT-4) | | [github.2023.04](https://github.com/Vision-CAIR/MiniGPT-4/blob/main/MiniGPT_4.pdf) | KAUST |
 | Visual Instruction Tuning                                        | LLaMA                   | [LLaVA](https://github.com/haotian-liu/LLaVA)                                                |             | [2304.02643](https://arxiv.org/abs/2304.02643) | Microsoft   |
 | MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action                                        | ChatGPT                   | [MM-REACT](https://github.com/microsoft/MM-REACT)                                                |             | [2303.11381](https://arxiv.org/abs/2303.11381) | Microsoft   |
@@ -65,6 +67,9 @@ A curated list of Large Language Model ➕ Vision/Audio/Robotic and Augmented La
 | An Empirical Study of GPT-3 for Few-Shot Knowledge-Based VQA | GPT3 | [PICa](https://github.com/microsoft/PICa) | AAAI2022 | [2109.05014](https://arxiv.org/abs/2109.05014) | Microsoft |
 | Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language                                | GPT3, RoBERTa             | [Socratic Models](https://github.com/google-research/google-research/tree/master/socraticmodels) | ICLR 2023   | [2204.00598](https://arxiv.org/abs/2204.00598) | Google      |
 | Learning Transferable Visual Models From Natural Language Supervision                                  | Bert                      | [CLIP](https://github.com/openai/CLIP)                                                           | ICML 2021   | [2103.00020](https://arxiv.org/abs/2103.00020) | OpenAI      |
+
+#### Dataset
+- [DataComp](https://github.com/mlfoundations/datacomp)
 
 ### Video Language Model
 
@@ -243,6 +248,7 @@ Reading List
 - (2023-04) AgentGPT [code](https://github.com/reworkd/AgentGPT)
 - (2023-04) Auto-GPT [code](https://github.com/Torantulino/Auto-GPT)
 - (2023-04) BabyAGI [code](https://github.com/yoheinakajima/babyagi), [blog](https://twitter.com/yoheinakajima/status/1640934493489070080?s=20)
+- (2023-05)  闻达[code](https://github.com/l15y/wenda)
 
 
 ### Other Curated Lists
