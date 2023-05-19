@@ -182,6 +182,10 @@ A curated list of Large Language Model ➕ Vision/Audio/Robotic and Augmented La
 
 </details>
 
+### Image Generation
+#### Reading List
+
+
 ### Tutorials
 
 - [[CVPR2022 Tutorial] Recent Advances in Vision-and-Language Pre-training](https://vlp-tutorial.github.io/)
