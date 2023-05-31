@@ -41,6 +41,7 @@ A curated list of Large Language Model ➕ Vision/Audio/Robotic and Augmented La
 
 | Paper                                                                                                  | Base Language Model       | Code                                                                                          | Publication | Preprint                                    | Affiliation |
 | ------------------------------------------------------------------------------------------------------ | ------------------------- | --------------------------------------------------------------------------------------------- | ----------- | ------------------------------------------- | ----------- |
+| Cheap and Quick: Efficient Vision-Language Instruction Tuning for Large Language Models | LLaMA | [LaVIN](https://github.com/luogen1996/LaVIN) | | [2305.15023](https://arxiv.org/abs/2305.15023) | Xiamen Univ.|
 | VisionLLM: Large Language Model is also an Open-Ended Decoder for Vision-Centric Tasks | Alpaca | [VisionLLM](https://github.com/OpenGVLab/VisionLLM) | | [2305.11175](https://arxiv.org/abs/2305.11175) | Shanghai AI Lab. | 
 | Otter: A Multi-Modal Model with In-Context Instruction Tuning | Flamingo | [Otter](https://github.com/Luodian/Otter) | | [2305.03726](https://arxiv.org/abs/2305.03726) | NTU |
 | X-LLM: Bootstrapping Advanced Large Language Models by Treating Multi-Modalities as Foreign Languages | ChatGPT | [X-LLM](https://github.com/phellonchen/X-LLM) | | [2305.04160](https://arxiv.org/abs/2305.04160) | CAS |
