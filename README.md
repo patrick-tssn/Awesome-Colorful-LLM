@@ -147,6 +147,7 @@ A curated list of Large Language Model ➕ Vision/Audio/Robotic and Augmented La
 | Merlot: Multimodal neural script knowledge models. Advances in Neural Information Processing  | 6M          | -20m     | ~720M     | open        | [YT-Temporal-180M](https://rowanzellers.com/merlot/)                          |
 | Advancing High-Resolution Video-Language Representation with Large-Scale Video Transcriptions | 100M        | 13.4s    | 100M      | open        | [HD-VILA-100M](https://github.com/microsoft/XPretrain/tree/main/hd-vila-100m) |
 | CHAMPAGNE: Learning Real-world Conversation from Large-Scale Web Videos                       | 18M         | 60s      |           | open        | [YTD-18M](https://seungjuhan.me/champagne/)                                   |
+| Youku-mPLUG: A 10 Million Large-scale Chinese Video-Language Dataset for Pre-training and Benchmarks | 10 M | 54.2s | 10 M | open | [Youku-mPLUG](https://github.com/X-PLUG/Youku-mPLUG#download) | 
 
 </details>
 
@@ -202,6 +203,7 @@ A curated list of Large Language Model ➕ Vision/Audio/Robotic and Augmented La
 
 #### Model:
 
+- [Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
 - [LLM-in-Vision](https://github.com/DirtyHarryLYL/LLM-in-Vision)
 - [Awesome-Transformer-Attention](https://github.com/cmhungsteve/Awesome-Transformer-Attention)
 - [Awesome-Vision-and-Language](https://github.com/sangminwoo/awesome-vision-and-language#survey)
