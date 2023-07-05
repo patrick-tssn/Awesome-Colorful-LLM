@@ -34,6 +34,7 @@ Collection of works (Reading list, open source collections, etc.) about Video-La
 
 ## Tutorials
 
+- [CVPR2023 Tutorial] [Recent Advances in Vision Foundation Models](https://vlp-tutorial.github.io/)
 - [CVPR2022 Tutorial] [Recent Advances in Vision-and-Language Pre-training](https://vlp-tutorial.github.io/)
 
 ## Reference
