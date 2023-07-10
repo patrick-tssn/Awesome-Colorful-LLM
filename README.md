@@ -8,6 +8,7 @@ Table of Contents
 - [Audio](#audio)
 - [Robotic](#robotic)
 - [Augmented](#augmented)
+- 
 - [Reference](#reference)
 - [Contributing](#contributing)
 
@@ -39,17 +40,19 @@ Collection of works about augmented language model / tool learning, see [ALM](AL
 
 > - Reading List
 > - Projects
+> - Applications
 > - Reference
 
 ## Reference
 
 - [Awesome-Multimodal-Research](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research)
 
-> This repo is reorganized from Awesome-Multimodal-ML
-
+  > This repo is reorganized from Awesome-Multimodal-ML
+  >
 - [Awesome-Multimodal-ML](https://github.com/pliang279/awesome-multimodal-ml)
 
-> Reading list for research topics in multimodal machine learning
+  > Reading list for research topics in multimodal machine learning
+  >
 
 ## Contributing
 

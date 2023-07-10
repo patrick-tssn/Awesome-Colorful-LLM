@@ -4,13 +4,14 @@ Table of Contents
 
 - [Reading List](#reading-list)
 - [Projects](#projects)
+- [Applications](#applications)
 - [Reference](#reference)
 
 ## Reading List
 
 Survey
 
-- (2023-04) Tool Learning with Foundation Models [paper](https://arxiv.org/abs/2304.08354)
+- (2023-04) Tool Learning with Foundation Models [paper](https://arxiv.org/abs/2304.08354), [BMTools](https://github.com/OpenBMB/BMTools)
 - (2023-02) Augmented Language Models: a Survey [paper](https://arxiv.org/abs/2302.07842)
 
 Reading List
@@ -45,11 +46,21 @@ Reading List
 - (2023-04) [BabyAGI](https://github.com/yoheinakajima/babyagi), The system uses OpenAI and vector databases such as Chroma or Weaviate to create, prioritize, and execute tasks
   - [blog](https://twitter.com/yoheinakajima/status/1640934493489070080?s=20)
 
+### Applications
+- (2023-03) [ChatPaper](https://github.com/kaixindelele/ChatPaper), Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文总结+润色+审稿+审稿回复
+  - [website](https://chatwithpaper.org/)
+- (2023-03) [BibiGPT](https://github.com/JimmyLv/BibiGPT), BibiGPT · 1-Click AI Summary for Audio/Video & Chat with Learning Content: Bilibili | YouTube | Tweet丨TikTok丨Local files | Websites丨Podcasts | Meetings | Lectures, etc. 音视频内容 AI 一键总结 & 对话：哔哩哔哩丨YouTube丨推特丨小红书丨抖音丨网页丨播客丨会议丨本地文件等 (原 BiliGPT 省流神器 & 课代表)
+  - [website](https://bibigpt.co/)
+
 ## Reference
 
 - [ToolLearningPapers](https://github.com/thunlp/ToolLearningPapers)
   > Must-read papers on tool learning with foundation models
   >
+- [LLM Tool Use Papers](https://github.com/xlang-ai/llm-tool-use)
+  > Paper collection on LLM tool use and code generation covered in the ACL tutorial on complex reasoning
+  >
 - [Awesome-ALM](https://github.com/pbhu1024/awesome-augmented-language-model)
   > This repo collect research papers about leveraging the capabilities of language models, which can be a good reference for building upper-layer applications
   >
+- [LLM-powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/), Overview: panning, memory, tool use
