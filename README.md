@@ -8,7 +8,6 @@ Table of Contents
 - [Audio](#audio)
 - [Robotic](#robotic)
 - [Augmented](#augmented)
-- 
 - [Reference](#reference)
 - [Contributing](#contributing)
 
