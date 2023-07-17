@@ -52,6 +52,8 @@ Collection of works about augmented language model / tool learning, see [ALM](AL
 
   > Reading list for research topics in multimodal machine learning
   >
+- [Jay Alammar's blog](https://jalammar.github.io/)
+- [科学空间](https://spaces.ac.cn/)
 
 ## Contributing
 
