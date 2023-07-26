@@ -11,6 +11,7 @@ Table of Contents
 
 Survey
 
+- (2023-06) LLM Powered Autonomous Agents [blog](https://lilianweng.github.io/posts/2023-06-23-agent/)
 - (2023-04) Tool Learning with Foundation Models [paper](https://arxiv.org/abs/2304.08354), [BMTools](https://github.com/OpenBMB/BMTools)
 - (2023-02) Augmented Language Models: a Survey [paper](https://arxiv.org/abs/2302.07842)
 
@@ -19,6 +20,7 @@ Reading List
 | Paper                                                                                                          | LLM                | Code                                                                           | Publication | Preprint                                    | Affiliation   |
 | -------------------------------------------------------------------------------------------------------------- | ------------------ | ------------------------------------------------------------------------------ | ----------- | ------------------------------------------- | ------------- |
 | AssistGPT: A General Multi-modal Assistant that can Plan, Execute, Inspect, and Learn                          | ChatGPT            | [AssistGPT](https://github.com/COOORN/AssistGPT)                                  |             | [2306.08640](https://arxiv.org/abs/2306.08640) | NUS           |
+| ToolAlpaca: Generalized Tool Learning for Language Models with 3000 Simulated Cases                            | Alpaca             | [ToolAlpaca](https://github.com/tangqiaoyu/ToolAlpaca)                            |             | [2306.05301](https://arxiv.org/abs/2306.05301) | CAS           |
 | GPT4Tools: Teaching Large Language Model to Use Tools via Self-instruction                                    | Vicuna-13B         | [GPT4Tools](https://github.com/StevenGrove/GPT4Tools)                             |             | [2305.18752](https://arxiv.org/abs/2305.18752) | Tencent       |
 | AdaPlanner: Adaptive Planning from Feedback with Language Models                                              | GPT3/3.5           | [AdaPlanner](https://github.com/haotiansun14/AdaPlanner)                          |             | [2305.16653](https://arxiv.org/abs/2305.16653) | Gatech        |
 | LLM+P: Empowering Large Language Models with Optimal Planning Proficiency                                      | GPT4               | [LLM-PDDL](https://github.com/Cranial-XIX/llm-pddl)                               |             | [2304.11477](https://arxiv.org/abs/2304.11477) | UTEXAS        |
@@ -35,6 +37,11 @@ Reading List
 | Toolformer: Language Models Can Teach Themselves to Use Tools                                                  | GPT-J, OPT, GPT3   | [Toolformer (Unofficial)](https://github.com/lucidrains/toolformer-pytorch)       |             | [2302.04761](https://arxiv.org/abs/2302.04761) | Meta          |
 | Visual Programming: Compositional visual reasoning without training                                            | GPT3               | [VisProg](https://github.com/allenai/visprog)                                     | CVPR 2023   | [2211.11559](https://arxiv.org/abs/2211.11559) | AI2           |
 | Decomposed Prompting: A Modular Approach for Solving Complex Tasks                                             | GPT3               | [DecomP](https://github.com/allenai/DecomP)                                       | ICLR 2023   | [2210.02406](https://arxiv.org/abs/2210.02406) | AI2           |
+
+```
+ToolAlpaca: Generalized Tool Learning for Language Models with 3000 Simulated Cases
+```
+
 
 ### Projects
 
