@@ -27,6 +27,7 @@ Reading List
 | Can GPT-4 Perform Neural Architecture Search?                                                                  | GPT4               | [GENIUS](https://github.com/mingkai-zheng/GENIUS)                                 |             | [2304.10970](https://arxiv.org/abs/2304.10970) | Cambridge     |
 | Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models                                    | GPT4               | [Chameleon](https://github.com/lupantech/chameleon-llm)                           |             | [2304.09842](https://arxiv.org/abs/2304.09842) | Microsoft     |
 | OpenAGI: When LLM Meets Domain Experts                                                                         | ChatGPT            | [OpenAGI](https://github.com/agiresearch/OpenAGI)                                 |             | [2304.04370](https://arxiv.org/abs/2304.04370) | Rutgers Univ. |
+| LLM-Adapters: An Adapter Family for Parameter-Efficient Fine-Tuning of Large Language Models                   | Opensource LLM     | [LLM-Adapters](https://github.com/AGI-Edgerunners/LLM-Adapters)                   |             | [2304.01933](https://arxiv.org/abs/2304.01933) | SMU           |
 | HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace                                       | ChatGPT            | [JARVIS](https://github.com/microsoft/JARVIS)                                     |             | [2303.17580](https://arxiv.org/abs/2303.17580) | Microsoft     |
 | Language Models can Solve Computer Tasks                                                                       | ChatGPT, GPT3, etc | [RCI Agent](https://github.com/posgnu/rci-agent)                                  |             | [2303.17491](https://arxiv.org/abs/2303.17491) | CMU           |
 | TaskMatrix.AI: Completing Tasks by Connecting Foundation Models with Millions of APIs                          | ChatGPT            | [TaskMatrix](https://github.com/microsoft/visual-chatgpt/tree/main/TaskMatrix.AI) |             | [2303.16434](https://arxiv.org/abs/2303.16434) | Microsoft     |
@@ -41,7 +42,6 @@ Reading List
 ```
 ToolAlpaca: Generalized Tool Learning for Language Models with 3000 Simulated Cases
 ```
-
 
 ### Projects
 
@@ -63,13 +63,20 @@ ToolAlpaca: Generalized Tool Learning for Language Models with 3000 Simulated Ca
 
 ## Reference
 
+- [Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps)
+  > An awesome & curated list of best LLMOps tools for developers
+- [Awesome LLM-Powered Agent](https://github.com/hyp1231/awesome-llm-powered-agent)
+  > Awesome things about LLM-powered agents. Papers / Repos / Blogs / ...
 - [ToolLearningPapers](https://github.com/thunlp/ToolLearningPapers)
+
   > Must-read papers on tool learning with foundation models
   >
 - [LLM Tool Use Papers](https://github.com/xlang-ai/llm-tool-use)
+
   > Paper collection on LLM tool use and code generation covered in the ACL tutorial on complex reasoning
   >
 - [Awesome-ALM](https://github.com/pbhu1024/awesome-augmented-language-model)
+
   > This repo collect research papers about leveraging the capabilities of language models, which can be a good reference for building upper-layer applications
   >
 - [LLM-powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/), Overview: panning, memory, tool use
