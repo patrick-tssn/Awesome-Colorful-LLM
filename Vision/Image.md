@@ -82,9 +82,11 @@ Table of Contents
 
 ### Benchmarks
 
-| Benchmark                                                 | Task | Data                                                                                 | Paper                                                                                   | Preprint                                    | Publication | Affiliation |
-| --------------------------------------------------------- | ---- | ------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------- | ------------------------------------------- | ----------- | ----------- |
-| [INFOSEEK](https://open-vision-language.github.io/infoseek/) | VQA  | [OVEN (open domain image)](https://open-vision-language.github.io/oven/) + Human Anno. | Can Pre-trained Vision and Language Models Answer Visual Information-Seeking Questions? | [2302.11713](https://arxiv.org/abs/2302.11713) |             | Google      |
+| Benchmark                                                 | Task                           | Data                                                                                 | Paper                                                                                   | Preprint                                    | Publication | Affiliation |
+| --------------------------------------------------------- | ------------------------------ | ------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------- | ------------------------------------------- | ----------- | ----------- |
+| [POPE](https://github.com/RUCAIBox/POPE)                     | General (object hallucination) |                                                                                      | POPE: Polling-based Object Probing Evaluation for Object Hallucination                  | [2305.10355](https://arxiv.org/abs/2305.10355) |             | RUC         |
+| [MM-Vet](https://github.com/yuweihao/MM-Vet)                 | General                        | [mm-vet.zip](https://github.com/yuweihao/MM-Vet/releases/download/v1/mm-vet.zip)        | MM-Vet: Evaluating Large Multimodal Models for Integrated Capabilities                  |                                             |             |             |
+| [INFOSEEK](https://open-vision-language.github.io/infoseek/) | VQA                            | [OVEN (open domain image)](https://open-vision-language.github.io/oven/) + Human Anno. | Can Pre-trained Vision and Language Models Answer Visual Information-Seeking Questions? | [2302.11713](https://arxiv.org/abs/2302.11713) |             | Google      |
 
 ## Image Generation
 
