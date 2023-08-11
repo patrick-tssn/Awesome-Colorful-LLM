@@ -19,6 +19,8 @@ Reading List
 
 | Paper                                                                                                          | LLM                | Code                                                                           | Publication | Preprint                                    | Affiliation   |
 | -------------------------------------------------------------------------------------------------------------- | ------------------ | ------------------------------------------------------------------------------ | ----------- | ------------------------------------------- | ------------- |
+| AgentBench: Evaluating LLMs as Agents                                                                          | open               | [AgentBench](https://github.com/THUDM/AgentBench)                                 |             | [2308.03688](https://arxiv.org/abs/2308.03688) | THU           |
+| ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs                                   | open               | [ToolBench](https://github.com/OpenBMB/ToolBench)                                 |             | [2307.16789](https://arxiv.org/abs/2307.16789) | THU           |
 | AssistGPT: A General Multi-modal Assistant that can Plan, Execute, Inspect, and Learn                          | ChatGPT            | [AssistGPT](https://github.com/COOORN/AssistGPT)                                  |             | [2306.08640](https://arxiv.org/abs/2306.08640) | NUS           |
 | ToolAlpaca: Generalized Tool Learning for Language Models with 3000 Simulated Cases                            | Alpaca             | [ToolAlpaca](https://github.com/tangqiaoyu/ToolAlpaca)                            |             | [2306.05301](https://arxiv.org/abs/2306.05301) | CAS           |
 | GPT4Tools: Teaching Large Language Model to Use Tools via Self-instruction                                    | Vicuna-13B         | [GPT4Tools](https://github.com/StevenGrove/GPT4Tools)                             |             | [2305.18752](https://arxiv.org/abs/2305.18752) | Tencent       |
@@ -38,10 +40,6 @@ Reading List
 | Toolformer: Language Models Can Teach Themselves to Use Tools                                                  | GPT-J, OPT, GPT3   | [Toolformer (Unofficial)](https://github.com/lucidrains/toolformer-pytorch)       |             | [2302.04761](https://arxiv.org/abs/2302.04761) | Meta          |
 | Visual Programming: Compositional visual reasoning without training                                            | GPT3               | [VisProg](https://github.com/allenai/visprog)                                     | CVPR 2023   | [2211.11559](https://arxiv.org/abs/2211.11559) | AI2           |
 | Decomposed Prompting: A Modular Approach for Solving Complex Tasks                                             | GPT3               | [DecomP](https://github.com/allenai/DecomP)                                       | ICLR 2023   | [2210.02406](https://arxiv.org/abs/2210.02406) | AI2           |
-
-```
-ToolAlpaca: Generalized Tool Learning for Language Models with 3000 Simulated Cases
-```
 
 ### Projects
 
@@ -64,9 +62,13 @@ ToolAlpaca: Generalized Tool Learning for Language Models with 3000 Simulated Ca
 ## Reference
 
 - [Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps)
+
   > An awesome & curated list of best LLMOps tools for developers
+  >
 - [Awesome LLM-Powered Agent](https://github.com/hyp1231/awesome-llm-powered-agent)
+
   > Awesome things about LLM-powered agents. Papers / Repos / Blogs / ...
+  >
 - [ToolLearningPapers](https://github.com/thunlp/ToolLearningPapers)
 
   > Must-read papers on tool learning with foundation models
