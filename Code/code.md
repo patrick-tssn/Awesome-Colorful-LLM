@@ -12,3 +12,5 @@ Table of Contents
 | OpenAI Codex |                     | [blog](https://openai.com/blog/openai-codex) |             |          | OpenAI      |
 
 ## Reference
+
+- [Awesome-Code-LLM](https://github.com/huybery/Awesome-Code-LLM), An awesome and curated list of best code-LLM for research.

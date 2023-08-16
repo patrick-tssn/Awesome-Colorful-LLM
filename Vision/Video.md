@@ -128,3 +128,7 @@ Table of Contents
 | STAR: A Benchmark for Situated Reasoning in Real-World Videos                                                  | Video QA                 | 12s      | open         | [Star](https://github.com/csbobby/STAR_Benchmark)                                               | NIPS 2021   |
 | Env-QA: A Video Question Answering Benchmark for Comprehensive Understanding of Dynamic Environments           | Video QA                 | 20s      | virtual env. | [Env-QA](https://envqa.github.io/)                                                              | ICCV 2021   |
 | Social-IQ: A Question Answering Benchmark for Artificial Social Intelligence                                   | Video QA                 | 60s      | open         | [Social-IQ](https://www.thesocialiq.com/)                                                       | CVPR 2019   |
+
+## Projects & Tools
+
+- [Awesome-Video-Object-Segmentation](https://github.com/gaomingqi/Awesome-Video-Object-Segmentation), A curated list of video object segmentation (vos) papers, datasets, and projects.

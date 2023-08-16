@@ -74,6 +74,7 @@ Table of Contents
 
 ### Datasets
 
+- [VisIT-Bench](https://visit-bench.github.io/)
 - [ScienceQA](https://github.com/lupantech/ScienceQA)
 - [VCoT](https://arxiv.org/abs/2305.02317)
 - [VIP](https://arxiv.org/abs/2305.13903)
