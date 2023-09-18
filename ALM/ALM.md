@@ -69,6 +69,8 @@ Reading List
   - [website](https://bibigpt.co/)
 
 ## Reference
+- [LLM-Agent-Paper-List](https://github.com/WooooDyy/LLM-Agent-Paper-List)
+  > In this repository, we provide a systematic and comprehensive survey on LLM-based agents, and list some must-read papers.
 
 - [XLang Paper Reading](https://github.com/xlang-ai/xlang-paper-reading)
 
