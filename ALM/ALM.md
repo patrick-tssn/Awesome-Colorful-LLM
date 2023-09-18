@@ -11,6 +11,7 @@ Table of Contents
 
 Survey
 
+- (2023-09) The Rise and Potential of Large Language Model Based Agents: A Survey [paper](https://arxiv.org/abs/2309.07864)
 - (2023-08) Automatically Correcting Large Language Models: Surveying the landscape of diverse self-correction strategies [paper](https://arxiv.org/abs/2308.03188)
 - (2023-06) LLM Powered Autonomous Agents [blog](https://lilianweng.github.io/posts/2023-06-23-agent/)
 - (2023-04) Tool Learning with Foundation Models [paper](https://arxiv.org/abs/2304.08354), [BMTools](https://github.com/OpenBMB/BMTools)
