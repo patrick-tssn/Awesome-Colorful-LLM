@@ -45,6 +45,7 @@ Reading List
 | Toolformer: Language Models Can Teach Themselves to Use Tools                                                              | GPT-J, OPT, GPT3   | [Toolformer (Unofficial)](https://github.com/lucidrains/toolformer-pytorch)       |             | [2302.04761](https://arxiv.org/abs/2302.04761) | Meta          |
 | Visual Programming: Compositional visual reasoning without training                                                        | GPT3               | [VisProg](https://github.com/allenai/visprog)                                     | CVPR 2023   | [2211.11559](https://arxiv.org/abs/2211.11559) | AI2           |
 | Decomposed Prompting: A Modular Approach for Solving Complex Tasks                                                         | GPT3               | [DecomP](https://github.com/allenai/DecomP)                                       | ICLR 2023   | [2210.02406](https://arxiv.org/abs/2210.02406) | AI2           |
+| TALM: Tool Augmented Language Models |  | | | [2205.12255](https://arxiv.org/abs/2205.12255) | Google |
 
 ### Projects
 
