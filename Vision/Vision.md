@@ -4,6 +4,7 @@ Table of Contents
 
 - [Image](#image)
 - [Video](#video)
+- [3D](#3d)
 - [Tutorials](#tutorials)
 - [Reference](#reference)
   - [Model](#model)
@@ -31,6 +32,12 @@ Collection of works (Reading list, open source collections, etc.) about Video-La
 > - Benchmarks
 >   - Common Downstream Tasks
 >   - Advanced Downstream Tasks
+
+## 3D
+
+Collection of works (Reading list, open source collections, etc.) about 3D+LLM, see [3D](3D.md) for details
+
+> - Reading List
 
 ## Tutorials
 
