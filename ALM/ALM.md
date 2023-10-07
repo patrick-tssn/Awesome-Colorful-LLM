@@ -11,6 +11,7 @@ Table of Contents
 
 Survey
 
+- (2023-09) The Rise and Potential of Large Language Model Based Agents: A Survey [paper](https://arxiv.org/abs/2309.07864)
 - (2023-08) Automatically Correcting Large Language Models: Surveying the landscape of diverse self-correction strategies [paper](https://arxiv.org/abs/2308.03188)
 - (2023-06) LLM Powered Autonomous Agents [blog](https://lilianweng.github.io/posts/2023-06-23-agent/)
 - (2023-04) Tool Learning with Foundation Models [paper](https://arxiv.org/abs/2304.08354), [BMTools](https://github.com/OpenBMB/BMTools)
@@ -44,6 +45,7 @@ Reading List
 | Toolformer: Language Models Can Teach Themselves to Use Tools                                                              | GPT-J, OPT, GPT3   | [Toolformer (Unofficial)](https://github.com/lucidrains/toolformer-pytorch)       |             | [2302.04761](https://arxiv.org/abs/2302.04761) | Meta          |
 | Visual Programming: Compositional visual reasoning without training                                                        | GPT3               | [VisProg](https://github.com/allenai/visprog)                                     | CVPR 2023   | [2211.11559](https://arxiv.org/abs/2211.11559) | AI2           |
 | Decomposed Prompting: A Modular Approach for Solving Complex Tasks                                                         | GPT3               | [DecomP](https://github.com/allenai/DecomP)                                       | ICLR 2023   | [2210.02406](https://arxiv.org/abs/2210.02406) | AI2           |
+| TALM: Tool Augmented Language Models | T5 | | | [2205.12255](https://arxiv.org/abs/2205.12255) | Google |
 
 ### Projects
 
@@ -69,6 +71,8 @@ Reading List
   - [website](https://bibigpt.co/)
 
 ## Reference
+- [LLM-Agent-Paper-List](https://github.com/WooooDyy/LLM-Agent-Paper-List)
+  > In this repository, we provide a systematic and comprehensive survey on LLM-based agents, and list some must-read papers.
 
 - [XLang Paper Reading](https://github.com/xlang-ai/xlang-paper-reading)
 
