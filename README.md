@@ -18,6 +18,7 @@ Collection of works about image/video/3D+LLM, see [Vision](Vision/Vision.md) for
 
 > - Image
 > - Video
+> - 3D
 > - Tutorials
 > - Reference
 >   - Model
