@@ -47,7 +47,7 @@ Reading List
 
 ### Projects
 
-- (2023-)[AI-Town](https://github.com/a16z-infra/ai-town), AI Town is a virtual town where AI characters live, chat and socialize.
+- (2023-08)[AI-Town](https://github.com/a16z-infra/ai-town), AI Town is a virtual town where AI characters live, chat and socialize.
 - (2023-08) [XLang](https://github.com/xlang-ai/xlang), An open-source framework for building and evaluating language model agents via executable language grounding
   - [homepage](https://www.xlang.ai/)
 - (2023-06) [Gentopia](https://github.com/Gentopia-AI/Gentopia), Gentopia is a lightweight and extensible framework for LLM-driven Agents and [ALM](https://arxiv.org/abs/2302.07842) research.
