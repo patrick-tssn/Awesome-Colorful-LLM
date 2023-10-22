@@ -4,11 +4,11 @@ Table of Contents
 
 - [Image Understanding](#image-understanding)
   - [Reading List](#reading-list)
-  - [Datasets &amp; Benchmarks](#datasets--benchmarks)
+  - [Datasets & Benchmarks](#datasets--benchmarks)
 - [Image Generation](#image-generation)
   - [Reading List](#reading-list-1)
   - [Other Resources](#other-resources)
-- [Open Source Projects]()
+- [Open Source Projects](#open-source-projects)
 
 ## Image Understanding
 
