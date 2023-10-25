@@ -50,6 +50,9 @@ Collection of works (Reading list, open source collections, etc.) about 3D+LLM, 
 
 ### Model:
 
+- [VLM_survey](https://github.com/jingyi0000/VLM_survey)
+  > This is the repository of [Vision Language Models for Vision Tasks: a Survey](https://arxiv.org/abs/2304.00685), a systematic survey of VLM studies in various visual recognition tasks including image classification, object detection, semantic segmentation, etc. 
+
 - [Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
 
   > A curated list of Multimodal Large Language Models (MLLMs), including datasets, multimodal instruction tuning, multimodal in-context learning, multimodal chain-of-thought, llm-aided visual reasoning, foundation models, and others. This list will be updated in real time.
@@ -66,6 +69,16 @@ Collection of works (Reading list, open source collections, etc.) about 3D+LLM, 
 
   > A curated list of awesome vision and language resources
   >
+
+- [Awesome-Multimodal-Research](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research)
+
+  > This repo is reorganized from Awesome-Multimodal-ML
+  >
+- [Awesome-Multimodal-ML](https://github.com/pliang279/awesome-multimodal-ml)
+
+  > Reading list for research topics in multimodal machine learning
+  >
+
 - [Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models)
 
   > This repository contains a collection of resources and papers on Diffusion Models

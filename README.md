@@ -37,7 +37,7 @@ Collection of works about audio+LLM, see [Robotic](Robotic/Robotic.md) for detai
 
 ## Augmented
 
-Collection of works about augmented language model / tool learning, see [ALM](ALM/ALM.md) for details
+Collection of works about augmented language model / tool / agent learning, see [ALM](ALM/ALM.md) for details
 
 > - Reading List
 > - Projects
@@ -50,19 +50,6 @@ Collection of works about code+LLM, see [Code](Code/code.md) for details.
 
 > - Reading List
 > - Reference
-
-## Reference
-
-- [Awesome-Multimodal-Research](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research)
-
-  > This repo is reorganized from Awesome-Multimodal-ML
-  >
-- [Awesome-Multimodal-ML](https://github.com/pliang279/awesome-multimodal-ml)
-
-  > Reading list for research topics in multimodal machine learning
-  >
-- [Jay Alammar's blog](https://jalammar.github.io/)
-- [科学空间](https://spaces.ac.cn/)
 
 ## Contributing
 
