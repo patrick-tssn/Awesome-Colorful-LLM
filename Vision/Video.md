@@ -19,6 +19,7 @@ Table of Contents
 | Paper                                                                                                                     | Base Language Model       | Framework                        | Data                                                                  | Code                                                                                                     | Publication         | Preprint                                    | Affiliation     |
 | ------------------------------------------------------------------------------------------------------------------------- | ------------------------- | -------------------------------- | --------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ------------------- | ------------------------------------------- | --------------- |
 | Video-LLaVA: Learning United Visual Representation by Alignment Before Projection                                         | Vicuna 1.5                | PT+FT                            | mixture                                                               | [Video-LLaVA](https://github.com/PKU-YuanGroup/Video-LLaVA)                                                 |                     | [2311.10122](https://arxiv.org/abs/2311.10122) | PKU             |
+| Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding               | Vicuna                    | PT+FT                            | mixture                                                               | [Chat-UniVi](https://github.com/PKU-YuanGroup/Chat-UniVi)                                                   |                     | [2311.08046](https://arxiv.org/abs/2311.08046) | PKU             |
 | LanguageBind: Extending Video-Language Pretraining to N-modality by Language-based Semantic Alignment                     | -                         | PT                               | mixture                                                               | [LanguageBind](https://github.com/PKU-YuanGroup/LanguageBind)                                               |                     | [2310.01852](https://arxiv.org/abs/2310.01852) | PKU             |
 | UniVTG: Towards Unified Video-Language Temporal Grounding                                                                 | CLIP                      | PT                               | mixture                                                               | [UniVTG](https://github.com/showlab/UniVTG)                                                                 | ICCV 2023           | [2307.16715](https://arxiv.org/abs/2307.16715) | NTU             |
 | MovieChat: From Dense Token to Sparse Memory for Long Video Understanding                                                 | Vicuna                    | FT                               |                                                                       | [MovieChat](https://github.com/rese1f/MovieChat)                                                            |                     | [2307.16449](https://arxiv.org/abs/2307.16449) | Microsoft       |
@@ -93,6 +94,13 @@ Table of Contents
 | CHAMPAGNE: Learning Real-world Conversation from Large-Scale Web Videos                              | 18M         | 60s      |           | open        | [YTD-18M](https://seungjuhan.me/champagne/)                                   |
 | Youku-mPLUG: A 10 Million Large-scale Chinese Video-Language Dataset for Pre-training and Benchmarks | 10 M        | 54.2s    | 10 M      | open        | [Youku-mPLUG](https://github.com/X-PLUG/Youku-mPLUG#download)                 |
 
+### Instructions
+
+| Dataset                                                                                              | Domain     | Source                         |
+| ---------------------------------------------------------------------------------------------------- | ---------- | ------------------------------ |
+| [Instruction from Video-ChatGPT](https://github.com/mbzuai-oryx/Video-ChatGPT/blob/main/data/README.md) | general QA | ActivityNet + Human Annotation |
+|                                                                                                      |            |                                |
+
 ## Benchmarks
 
 ### Common Downstream Tasks
@@ -120,6 +128,8 @@ Table of Contents
 
 ### Advanced Downstream Tasks
 
+#### Single Benchmarks
+
 | paper                                                                                                          | task                     | duration | domain       | link                                                                                         | publication |
 | -------------------------------------------------------------------------------------------------------------- | ------------------------ | -------- | ------------ | -------------------------------------------------------------------------------------------- | ----------- |
 | From Representation to Reasoning: Towards both Evidence and Commonsense Reasoning for Video Question-Answering | Video QA                 | 9s       | open         | [Causal-VidQA](https://github.com/bcmi/Causal-VidQA)                                            | CVPR 2022   |
@@ -130,6 +140,12 @@ Table of Contents
 | STAR: A Benchmark for Situated Reasoning in Real-World Videos                                                  | Video QA                 | 12s      | open         | [Star](https://github.com/csbobby/STAR_Benchmark)                                               | NIPS 2021   |
 | Env-QA: A Video Question Answering Benchmark for Comprehensive Understanding of Dynamic Environments           | Video QA                 | 20s      | virtual env. | [Env-QA](https://envqa.github.io/)                                                              | ICCV 2021   |
 | Social-IQ: A Question Answering Benchmark for Artificial Social Intelligence                                   | Video QA                 | 60s      | open         | [Social-IQ](https://www.thesocialiq.com/)                                                       | CVPR 2019   |
+
+#### Comprehensive Benchmarks
+
+| Benchmark                                                | Task                | Data    | Paper | Preprint | Publication | Affiliation |
+| -------------------------------------------------------- | ------------------- | ------- | ----- | -------- | ----------- | ----------- |
+| [Video-Bench](https://github.com/PKU-YuanGroup/Video-Bench) | MC (general domain) | mixture |       |          |             |             |
 
 ## Projects & Tools
 
