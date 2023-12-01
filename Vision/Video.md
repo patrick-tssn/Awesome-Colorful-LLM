@@ -1,14 +1,19 @@
+*Table of Contents*
+
+- [Video Understanding](#video-understanding)
+  - [Reading List](#reading-list)
+  - [Pretraining Tasks](#pretraining-tasks)
+  - [Datasets](#datasets)
+    - [Pretraining Corpora](#pretraining-corpora)
+    - [Video Instructions](#video-instructions)
+  - [Benchmarks](#benchmarks)
+    - [Common Downstream Tasks](#common-downstream-tasks)
+    - [Advanced Downstream Tasks](#advanced-downstream-tasks)
+      - [Task-Specific Benchmarks](#task-specific-benchmarks)
+      - [Multifaceted Benchmarks](#multifaceted-benchmarks)
+- [Video Generation]
+
 # Video Understanding
-
-Table of Contents
-
-- [Reading List](#reading-list)
-- [Pretraining Tasks](#pretraining-tasks)
-- [Datasets](#datasets)
-  - [Pretraining Corpora](#pretraining-corpora)
-- [Benchmarks](#benchmarks)
-  - [Common Downstream Tasks](#common-downstream-tasks)
-  - [Advanced Downstream Tasks](#advanced-downstream-tasks)
 
 ## Reading List
 
@@ -94,7 +99,7 @@ Table of Contents
 | CHAMPAGNE: Learning Real-world Conversation from Large-Scale Web Videos                              | 18M         | 60s      |           | open        | [YTD-18M](https://seungjuhan.me/champagne/)                                   |
 | Youku-mPLUG: A 10 Million Large-scale Chinese Video-Language Dataset for Pre-training and Benchmarks | 10 M        | 54.2s    | 10 M      | open        | [Youku-mPLUG](https://github.com/X-PLUG/Youku-mPLUG#download)                 |
 
-### Instructions
+### Video Instructions
 
 | Dataset                                                                                              | Domain     | Source                         |
 | ---------------------------------------------------------------------------------------------------- | ---------- | ------------------------------ |
@@ -128,7 +133,7 @@ Table of Contents
 
 ### Advanced Downstream Tasks
 
-#### Single Benchmarks
+#### Task-Specific Benchmarks
 
 | paper                                                                                                          | task                     | duration | domain       | link                                                                                         | publication |
 | -------------------------------------------------------------------------------------------------------------- | ------------------------ | -------- | ------------ | -------------------------------------------------------------------------------------------- | ----------- |
@@ -141,7 +146,7 @@ Table of Contents
 | Env-QA: A Video Question Answering Benchmark for Comprehensive Understanding of Dynamic Environments           | Video QA                 | 20s      | virtual env. | [Env-QA](https://envqa.github.io/)                                                              | ICCV 2021   |
 | Social-IQ: A Question Answering Benchmark for Artificial Social Intelligence                                   | Video QA                 | 60s      | open         | [Social-IQ](https://www.thesocialiq.com/)                                                       | CVPR 2019   |
 
-#### Comprehensive Benchmarks
+#### Multifaceted Benchmarks
 
 | Benchmark                                                | Task                | Data    | Paper | Preprint | Publication | Affiliation |
 | -------------------------------------------------------- | ------------------- | ------- | ----- | -------- | ----------- | ----------- |
@@ -150,3 +155,18 @@ Table of Contents
 ## Projects & Tools
 
 - [Awesome-Video-Object-Segmentation](https://github.com/gaomingqi/Awesome-Video-Object-Segmentation), A curated list of video object segmentation (vos) papers, datasets, and projects.
+
+# Video Generation
+
+## Reading List
+
+Survey
+
+- (2023-10) A Survey on Video Diffusion Models  [paper](https://arxiv.org/abs/2310.10647)  [repo](https://github.com/ChenHsing/Awesome-Video-Diffusion-Models)
+
+Reading List
+
+| Paper                                                                             | Base Structure      | Data           | Code                                       | Publication | Preprint                                    | Affiliation |
+| --------------------------------------------------------------------------------- | ------------------- | --------- | -------------- | ------------------------------------------ | ----------- | ------------------------------------------- | ----------- |
+| VideoDirectorGPT: Consistent Multi-scene Video Generation via LLM-Guided Planning | GPT4 + UNet         |                     |           [VideoDirectorGPT](https://github.com/HL-hanlin/VideoDirectorGPT)                                 |             |                     [2309.15091](https://arxiv.org/abs/2309.15091)                        |      UNC       |
+| CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers   | Transformer + VQVAE      | self-construct | [CogVideo](https://github.com/THUDM/CogVideo) |             | [2205.15868](https://arxiv.org/abs/2205.15868) | THU         |
