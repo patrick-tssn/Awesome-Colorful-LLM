@@ -11,7 +11,8 @@
     - [Advanced Downstream Tasks](#advanced-downstream-tasks)
       - [Task-Specific Benchmarks](#task-specific-benchmarks)
       - [Multifaceted Benchmarks](#multifaceted-benchmarks)
-- [Video Generation]
+- [Video Generation](#video-generation)
+  - [Reading List](#reading-list-1)
 
 # Video Understanding
 
