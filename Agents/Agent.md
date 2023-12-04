@@ -71,6 +71,7 @@ Reading List
 
 ### Applications
 
+- (2023-11) [Awesome-AI-GPTs](https://github.com/EmbraceAGI/Awesome-AI-GPTs), 欢迎来到 EmbraceAGI GPTs 开源目录，本项目收录了 OpenAI GPTs 的相关资源和有趣玩法，让我们一起因 AI 而强大
 - (2023-04) [众评AI](https://www.zhongpingtechnology.com/#), 全球AI网站排行榜展示了人工智能领域最顶尖的1800+个网站，排行榜每日更新
 - (2023-03) [ChatPaper](https://github.com/kaixindelele/ChatPaper), Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文总结+润色+审稿+审稿回复
   - [website](https://chatwithpaper.org/)
