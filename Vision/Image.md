@@ -4,7 +4,7 @@ Table of Contents
 
 - [Image Understanding](#image-understanding)
   - [Reading List](#reading-list)
-  - [Datasets & Benchmarks](#datasets--benchmarks)
+  - [Datasets &amp; Benchmarks](#datasets--benchmarks)
 - [Image Generation](#image-generation)
   - [Reading List](#reading-list-1)
   - [Other Resources](#other-resources)
@@ -120,6 +120,8 @@ Table of Contents
 
 ## Open Source Projects
 
+- [multimodal-maestro](https://github.com/roboflow/multimodal-maestro), Effective prompting for Large Multimodal Models like GPT-4 Vision or LLaVA.
+  - *by roboflow, 2023.11*
 - [VisCPM](https://github.com/OpenBMB/VisCPM), VisCPM is a family of open-source large multimodal models, which support multimodal conversational capabilities (VisCPM-Chat model) and text-to-image generation capabilities (VisCPM-Paint model) in both Chinese and English
   - *by THU, 2023.07*
   - model: [VisCPM-Chat](https://github.com/OpenBMB/VisCPM#%E6%A8%A1%E5%9E%8B%E4%B8%8B%E8%BD%BD), [VisCPM-Paint](https://github.com/OpenBMB/VisCPM#%E6%A8%A1%E5%9E%8B%E4%B8%8B%E8%BD%BD)

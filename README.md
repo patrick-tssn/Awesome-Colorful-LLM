@@ -1,14 +1,14 @@
 # Awesome-Colorful Large Language Model [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of Large Language Model ➕ Vision/Audio/Robotic and Augmented Language Model (action, reasoning).
+A curated list of Large Language Model ➕ Vision/Audio/Code, Agent (profile, memory, planning, action) and Robotic. Possible commercial applications.
 
 Table of Contents
 
 - [Vision](#vision)
 - [Audio](#audio)
-- [Robotic](#robotic)
-- [Augmented](#augmented)
 - [Code](#code)
+- [Robotic](#robotic)
+- [Agent](#agent)
 - [Reference](#reference)
 - [Contributing](#contributing)
 
@@ -28,25 +28,25 @@ Collection of works about image/video/3D+LLM, see [Vision](Vision/Vision.md) for
 
 Collection of works about audio+LLM, see [Audio](Audio/Audio.md) for details
 
-## Robotic
+## Code
 
-Collection of works about audio+LLM, see [Robotic](Robotic/Robotic.md) for details
+Collection of works about code+LLM, see [Code](Code/code.md) for details.
 
 > - Reading List
 > - Reference
 
-## Augmented
+## Agent
 
-Collection of works about augmented language model / tool / agent learning, see [ALM](ALM/ALM.md) for details
+Collection of works about agent learning, see [Agent](Agents/Agent.md) for details
 
 > - Reading List
 > - Projects
 > - Applications
 > - Reference
 
-## Code
+## Robotic
 
-Collection of works about code+LLM, see [Code](Code/code.md) for details.
+Collection of works about audio+LLM, see [Robotic](Robotic/Robotic.md) for details
 
 > - Reading List
 > - Reference

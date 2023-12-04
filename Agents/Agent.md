@@ -1,4 +1,6 @@
-# Augmented Language Model
+# Agents
+
+*This part records LLMs as Agents: Brain, Perception, Tools*
 
 Table of Contents
 
@@ -23,6 +25,7 @@ Reading List
 
 | Paper                                                                                                                      | LLM                | Code                                                                           | Publication | Preprint                                    | Affiliation   |
 | -------------------------------------------------------------------------------------------------------------------------- | ------------------ | ------------------------------------------------------------------------------ | ----------- | ------------------------------------------- | ------------- |
+| AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation                                                   |                    | [AutoGen](https://github.com/microsoft/autogen)                                   |             | [2308.08155](https://arxiv.org/abs/2308.08155) | Microsoft     |
 | AgentBench: Evaluating LLMs as Agents                                                                                      | open               | [AgentBench](https://github.com/THUDM/AgentBench)                                 |             | [2308.03688](https://arxiv.org/abs/2308.03688) | THU           |
 | ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs                                               | open               | [ToolBench](https://github.com/OpenBMB/ToolBench)                                 |             | [2307.16789](https://arxiv.org/abs/2307.16789) | THU           |
 | AssistGPT: A General Multi-modal Assistant that can Plan, Execute, Inspect, and Learn                                      | ChatGPT            | [AssistGPT](https://github.com/COOORN/AssistGPT)                                  |             | [2306.08640](https://arxiv.org/abs/2306.08640) | NUS           |
@@ -45,14 +48,15 @@ Reading List
 | Toolformer: Language Models Can Teach Themselves to Use Tools                                                              | GPT-J, OPT, GPT3   | [Toolformer (Unofficial)](https://github.com/lucidrains/toolformer-pytorch)       |             | [2302.04761](https://arxiv.org/abs/2302.04761) | Meta          |
 | Visual Programming: Compositional visual reasoning without training                                                        | GPT3               | [VisProg](https://github.com/allenai/visprog)                                     | CVPR 2023   | [2211.11559](https://arxiv.org/abs/2211.11559) | AI2           |
 | Decomposed Prompting: A Modular Approach for Solving Complex Tasks                                                         | GPT3               | [DecomP](https://github.com/allenai/DecomP)                                       | ICLR 2023   | [2210.02406](https://arxiv.org/abs/2210.02406) | AI2           |
-| TALM: Tool Augmented Language Models | T5 | | | [2205.12255](https://arxiv.org/abs/2205.12255) | Google |
+| TALM: Tool Augmented Language Models                                                                                       | T5                 |                                                                                |             | [2205.12255](https://arxiv.org/abs/2205.12255) | Google        |
 
 ### Projects
 
-- (2023-08)[AI-Town](https://github.com/a16z-infra/ai-town), AI Town is a virtual town where AI characters live, chat and socialize.
+- (2023-11) [WarAgent](https://github.com/agiresearch/WarAgent), Large Language Model-based Multi-Agent Simulation of World Wars
+- (2023-08) [AI-Town](https://github.com/a16z-infra/ai-town), AI Town is a virtual town where AI characters live, chat and socialize
 - (2023-08) [XLang](https://github.com/xlang-ai/xlang), An open-source framework for building and evaluating language model agents via executable language grounding
   - [homepage](https://www.xlang.ai/)
-- (2023-06) [Gentopia](https://github.com/Gentopia-AI/Gentopia), Gentopia is a lightweight and extensible framework for LLM-driven Agents and [ALM](https://arxiv.org/abs/2302.07842) research.
+- (2023-06) [Gentopia](https://github.com/Gentopia-AI/Gentopia), Gentopia is a lightweight and extensible framework for LLM-driven Agents and [ALM](https://arxiv.org/abs/2302.07842) research
   - [paper](https://arxiv.org/abs/2308.04030)
 - (2023-05) [Tranformers Agent](https://huggingface.co/docs/transformers/en/transformers_agents), Transformers Agent is an experimental API which is subject to change at any time
 - (2023-05)  [闻达](https://github.com/l15y/wenda), 一个LLM调用平台。目标为针对特定环境的高效内容生成，同时考虑个人和中小企业的计算资源局限性，以及知识安全和私密性问题
@@ -62,18 +66,23 @@ Reading List
   - [demo](https://agpt.co/)
 - (2023-04) [BabyAGI](https://github.com/yoheinakajima/babyagi), The system uses OpenAI and vector databases such as Chroma or Weaviate to create, prioritize, and execute tasks
   - [blog](https://twitter.com/yoheinakajima/status/1640934493489070080?s=20)
+- (2022-10) [LangChain](https://github.com/langchain-ai/langchain), LangChain is a framework for developing applications powered by language models. It enables applications that: **(i) Are context-aware**: connect a language model to sources of context (prompt instructions, few shot examples, content to ground its response in, etc.) **(ii) Reason**: rely on a language model to reason (about how to answer based on provided context, what actions to take, etc.)
+  - [Doc](https://python.langchain.com/docs/get_started/introduction)
 
 ### Applications
 
+- (2023-04) [众评AI](https://www.zhongpingtechnology.com/#), 全球AI网站排行榜展示了人工智能领域最顶尖的1800+个网站，排行榜每日更新
 - (2023-03) [ChatPaper](https://github.com/kaixindelele/ChatPaper), Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文总结+润色+审稿+审稿回复
   - [website](https://chatwithpaper.org/)
 - (2023-03) [BibiGPT](https://github.com/JimmyLv/BibiGPT), BibiGPT · 1-Click AI Summary for Audio/Video & Chat with Learning Content: Bilibili | YouTube | Tweet丨TikTok丨Local files | Websites丨Podcasts | Meetings | Lectures, etc. 音视频内容 AI 一键总结 & 对话：哔哩哔哩丨YouTube丨推特丨小红书丨抖音丨网页丨播客丨会议丨本地文件等 (原 BiliGPT 省流神器 & 课代表)
   - [website](https://bibigpt.co/)
 
 ## Reference
-- [LLM-Agent-Paper-List](https://github.com/WooooDyy/LLM-Agent-Paper-List)
-  > In this repository, we provide a systematic and comprehensive survey on LLM-based agents, and list some must-read papers.
 
+- [LLM-Agent-Paper-List](https://github.com/WooooDyy/LLM-Agent-Paper-List)
+
+  > In this repository, we provide a systematic and comprehensive survey on LLM-based agents, and list some must-read papers.
+  >
 - [XLang Paper Reading](https://github.com/xlang-ai/xlang-paper-reading)
 
   > Paper collection on building and evaluating language model agents via executable language grounding
