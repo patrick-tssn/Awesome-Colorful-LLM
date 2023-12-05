@@ -7,8 +7,8 @@ Table of Contents
 - [Vision](#vision)
 - [Audio](#audio)
 - [Code](#code)
-- [Robotic](#robotic)
 - [Agent](#agent)
+- [Robotic](#robotic)
 - [Reference](#reference)
 - [Contributing](#contributing)
 
