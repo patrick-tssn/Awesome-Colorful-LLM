@@ -17,6 +17,9 @@ Table of Contents
 
 ## Reference
 
+- [Awesome-Robotics-Foundation-Models](https://github.com/robotics-survey/Awesome-Robotics-Foundation-Models)
+  > This is the partner repository for the survey paper "Foundation Models in Robotics: Applications, Challenges, and the Future". The authors hope this repository can act as a quick reference for roboticists who wish to read the relevant papers and implement the associated methods. 
+
 - [Awesome-TimeSeries-SpatioTemporal-LM-LLM](https://github.com/qingsongedu/Awesome-TimeSeries-SpatioTemporal-LM-LLM)
   > A professionally curated list of **Large (Language) Models and Foundation Models (LLM, LM, FM) for Temporal Data (Time Series, Spatio-temporal, and Event Data)** with awesome resources (paper, code, data, etc.), which aims to comprehensively and systematically summarize the recent advances to the best of our knowledge.
   >
