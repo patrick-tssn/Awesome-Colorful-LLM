@@ -80,6 +80,9 @@ Reading List
 
 ## Reference
 
+- [LLMAgentPapers](https://github.com/zjunlp/LLMAgentPapers)
+  > Must-read Papers on Large Language Model Agents.
+
 - [LLM-Agent-Paper-List](https://github.com/WooooDyy/LLM-Agent-Paper-List)
 
   > In this repository, we provide a systematic and comprehensive survey on LLM-based agents, and list some must-read papers.
