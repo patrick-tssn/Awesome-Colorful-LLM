@@ -80,6 +80,9 @@ Reading List
 
 ## Reference
 
+- [LLM-Agent-Paper-Digest](https://github.com/XueyangFeng/LLM-Agent-Paper-Digest)
+  > For benefiting the research community and promoting LLM-powered agent direction, we organize papers related to LLM-powered agent that published on top conferences recently
+
 - [LLMAgentPapers](https://github.com/zjunlp/LLMAgentPapers)
   > Must-read Papers on Large Language Model Agents.
 
