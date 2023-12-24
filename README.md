@@ -131,7 +131,7 @@ Related Collections
 
 ## 🤖 Robotic
 
-Collection of works about audio+LLM, see [Robotic](Robotic/Robotic.md) for details
+Collection of works about robotics+LLM, see [Robotic](Robotic/Robotic.md) for details
 
 > - Reading List
 
