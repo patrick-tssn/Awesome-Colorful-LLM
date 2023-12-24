@@ -19,7 +19,7 @@ Welcome to our meticulously assembled anthology of vibrant multimodal research, 
 - [🔧 Agent](#-agent)
 - [🤖 Robotic](#-robotic)
 - [🔬 Science](#-science)
-    - [Math](#-ai-for-math)
+    - [Math](#%EF%B8%8F-ai-for-math)
 - [🙌 Contributing](#contributing)
 
 ## 👀 Vision
