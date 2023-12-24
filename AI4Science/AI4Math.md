@@ -1,4 +1,4 @@
-# Code
+# AI for Mathematics
 
 Table of Contents
 
@@ -8,4 +8,4 @@ Table of Contents
 
 | Paper        | Base Language Model | Code                                      | Publication | Preprint | Affiliation |
 | ------------ | ------------------- | ----------------------------------------- | ----------- | -------- | ----------- |
-| OpenAI Codex |                     | [blog](https://openai.com/blog/openai-codex) |             |          | OpenAI      |
+| G-LLaVA: Solving Geometric Problem with Multi-Modal Large Language Model |           LLaMA (LLaVA)          | [G-LLaVA](https://github.com/pipilurj/G-LLaVA) |          |     [2312.11370](https://arxiv.org/abs/2312.11370)        | HUAWEI      |

@@ -7,7 +7,6 @@ Table of Contents
 - [Reading List](#reading-list)
 - [Projects](#projects)
 - [Applications](#applications)
-- [Reference](#reference)
 
 ## Reading List
 
@@ -77,41 +76,3 @@ Reading List
   - [website](https://chatwithpaper.org/)
 - (2023-03) [BibiGPT](https://github.com/JimmyLv/BibiGPT), BibiGPT · 1-Click AI Summary for Audio/Video & Chat with Learning Content: Bilibili | YouTube | Tweet丨TikTok丨Local files | Websites丨Podcasts | Meetings | Lectures, etc. 音视频内容 AI 一键总结 & 对话：哔哩哔哩丨YouTube丨推特丨小红书丨抖音丨网页丨播客丨会议丨本地文件等 (原 BiliGPT 省流神器 & 课代表)
   - [website](https://bibigpt.co/)
-
-## Reference
-
-- [LLM-Agent-Paper-Digest](https://github.com/XueyangFeng/LLM-Agent-Paper-Digest)
-  > For benefiting the research community and promoting LLM-powered agent direction, we organize papers related to LLM-powered agent that published on top conferences recently
-
-- [LLMAgentPapers](https://github.com/zjunlp/LLMAgentPapers)
-  > Must-read Papers on Large Language Model Agents.
-
-- [LLM-Agent-Paper-List](https://github.com/WooooDyy/LLM-Agent-Paper-List)
-
-  > In this repository, we provide a systematic and comprehensive survey on LLM-based agents, and list some must-read papers.
-  >
-- [XLang Paper Reading](https://github.com/xlang-ai/xlang-paper-reading)
-
-  > Paper collection on building and evaluating language model agents via executable language grounding
-  >
-- [Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps)
-
-  > An awesome & curated list of best LLMOps tools for developers
-  >
-- [Awesome LLM-Powered Agent](https://github.com/hyp1231/awesome-llm-powered-agent)
-
-  > Awesome things about LLM-powered agents. Papers / Repos / Blogs / ...
-  >
-- [ToolLearningPapers](https://github.com/thunlp/ToolLearningPapers)
-
-  > Must-read papers on tool learning with foundation models
-  >
-- [LLM Tool Use Papers](https://github.com/xlang-ai/llm-tool-use)
-
-  > Paper collection on LLM tool use and code generation covered in the ACL tutorial on complex reasoning
-  >
-- [Awesome-ALM](https://github.com/pbhu1024/awesome-augmented-language-model)
-
-  > This repo collect research papers about leveraging the capabilities of language models, which can be a good reference for building upper-layer applications
-  >
-- [LLM-powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/), Overview: panning, memory, tool use

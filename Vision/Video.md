@@ -1,3 +1,5 @@
+# Video Understanding
+
 *Table of Contents*
 
 - [Video Understanding](#video-understanding)
@@ -14,7 +16,6 @@
 - [Video Generation](#video-generation)
   - [Reading List](#reading-list-1)
 
-# Video Understanding
 
 ## Reading List
 
