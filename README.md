@@ -6,7 +6,7 @@
     </a>
 </p>
 
-Welcome to our meticulously assembled anthology of vibrant multimodal research, encompassing an array of domains including **Vision**, **Audio**, **Code**, **Agent**, **Robotics**, and **Fundamental Sciences** such as Mathematics. Our collection primarily focuses on the advancements propelled by **large language models (LLMs)**, complemented by an assortment of related collections.
+Welcome to our meticulously assembled anthology of vibrant multimodal research, encompassing an array of domains including **Vision**, **Audio**, **Agent**, **Robotics**, and **Fundamental Sciences** such as Mathematics. Our collection primarily focuses on the advancements propelled by **large language models (LLMs)**, complemented by an assortment of related collections.
 
 ## Table of Contents
 
@@ -15,7 +15,6 @@ Welcome to our meticulously assembled anthology of vibrant multimodal research, 
     - [Video](#-video)
     - [3D](#-3d)
 - [👂 Audio](#-audio)
-- [💻 Code](#-code)
 - [🔧 Agent](#-agent)
 - [🤖 Robotic](#-robotic)
 - [🔬 Science](#-science)
@@ -99,15 +98,6 @@ Related Collections
 
 - [Audio-AI-Timeline](https://github.com/archinetai/audio-ai-timeline) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/archinetai/audio-ai-timeline?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/archinetai/audio-ai-timeline.svg?style=social&label=Star), Here we will keep track of the latest AI models for waveform based audio generation, starting in 2023!
 
-## 💻 Code
-
-Collection of works about code+LLM, see [Code](Code/code.md) for details.
-
-> - Reading List
-
-Related Collections
-
-- [Awesome-Code-LLM](https://github.com/huybery/Awesome-Code-LLM) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/huybery/Awesome-Code-LLM?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/huybery/Awesome-Code-LLM.svg?style=social&label=Star), An awesome and curated list of best code-LLM for research.
 
 ## 🔧 Agent
 
