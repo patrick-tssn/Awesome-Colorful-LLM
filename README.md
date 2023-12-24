@@ -10,16 +10,16 @@ Welcome to our meticulously assembled anthology of vibrant multimodal research, 
 
 ## Table of Contents
 
-- [👀 Vision](#👀-vision)
-    - [Image](#🖼-image)
-    - [Video](#📺-video)
-    - [3D](#📷-3d)
-- [👂 Audio](#👂-audio)
-- [💻 Code](#💻-code)
-- [🔧 Agent](#🔧-agent)
-- [🤖 Robotic](#🤖-robotic)
-- [🔬 Science](#🔬-science)
-    - [Math](#♾️-ai-for-math)
+- [👀 Vision](#-vision)
+    - [Image](#-image)
+    - [Video](#-video)
+    - [3D](#-3d)
+- [👂 Audio](#-audio)
+- [💻 Code](#-code)
+- [🔧 Agent](#-agent)
+- [🤖 Robotic](#-robotic)
+- [🔬 Science](#-science)
+    - [Math](#-ai-for-math)
 - [🙌 Contributing](#contributing)
 
 ## 👀 Vision
