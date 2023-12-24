@@ -7,7 +7,6 @@ Table of Contents
   - [Datasets &amp; Benchmarks](#datasets--benchmarks)
 - [Image Generation](#image-generation)
   - [Reading List](#reading-list-1)
-  - [Other Resources](#other-resources)
 - [Open Source Projects](#open-source-projects)
 
 ## Image Understanding
@@ -120,11 +119,7 @@ Table of Contents
 | Accountable Textual-Visual Chat Learns to Reject Human Instructions in Image Re-creation                 | ChatGPT,*VAE*         | [Accountable Textual Visual Chat](https://github.com/matrix-alpha/Accountable-Textual-Visual-Chat) |             | [2303.05983](https://arxiv.org/abs/2303.05983) | CUHK            |
 | Denoising Diffusion Probabilistic Models                                                                 | *Diffusion*           | [diffusion](https://github.com/hojonathanho/diffusion)                                             |             | [2006.11239](https://arxiv.org/abs/2006.11239) | UCB             |
 
-### Other resources
-
-[Awesome-VQVAE](https://github.com/rese1f/Awesome-VQVAE), A collection of resources and papers on Vector Quantized Variational Autoencoder (VQ-VAE) and its application
-
-## Open Source Projects
+## Open-source Projects
 
 - [multimodal-maestro](https://github.com/roboflow/multimodal-maestro), Effective prompting for Large Multimodal Models like GPT-4 Vision or LLaVA.
   - *by roboflow, 2023.11*
