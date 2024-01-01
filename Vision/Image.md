@@ -110,6 +110,7 @@ Table of Contents
 
 | Paper                                                                                                    | Base Language Model     | Code                                                                                            | Publication | Preprint                                    | Affiliation     |
 | -------------------------------------------------------------------------------------------------------- | ----------------------- | ----------------------------------------------------------------------------------------------- | ----------- | ------------------------------------------- | --------------- |
+| AnyText: Multilingual Visual Text Generation And Editing                                                 | *ControlNet* (OCR)    | [AnyText](https://github.com/tyxsspa/AnyText)                                                      |             | [2311.03054](https://arxiv.org/abs/2311.03054) | Alibaba         |
 | NExT-GPT: Any-to-Any Multimodal LLM                                                                      | Vicuna-7B,*Diffusion* | [NExT-GPT](https://github.com/NExT-GPT/NExT-GPT)                                                   |             | [2309.05519](https://arxiv.org/abs/2309.05519) | NUS             |
 | Generative Pretraining in Multimodality                                                                  | LLaMA，*Diffusion*    | [Emu](https://github.com/baaivision/Emu)                                                           |             | [2307.05222](https://arxiv.org/abs/2307.05222) | BAAI            |
 | SPAE: Semantic Pyramid AutoEncoder for Multimodal Generation with Frozen LLMs                            | PaLM2, GPT3.5           |                                                                                                 |             | [2306.17842](https://arxiv.org/abs/2306.17842) | Google          |
@@ -122,7 +123,7 @@ Table of Contents
 
 ## Open-source Projects
 
-- [Gemini-vs-GPT4V](https://github.com/Qi-Zhangyang/Gemini-vs-GPT4V), This paper presents an in-depth qualitative comparative study of two pioneering models: Google's Gemini and OpenAI's GPT-4V(ision). 
+- [Gemini-vs-GPT4V](https://github.com/Qi-Zhangyang/Gemini-vs-GPT4V), This paper presents an in-depth qualitative comparative study of two pioneering models: Google's Gemini and OpenAI's GPT-4V(ision).
 - [multimodal-maestro](https://github.com/roboflow/multimodal-maestro), Effective prompting for Large Multimodal Models like GPT-4 Vision or LLaVA.
   - *by roboflow, 2023.11*
 - [VisCPM](https://github.com/OpenBMB/VisCPM), VisCPM is a family of open-source large multimodal models, which support multimodal conversational capabilities (VisCPM-Chat model) and text-to-image generation capabilities (VisCPM-Paint model) in both Chinese and English
