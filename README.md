@@ -76,6 +76,9 @@ Related Collections (datasets)
 
 - [Awesome-Video-Datasets](https://github.com/xiaobai1217/Awesome-Video-Datasets#Video-and-Language) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/xiaobai1217/Awesome-Video-Datasets?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/xiaobai1217/Awesome-Video-Datasets.svg?style=social&label=Star)
 
+Related Collections (understanding)
+- [Awesome-LLMs-for-Video-Understanding](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/yunlong10/Awesome-LLMs-for-Video-Understanding?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/yunlong10/Awesome-LLMs-for-Video-Understanding.svg?style=social&label=Star), Latest Papers, Codes and Datasets on Vid-LLMs.
+
 Related Collections (generation)
 - [i2vgen-xl](https://github.com/damo-vilab/i2vgen-xl) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/damo-vilab/i2vgen-xl?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/damo-vilab/i2vgen-xl.svg?style=social&label=Star), VGen is an open-source video synthesis codebase developed by the Tongyi Lab of Alibaba Group, featuring state-of-the-art video generative models.
 
