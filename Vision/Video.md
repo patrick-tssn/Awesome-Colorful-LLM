@@ -15,6 +15,7 @@
       - [Multifaceted Benchmarks](#multifaceted-benchmarks)
 - [Video Generation](#video-generation)
   - [Reading List](#reading-list-1)
+  - [Projects](#projects)
 
 ## Reading List
 
@@ -174,3 +175,8 @@ Reading List
 | MotionDirector: Motion Customization of Text-to-Video Diffusion Models            | *Diffusion*           |                | [MotionDirector](https://github.com/showlab/MotionDirector)       |             | [2310.08465](https://arxiv.org/abs/2310.08465) | NUS         |
 | VideoDirectorGPT: Consistent Multi-scene Video Generation via LLM-Guided Planning | GPT4 + *UNet*         |                | [VideoDirectorGPT](https://github.com/HL-hanlin/VideoDirectorGPT) |             | [2309.15091](https://arxiv.org/abs/2309.15091) | UNC         |
 | CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers   | Transformer + *VQVAE* | self-construct | [CogVideo](https://github.com/THUDM/CogVideo)                     |             | [2205.15868](https://arxiv.org/abs/2205.15868) | THU         |
+
+
+## Projects
+
+- [Open Chat Video Editor](https://github.com/SCUTlihaoyu/open-chat-video-editor), Open source short video automatic generation tool
