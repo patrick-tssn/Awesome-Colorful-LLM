@@ -5,6 +5,7 @@
 Table of Contents
 
 - [Reading List](#reading-list)
+- [Dataset & Benchmarks](#datasets--benchmarks)
 - [Projects](#projects)
 - [Applications](#applications)
 
@@ -29,8 +30,6 @@ Reading List
 | ControlLLM: Augment Language Models with Tools by Searching on Graphs                                                      | ChatGPT, LLaMA     | [ControlLLM](https://github.com/OpenGVLab/ControlLLM)                             |             | [2310.17796](https://arxiv.org/abs/2310.17796)                                                     | Shanghai AI Lab |
 |           AgentTuning: Enabling Generalized Agent Abilities For LLMs                                                                                                                 |       LLaMA2             |         [AgentTuning](https://github.com/THUDM/AgentTuning)                                                                       |             |                   [2310.12823](https://arxiv.org/abs/2310.12823)                                                                              |               THU  |
 | AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation                                                   |                    | [AutoGen](https://github.com/microsoft/autogen)                                   |             | [2308.08155](https://arxiv.org/abs/2308.08155)                                                     | Microsoft       |
-| AgentBench: Evaluating LLMs as Agents                                                                                      | open               | [AgentBench](https://github.com/THUDM/AgentBench)                                 |             | [2308.03688](https://arxiv.org/abs/2308.03688)                                                     | THU             |
-| ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs                                               | open               | [ToolBench](https://github.com/OpenBMB/ToolBench)                                 |             | [2307.16789](https://arxiv.org/abs/2307.16789)                                                     | THU             |
 | AssistGPT: A General Multi-modal Assistant that can Plan, Execute, Inspect, and Learn                                      | ChatGPT            | [AssistGPT](https://github.com/COOORN/AssistGPT)                                  |             | [2306.08640](https://arxiv.org/abs/2306.08640)                                                     | NUS             |
 | ToolAlpaca: Generalized Tool Learning for Language Models with 3000 Simulated Cases                                        | Alpaca             | [ToolAlpaca](https://github.com/tangqiaoyu/ToolAlpaca)                            |             | [2306.05301](https://arxiv.org/abs/2306.05301)                                                     | CAS             |
 | GPT4Tools: Teaching Large Language Model to Use Tools via Self-instruction                                                | Vicuna-13B         | [GPT4Tools](https://github.com/StevenGrove/GPT4Tools)                             |             | [2305.18752](https://arxiv.org/abs/2305.18752)                                                     | Tencent         |
@@ -53,7 +52,17 @@ Reading List
 | Decomposed Prompting: A Modular Approach for Solving Complex Tasks                                                         | GPT3               | [DecomP](https://github.com/allenai/DecomP)                                       | ICLR 2023   | [2210.02406](https://arxiv.org/abs/2210.02406)                                                     | AI2             |
 | TALM: Tool Augmented Language Models                                                                                       | T5                 |                                                                                |             | [2205.12255](https://arxiv.org/abs/2205.12255)                                                     | Google          |
 
-### Projects
+## Datasets & Benchmarks
+
+Datasets
+- (2023.07) [ToolBench](https://github.com/OpenBMB/ToolBench), This project (ToolLLM) aims to construct open-source, large-scale, high-quality instruction tuning SFT data to facilitate the construction of powerful LLMs with general tool-use capability. 
+
+Benchmarks
+- (2023.10) [PCA-EVAL](https://github.com/pkunlp-icler/PCA-EVAL), PCA-EVAL is an innovative benchmark for evaluating multi-domain embodied decision-making, specifically focusing on the performance in perception, cognition, and action
+- (2023.08) [AgentBench](https://github.com/THUDM/AgentBench), AgentBench is the first benchmark designed to evaluate LLM-as-Agent across a diverse spectrum of different environments. It encompasses 8 distinct environments to provide a more comprehensive evaluation of the LLMs' ability to operate as autonomous agents in various scenarios
+
+
+## Projects
 
 - (2023-11) [WarAgent](https://github.com/agiresearch/WarAgent), Large Language Model-based Multi-Agent Simulation of World Wars
 - (2023-08) [AI-Town](https://github.com/a16z-infra/ai-town), AI Town is a virtual town where AI characters live, chat and socialize
@@ -72,7 +81,7 @@ Reading List
 - (2022-10) [LangChain](https://github.com/langchain-ai/langchain), LangChain is a framework for developing applications powered by language models. It enables applications that: **(i) Are context-aware**: connect a language model to sources of context (prompt instructions, few shot examples, content to ground its response in, etc.) **(ii) Reason**: rely on a language model to reason (about how to answer based on provided context, what actions to take, etc.)
   - [Doc](https://python.langchain.com/docs/get_started/introduction)
 
-### Applications
+## Applications
 
 - (2023-11) [Awesome-AI-GPTs](https://github.com/EmbraceAGI/Awesome-AI-GPTs), 欢迎来到 EmbraceAGI GPTs 开源目录，本项目收录了 OpenAI GPTs 的相关资源和有趣玩法，让我们一起因 AI 而强大
 - (2023-04) [众评AI](https://www.zhongpingtechnology.com/#), 全球AI网站排行榜展示了人工智能领域最顶尖的1800+个网站，排行榜每日更新
