@@ -5,7 +5,7 @@
 Table of Contents
 
 - [Reading List](#reading-list)
-- [Dataset & Benchmarks](#datasets--benchmarks)
+- [Dataset &amp; Benchmarks](#datasets--benchmarks)
 - [Projects](#projects)
 - [Applications](#applications)
 
@@ -27,8 +27,9 @@ Reading List
 | -------------------------------------------------------------------------------------------------------------------------- | ------------------ | ------------------------------------------------------------------------------ | ----------- | ----------------------------------------------------------------------------------------------- | --------------- |
 | GPT-4V(ision) is a Generalist Web Agent, if Grounded                                                                       | GPT-4              | [SeeAct](https://github.com/OSU-NLP-Group/SeeAct)                                 |             | [2312.github](https://github.com/OSU-NLP-Group/SeeAct/blob/gh-pages/static/paper/SeeAct_Paper.pdf) | OSU             |
 | AppAgent: Multimodal Agents as Smartphone Users                                                                            | GPT4               | [AppAgent](https://github.com/mnotgod96/AppAgent)                                 |             | [2312.13771](https://arxiv.org/abs/2312.13771)                                                     | Tencent         |
+|        An LLM Compiler for Parallel Function Calling                                                                                                                    |         GPT, LLaMA2           | [LLMCompiler](https://github.com/SqueezeAILab/LLMCompiler)                                                                                |             |                                                                                             [2312.04511](https://arxiv.org/abs/2312.04511)    |    UCB             |
 | ControlLLM: Augment Language Models with Tools by Searching on Graphs                                                      | ChatGPT, LLaMA     | [ControlLLM](https://github.com/OpenGVLab/ControlLLM)                             |             | [2310.17796](https://arxiv.org/abs/2310.17796)                                                     | Shanghai AI Lab |
-|           AgentTuning: Enabling Generalized Agent Abilities For LLMs                                                                                                                 |       LLaMA2             |         [AgentTuning](https://github.com/THUDM/AgentTuning)                                                                       |             |                   [2310.12823](https://arxiv.org/abs/2310.12823)                                                                              |               THU  |
+| AgentTuning: Enabling Generalized Agent Abilities For LLMs                                                                 | LLaMA2             | [AgentTuning](https://github.com/THUDM/AgentTuning)                               |             | [2310.12823](https://arxiv.org/abs/2310.12823)                                                     | THU             |
 | AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation                                                   |                    | [AutoGen](https://github.com/microsoft/autogen)                                   |             | [2308.08155](https://arxiv.org/abs/2308.08155)                                                     | Microsoft       |
 | AssistGPT: A General Multi-modal Assistant that can Plan, Execute, Inspect, and Learn                                      | ChatGPT            | [AssistGPT](https://github.com/COOORN/AssistGPT)                                  |             | [2306.08640](https://arxiv.org/abs/2306.08640)                                                     | NUS             |
 | ToolAlpaca: Generalized Tool Learning for Language Models with 3000 Simulated Cases                                        | Alpaca             | [ToolAlpaca](https://github.com/tangqiaoyu/ToolAlpaca)                            |             | [2306.05301](https://arxiv.org/abs/2306.05301)                                                     | CAS             |
@@ -55,12 +56,13 @@ Reading List
 ## Datasets & Benchmarks
 
 Datasets
-- (2023.07) [ToolBench](https://github.com/OpenBMB/ToolBench), This project (ToolLLM) aims to construct open-source, large-scale, high-quality instruction tuning SFT data to facilitate the construction of powerful LLMs with general tool-use capability. 
+
+- (2023.07) [ToolBench](https://github.com/OpenBMB/ToolBench), This project (ToolLLM) aims to construct open-source, large-scale, high-quality instruction tuning SFT data to facilitate the construction of powerful LLMs with general tool-use capability.
 
 Benchmarks
+
 - (2023.10) [PCA-EVAL](https://github.com/pkunlp-icler/PCA-EVAL), PCA-EVAL is an innovative benchmark for evaluating multi-domain embodied decision-making, specifically focusing on the performance in perception, cognition, and action
 - (2023.08) [AgentBench](https://github.com/THUDM/AgentBench), AgentBench is the first benchmark designed to evaluate LLM-as-Agent across a diverse spectrum of different environments. It encompasses 8 distinct environments to provide a more comprehensive evaluation of the LLMs' ability to operate as autonomous agents in various scenarios
-
 
 ## Projects
 
