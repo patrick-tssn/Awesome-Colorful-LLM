@@ -109,6 +109,10 @@
 | [Instruction from Video-ChatGPT](https://github.com/mbzuai-oryx/Video-ChatGPT/blob/main/data/README.md) | general QA | ActivityNet + Human Annotation |
 |                                                                                                      |            |                                |
 
+### Others
+
+- [Neurips23 D&B] [VidChapters](https://github.com/antoyang/VidChapters), a large-scale dataset of user-chaptered videos. We study three tasks on top of this dataset and show that video chapter generation models trained on VidChapters-7M transfer well to dense video captioning.
+
 ## Benchmarks
 
 ### Common Downstream Tasks
