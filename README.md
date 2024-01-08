@@ -11,14 +11,15 @@ Welcome to our meticulously assembled anthology of vibrant multimodal research, 
 ## Table of Contents
 
 - [👀 Vision](#-vision)
-    - [Image](#-image)
-    - [Video](#-video)
-    - [3D](#-3d)
+  - [Image](#-image)
+  - [Video](#-video)
+  - [3D](#-3d)
+  - [Document](#-documnent)
 - [👂 Audio](#-audio)
 - [🔧 Agent](#-agent)
 - [🤖 Robotic](#-robotic)
 - [🔬 Science](#-science)
-    - [Math](#%EF%B8%8F-ai-for-math)
+  - [Math](#%EF%B8%8F-ai-for-math)
 - [🙌 Contributing](#contributing)
 
 ## 👀 Vision
@@ -33,7 +34,6 @@ Collection of works about Image + LLMs, Diffusion, see [Image](Vision/Image.md) 
 > - Image Generation
 >   - Reading List
 > - Open-source Projects
-
 
 Related Collections (Understanding)
 
@@ -56,7 +56,6 @@ Tutorials
 - [CVPR2023 Tutorial] [Recent Advances in Vision Foundation Models](https://vlp-tutorial.github.io/)
 - [CVPR2022 Tutorial] [Recent Advances in Vision-and-Language Pre-training](https://vlp-tutorial.github.io/)
 
-
 ### 📺 Video
 
 Collection of works about Video-Language Pretraining, Video + LLMs, see [Video](Vision/Video.md) for details
@@ -78,11 +77,12 @@ Related Collections (datasets)
 - [Awesome-Video-Datasets](https://github.com/xiaobai1217/Awesome-Video-Datasets#Video-and-Language) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/xiaobai1217/Awesome-Video-Datasets?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/xiaobai1217/Awesome-Video-Datasets.svg?style=social&label=Star)
 
 Related Collections (understanding)
+
 - [Awesome-LLMs-for-Video-Understanding](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/yunlong10/Awesome-LLMs-for-Video-Understanding?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/yunlong10/Awesome-LLMs-for-Video-Understanding.svg?style=social&label=Star), Latest Papers, Codes and Datasets on Vid-LLMs.
 
 Related Collections (generation)
-- [i2vgen-xl](https://github.com/damo-vilab/i2vgen-xl) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/damo-vilab/i2vgen-xl?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/damo-vilab/i2vgen-xl.svg?style=social&label=Star), VGen is an open-source video synthesis codebase developed by the Tongyi Lab of Alibaba Group, featuring state-of-the-art video generative models.
 
+- [i2vgen-xl](https://github.com/damo-vilab/i2vgen-xl) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/damo-vilab/i2vgen-xl?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/damo-vilab/i2vgen-xl.svg?style=social&label=Star), VGen is an open-source video synthesis codebase developed by the Tongyi Lab of Alibaba Group, featuring state-of-the-art video generative models.
 
 ### 📷 3D
 
@@ -92,9 +92,16 @@ Collection of works about 3D+LLM, see [3D](Vision/3D.md) for details
 
 Related Collections
 
+- [awesome-3D-gaussian-splatting](https://github.com/MrNeRF/awesome-3D-gaussian-splatting) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/MrNeRF/awesome-3D-gaussian-splatting?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/MrNeRF/awesome-3D-gaussian-splatting.svg?style=social&label=Star), A curated list of papers and open-source resources focused on 3D Gaussian Splatting, intended to keep pace with the anticipated surge of research in the coming months
 - [Awesome-LLM-3D](https://github.com/ActiveVisionLab/Awesome-LLM-3D) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/ActiveVisionLab/Awesome-LLM-3D?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/ActiveVisionLab/Awesome-LLM-3D.svg?style=social&label=Star), a curated list of Multi-modal Large Language Model in 3D world Resources
 - [Awesome-3D-Vision-and-Language](https://github.com/jianghaojun/Awesome-3D-Vision-and-Language) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/jianghaojun/Awesome-3D-Vision-and-Language?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/jianghaojun/Awesome-3D-Vision-and-Language.svg?style=social&label=Star), A curated list of research papers in 3D visual grounding
 
+
+### 📰 Documnent
+
+Related Collections
+
+- [Awesome Document Understanding](https://github.com/tstanislawek/awesome-document-understanding) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/tstanislawek/awesome-document-understanding?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/tstanislawek/awesome-document-understanding.svg?style=social&label=Star), A curated list of resources for Document Understanding (DU) topic related to Intelligent Document Processing (IDP), which is relative to Robotic Process Automation (RPA) from unstructured data, especially form Visually Rich Documents (VRDs).
 
 ## 👂 Audio
 
@@ -105,7 +112,6 @@ Collection of works about audio+LLM, see [Audio](Audio/Audio.md) for details
 Related Collections
 
 - [Audio-AI-Timeline](https://github.com/archinetai/audio-ai-timeline) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/archinetai/audio-ai-timeline?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/archinetai/audio-ai-timeline.svg?style=social&label=Star), Here we will keep track of the latest AI models for waveform based audio generation, starting in 2023!
-
 
 ## 🔧 Agent
 
@@ -151,7 +157,6 @@ Related Collections
 Collection of works about Mathematics + LLMs, see [AI4Math](AI4Science/AI4Math.md) for details
 
 > - Reading List
-
 
 ## Contributing
 

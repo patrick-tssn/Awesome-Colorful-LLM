@@ -129,6 +129,8 @@ Table of Contents
 
 ## Open-source Projects
 
+- [open-prompts](https://github.com/krea-ai/open-prompts), open-source prompts for text-to-image models.
+- [LLaMA2-Accessory](https://github.com/Alpha-VLLM/LLaMA2-Accessory), LLaMA2-Accessory is an open-source toolkit for pretraining, finetuning and deployment of Large Language Models (LLMs) and multimodal LLMs
 - [Gemini-vs-GPT4V](https://github.com/Qi-Zhangyang/Gemini-vs-GPT4V), This paper presents an in-depth qualitative comparative study of two pioneering models: Google's Gemini and OpenAI's GPT-4V(ision).
 - [multimodal-maestro](https://github.com/roboflow/multimodal-maestro), Effective prompting for Large Multimodal Models like GPT-4 Vision or LLaVA.
   - *by roboflow, 2023.11*
