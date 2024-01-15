@@ -164,6 +164,9 @@
 ## Projects & Tools
 
 - [Awesome-Video-Object-Segmentation](https://github.com/gaomingqi/Awesome-Video-Object-Segmentation), A curated list of video object segmentation (vos) papers, datasets, and projects.
+- [pytube](https://github.com/pytube/pytube), A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
+- [movienet-tools](https://github.com/movienet/movienet-tools/blob/master/docs/GETTING_STARTED.md), Movie toolbox provides many basic tools and functions for the researches on movie understanding, with which you can get started with your research easily.
+- [PySceneDetect](https://github.com/Breakthrough/PySceneDetect), Video Scene Cut Detection and Analysis Tool
 
 # Video Generation
 
