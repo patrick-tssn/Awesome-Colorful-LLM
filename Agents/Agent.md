@@ -68,6 +68,7 @@ Benchmarks
 
 ## Projects
 
+- (2023-12) [KwaiAgents](https://github.com/KwaiKEG/KwaiAgents), A generalized information-seeking agent system with Large Language Models (LLMs).
 - (2023-11) [CrewAI](https://github.com/joaomdmoura/crewAI), Cutting-edge framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - (2023-11) [WarAgent](https://github.com/agiresearch/WarAgent), Large Language Model-based Multi-Agent Simulation of World Wars
 - (2023-08) [AI-Town](https://github.com/a16z-infra/ai-town), AI Town is a virtual town where AI characters live, chat and socialize
