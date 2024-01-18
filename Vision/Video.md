@@ -154,9 +154,9 @@
 
 #### Temporal Grounding Benchmarks
 
-| Benchmark                                                | Task                | Data    | Paper | Preprint | Publication | Affiliation |
-| -------------------------------------------------------- | ------------------- | ------- | ----- | -------- | ----------- | ----------- |
-| [ViLMA](https://github.com/ilkerkesen/ViLMA) | matching | mixture |  ViLMA: A Zero-Shot Benchmark for Linguistic and Temporal Grounding in Video-Language Models     |    [2311.07022](https://arxiv.org/abs/2311.07022)      |         ICLR 2024     |  KU           |
+| Benchmark                                 | Task     | Data    | Paper                                                                                       | Preprint                                    | Publication | Affiliation |
+| ----------------------------------------- | -------- | ------- | ------------------------------------------------------------------------------------------- | ------------------------------------------- | ----------- | ----------- |
+| [ViLMA](https://github.com/ilkerkesen/ViLMA) | matching | mixture | ViLMA: A Zero-Shot Benchmark for Linguistic and Temporal Grounding in Video-Language Models | [2311.07022](https://arxiv.org/abs/2311.07022) | ICLR 2024   | KU          |
 
 #### Multifaceted Benchmarks
 
@@ -183,6 +183,7 @@ Reading List
 
 | Paper                                                                             | Base Structure         | Data           | Code                                                           | Publication | Preprint                                    | Affiliation |
 | --------------------------------------------------------------------------------- | ---------------------- | -------------- | -------------------------------------------------------------- | ----------- | ------------------------------------------- | ----------- |
+|        Vlogger: Make Your Dream A Vlog                                                                           |                     *Diffusion*   |                |               [Vlogger](https://github.com/zhuangshaobin/Vlogger)                                                 |             |       [2401.09414](https://arxiv.org/abs/2401.09414)                                      |    Shanghai AI Lab         |
 | FlowVid: Taming Imperfect Optical Flows for Consistent Video-to-Video Synthesis   | *ControlNet*         |                | [FlowVid](https://github.com/Jeff-LiangF/FlowVid)                 |             | [2312.17681](https://arxiv.org/abs/2312.17681) | Meta        |
 | MotionDirector: Motion Customization of Text-to-Video Diffusion Models            | *Diffusion*          |                | [MotionDirector](https://github.com/showlab/MotionDirector)       |             | [2310.08465](https://arxiv.org/abs/2310.08465) | NUS         |
 | VideoDirectorGPT: Consistent Multi-scene Video Generation via LLM-Guided Planning | GPT4 +*UNet*         |                | [VideoDirectorGPT](https://github.com/HL-hanlin/VideoDirectorGPT) |             | [2309.15091](https://arxiv.org/abs/2309.15091) | UNC         |
