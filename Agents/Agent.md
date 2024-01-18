@@ -69,6 +69,7 @@ Benchmarks
 
 ## Projects
 
+- (2023-12) [MetaGPT](https://github.com/geekan/MetaGPT), The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
 - (2023-12) [KwaiAgents](https://github.com/KwaiKEG/KwaiAgents), A generalized information-seeking agent system with Large Language Models (LLMs).
 - (2023-11) [CrewAI](https://github.com/joaomdmoura/crewAI), Cutting-edge framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - (2023-11) [WarAgent](https://github.com/agiresearch/WarAgent), Large Language Model-based Multi-Agent Simulation of World Wars
