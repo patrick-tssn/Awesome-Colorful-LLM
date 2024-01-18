@@ -63,7 +63,8 @@ Datasets
 
 Benchmarks
 
-- (2024.01) [ToolEyes](https://github.com/Junjie-Ye/ToolEyes),  The system meticulously examines seven real-world scenarios, analyzing five dimensions crucial to LLMs in tool learning: format alignment, intent comprehension, behavior planning, tool selection, and answer organization.
+- (2024.01) [RoTBench](https://github.com/Junjie-Ye/RoTBench), RoTBench consists of five external environments, each featuring varying levels of noise (i.e., Clean, Slight, Medium, Heavy, and Union), providing an in-depth analysis of the model's resilience across three critical phases: tool selection, parameter identification, and content filling
+- (2024.01) [ToolEyes](https://github.com/Junjie-Ye/ToolEyes), The system meticulously examines seven real-world scenarios, analyzing five dimensions crucial to LLMs in tool learning: format alignment, intent comprehension, behavior planning, tool selection, and answer organization.
 - (2024.01) [AgentBoard](https://github.com/hkust-nlp/AgentBoard)，An Analytical Evaluation Board of Multi-turn LLM Agents 
 - (2023.10) [PCA-EVAL](https://github.com/pkunlp-icler/PCA-EVAL), PCA-EVAL is an innovative benchmark for evaluating multi-domain embodied decision-making, specifically focusing on the performance in perception, cognition, and action
 - (2023.08) [AgentBench](https://github.com/THUDM/AgentBench), AgentBench is the first benchmark designed to evaluate LLM-as-Agent across a diverse spectrum of different environments. It encompasses 8 distinct environments to provide a more comprehensive evaluation of the LLMs' ability to operate as autonomous agents in various scenarios
