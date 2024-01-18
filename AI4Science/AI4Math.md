@@ -6,11 +6,11 @@ Table of Contents
 
 ## Reading List
 
-| Paper                                                                    | Base Language Model | Code                                        | Publication | Preprint                                    | Affiliation |
-| ------------------------------------------------------------------------ | ------------------- | ------------------------------------------- | ----------- | ------------------------------------------- | ----------- |
-| G-LLaVA: Solving Geometric Problem with Multi-Modal Large Language Model | LLaMA (LLaVA)       | [G-LLaVA](https://github.com/pipilurj/G-LLaVA) |             | [2312.11370](https://arxiv.org/abs/2312.11370) | HUAWEI      |
-|   ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving                                                                       |                     |                         [ToRA](https://github.com/microsoft/ToRA)                    |    GPT4, LLaMA2, etc         |                           [2309.17452](https://arxiv.org/abs/2309.17452)                  |          Microsoft   |
-
+| Paper                                                                    | Base Language Model | Code                                        | Publication       | Preprint                                    | Affiliation |
+| ------------------------------------------------------------------------ | ------------------- | ------------------------------------------- | ----------------- | ------------------------------------------- | ----------- |
+|      Solving olympiad geometry without human demonstrations                                                                    |  Transformer-style (151M)                  |          [AlphaGeometry](https://github.com/google-deepmind/alphageometry)                                   |             Nature      |                   [2401.blog](https://deepmind.google/discover/blog/alphageometry-an-olympiad-level-ai-system-for-geometry/)                          |   DeepMind          |
+| G-LLaVA: Solving Geometric Problem with Multi-Modal Large Language Model | LLaMA (LLaVA)       | [G-LLaVA](https://github.com/pipilurj/G-LLaVA) |                   | [2312.11370](https://arxiv.org/abs/2312.11370) | HUAWEI      |
+| ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving |    GPT4, LLaMA2, etc                 | [ToRA](https://github.com/microsoft/ToRA)      |  | [2309.17452](https://arxiv.org/abs/2309.17452) | Microsoft   |
 
 - Datasets and Benchmarks
 
@@ -21,8 +21,5 @@ Datasets
 Benchmarks
 
 - [GSM8K](https://github.com/openai/grade-school-math) | [paper](https://arxiv.org/abs/2110.14168) | [blog](https://openai.com/blog/grade-school-math/), a dataset of 8.5K high quality linguistically diverse grade school math word problems, *by OpenAI, 2021*
-
 - [MATH](https://github.com/hendrycks/math) | [paper (NeurIPS 2021)](https://arxiv.org/abs/2103.03874), Hard mathematics problems, 12k problems within 7 categories, very hard math and natural science, *by UCB, 2021*
-
-
 - [TheoremQA](https://github.com/wenhuchen/TheoremQA) | [paper](https://arxiv.org/abs/2305.12524), Hard mathematics problems, 800 QA pairs covering 350+ theorems spanning across Math, EE&CS, Physics and Finance, *by UWaterloo, 2023*
