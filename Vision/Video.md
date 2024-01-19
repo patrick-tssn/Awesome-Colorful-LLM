@@ -166,6 +166,7 @@
 
 ## Projects & Tools
 
+- [Match cutting](https://github.com/Netflix/matchcut), A match cut is a transition between a pair of shots that uses similar framing, composition, or action to fluidly bring the viewer from one scene to the next
 - [Awesome-Video-Object-Segmentation](https://github.com/gaomingqi/Awesome-Video-Object-Segmentation), A curated list of video object segmentation (vos) papers, datasets, and projects.
 - [pytube](https://github.com/pytube/pytube), A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
 - [movienet-tools](https://github.com/movienet/movienet-tools/blob/master/docs/GETTING_STARTED.md), Movie toolbox provides many basic tools and functions for the researches on movie understanding, with which you can get started with your research easily.
@@ -181,13 +182,18 @@ Survey
 
 Reading List
 
-| Paper                                                                             | Base Structure         | Data           | Code                                                           | Publication | Preprint                                    | Affiliation |
-| --------------------------------------------------------------------------------- | ---------------------- | -------------- | -------------------------------------------------------------- | ----------- | ------------------------------------------- | ----------- |
-|        Vlogger: Make Your Dream A Vlog                                                                           |                     *Diffusion*   |                |               [Vlogger](https://github.com/zhuangshaobin/Vlogger)                                                 |             |       [2401.09414](https://arxiv.org/abs/2401.09414)                                      |    Shanghai AI Lab         |
-| FlowVid: Taming Imperfect Optical Flows for Consistent Video-to-Video Synthesis   | *ControlNet*         |                | [FlowVid](https://github.com/Jeff-LiangF/FlowVid)                 |             | [2312.17681](https://arxiv.org/abs/2312.17681) | Meta        |
-| MotionDirector: Motion Customization of Text-to-Video Diffusion Models            | *Diffusion*          |                | [MotionDirector](https://github.com/showlab/MotionDirector)       |             | [2310.08465](https://arxiv.org/abs/2310.08465) | NUS         |
-| VideoDirectorGPT: Consistent Multi-scene Video Generation via LLM-Guided Planning | GPT4 +*UNet*         |                | [VideoDirectorGPT](https://github.com/HL-hanlin/VideoDirectorGPT) |             | [2309.15091](https://arxiv.org/abs/2309.15091) | UNC         |
-| CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers   | Transformer +*VQVAE* | self-construct | [CogVideo](https://github.com/THUDM/CogVideo)                     |             | [2205.15868](https://arxiv.org/abs/2205.15868) | THU         |
+| Paper                                                                             | Base Structure         | Data           | Code                                                           | Publication | Preprint                                    | Affiliation     |
+| --------------------------------------------------------------------------------- | ---------------------- | -------------- | -------------------------------------------------------------- | ----------- | ------------------------------------------- | --------------- |
+| Vlogger: Make Your Dream A Vlog                                                   | *Diffusion*          |                | [Vlogger](https://github.com/zhuangshaobin/Vlogger)               |             | [2401.09414](https://arxiv.org/abs/2401.09414) | Shanghai AI Lab |
+| FlowVid: Taming Imperfect Optical Flows for Consistent Video-to-Video Synthesis   | *ControlNet*         |                | [FlowVid](https://github.com/Jeff-LiangF/FlowVid)                 |             | [2312.17681](https://arxiv.org/abs/2312.17681) | Meta            |
+|      SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction                                                                             |    *Diffusion*                    |                |    [SEINE](https://github.com/Vchitect/SEINE)                                                            |             |                           [2310.20700](https://arxiv.org/abs/2310.20700)                  |      Shanghai AI Lab           |
+| MotionDirector: Motion Customization of Text-to-Video Diffusion Models            | *Diffusion*          |                | [MotionDirector](https://github.com/showlab/MotionDirector)       |             | [2310.08465](https://arxiv.org/abs/2310.08465) | NUS             |
+| VideoDirectorGPT: Consistent Multi-scene Video Generation via LLM-Guided Planning | GPT4 +*UNet*         |                | [VideoDirectorGPT](https://github.com/HL-hanlin/VideoDirectorGPT) |             | [2309.15091](https://arxiv.org/abs/2309.15091) | UNC             |
+| CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers   | Transformer +*VQVAE* | self-construct | [CogVideo](https://github.com/THUDM/CogVideo)                     |             | [2205.15868](https://arxiv.org/abs/2205.15868) | THU             |
+
+## Metrics
+
+- [T2VScore](https://github.com/showlab/T2VScore), T2VScore: Towards A Better Metric for Text-to-Video Generation
 
 ## Projects
 
