@@ -63,6 +63,7 @@ Datasets
 
 Benchmarks
 
+- (2024.01) [R-Judge](https://github.com/Lordog/R-Judge), R-Judge: Benchmarking Safety Risk Awareness for LLM Agents
 - (2024.01) [RoTBench](https://github.com/Junjie-Ye/RoTBench), RoTBench consists of five external environments, each featuring varying levels of noise (i.e., Clean, Slight, Medium, Heavy, and Union), providing an in-depth analysis of the model's resilience across three critical phases: tool selection, parameter identification, and content filling
 - (2024.01) [ToolEyes](https://github.com/Junjie-Ye/ToolEyes), The system meticulously examines seven real-world scenarios, analyzing five dimensions crucial to LLMs in tool learning: format alignment, intent comprehension, behavior planning, tool selection, and answer organization.
 - (2024.01) [AgentBoard](https://github.com/hkust-nlp/AgentBoard)，An Analytical Evaluation Board of Multi-turn LLM Agents 
