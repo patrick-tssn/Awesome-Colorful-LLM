@@ -166,6 +166,7 @@
 
 ## Projects & Tools
 
+- [video2dataset](https://github.com/bryant1410/video2dataset), Easily create large video dataset from video urls. Can download and package 10M videos in 12h on a single 16 core machine.
 - [Match cutting](https://github.com/Netflix/matchcut), A match cut is a transition between a pair of shots that uses similar framing, composition, or action to fluidly bring the viewer from one scene to the next
 - [Awesome-Video-Object-Segmentation](https://github.com/gaomingqi/Awesome-Video-Object-Segmentation), A curated list of video object segmentation (vos) papers, datasets, and projects.
 - [pytube](https://github.com/pytube/pytube), A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
