@@ -132,7 +132,6 @@ Related Collections
 - [XLang Paper Reading](https://github.com/xlang-ai/xlang-paper-reading) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/xlang-ai/xlang-paper-reading?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/xlang-ai/xlang-paper-reading.svg?style=social&label=Star), Paper collection on building and evaluating language model agents via executable language grounding
 - [Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/tensorchord/Awesome-LLMOps?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/tensorchord/Awesome-LLMOps.svg?style=social&label=Star), An awesome & curated list of best LLMOps tools for developers
 - [Awesome LLM-Powered Agent](https://github.com/hyp1231/awesome-llm-powered-agent) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/hyp1231/awesome-llm-powered-agent?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/hyp1231/awesome-llm-powered-agent.svg?style=social&label=Star), Awesome things about LLM-powered agents. Papers / Repos / Blogs / ...
-- [Awesome-Embodied-AI](https://github.com/haoranD/Awesome-Embodied-AI) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/haoranD/Awesome-Embodied-AI?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/haoranD/Awesome-Embodied-AI.svg?style=social&label=Star), A curated list of awesome papers on Embodied AI and related research/industry-driven resources
 - [ToolLearningPapers](https://github.com/thunlp/ToolLearningPapers) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/thunlp/ToolLearningPapers?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/thunlp/ToolLearningPapers.svg?style=social&label=Star), Must-read papers on tool learning with foundation models
 - [Awesome-ALM](https://github.com/pbhu1024/awesome-augmented-language-model) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/pbhu1024/awesome-augmented-language-model?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/pbhu1024/awesome-augmented-language-model.svg?style=social&label=Star), This repo collect research papers about leveraging the capabilities of language models, which can be a good reference for building upper-layer applications
 - [LLM-powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/), Lil'Log, Overview: panning, memory, tool use
@@ -143,7 +142,7 @@ Collection of works about robotics+LLM, see [Robotic](Robotic/Robotic.md) for de
 
 > - Reading List
 
-Related Collections
+Related Collections (Robotics)
 
 - [Awesome-Robotics-Foundation-Models](https://github.com/robotics-survey/Awesome-Robotics-Foundation-Models) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/robotics-survey/Awesome-Robotics-Foundation-Models?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/robotics-survey/Awesome-Robotics-Foundation-Models.svg?style=social&label=Star), This is the partner repository for the survey paper "Foundation Models in Robotics: Applications, Challenges, and the Future". The authors hope this repository can act as a quick reference for roboticists who wish to read the relevant papers and implement the associated methods.
 - [Awesome-LLM-Robotics](https://github.com/GT-RIPL/Awesome-LLM-Robotics) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/GT-RIPL/Awesome-LLM-Robotics?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/GT-RIPL/Awesome-LLM-Robotics.svg?style=social&label=Star), This repo contains a curative list of papers using Large Language/Multi-Modal Models for Robotics/RL
@@ -153,6 +152,12 @@ Related Collections
 - [PromptCraft-Robotics](https://github.com/microsoft/PromptCraft-Robotics) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/microsoft/PromptCraft-Robotics?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/microsoft/PromptCraft-Robotics.svg?style=social&label=Star), The PromptCraft-Robotics repository serves as a community for people to test and share interesting prompting examples for large language models (LLMs) within the robotics domain
 - [Awesome-Robotics](https://github.com/ahundt/awesome-robotics) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/ahundt/awesome-robotics?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/ahundt/awesome-robotics.svg?style=social&label=Star), A curated list of awesome links and software libraries that are useful for robots
 
+Related Collections (embodied)
+
+- [Awesome-Embodied-AI](https://github.com/haoranD/Awesome-Embodied-AI) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/haoranD/Awesome-Embodied-AI?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/haoranD/Awesome-Embodied-AI.svg?style=social&label=Star), A curated list of awesome papers on Embodied AI and related research/industry-driven resources
+- [awesome-embodied-vision](https://github.com/ChanganVR/awesome-embodied-vision) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/ChanganVR/awesome-embodied-vision?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/ChanganVR/awesome-embodied-vision.svg?style=social&label=Star), Reading list for research topics in embodied vision 
+
+
 ## 🔬 Science
 
 ### ♾️ AI for Math
@@ -160,6 +165,10 @@ Related Collections
 Collection of works about Mathematics + LLMs, see [AI4Math](AI4Science/AI4Math.md) for details
 
 > - Reading List
+
+Related Collections
+
+- [Awesome-Scientific-Language-Models](https://github.com/yuzhimanhua/Awesome-Scientific-Language-Models) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/yuzhimanhua/Awesome-Scientific-Language-Models?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/yuzhimanhua/Awesome-Scientific-Language-Models.svg?style=social&label=Star), A curated list of pre-trained language models in scientific domains (e.g., mathematics, physics, chemistry, biology, medicine, materials science, and geoscience), covering different model sizes (from <100M to 70B parameters) and modalities (e.g., language, vision, molecule, protein, graph, and table) 
 
 ## Contributing
 
