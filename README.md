@@ -48,6 +48,8 @@ Related Collections (Understanding)
 - [Awesome-Multimodal-Research](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/Eurus-Holmes/Awesome-Multimodal-Research?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/Eurus-Holmes/Awesome-Multimodal-Research.svg?style=social&label=Star), This repo is reorganized from Awesome-Multimodal-ML
 - [Awesome-Multimodal-ML](https://github.com/pliang279/awesome-multimodal-ml) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/pliang279/awesome-multimodal-ml?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/pliang279/awesome-multimodal-ml.svg?style=social&label=Star), Reading list for research topics in multimodal machine learning
 
+- [Awesome-Referring-Image-Segmentation](https://github.com/MarkMoHR/Awesome-Referring-Image-Segmentation) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/MarkMoHR/Awesome-Referring-Image-Segmentation?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/MarkMoHR/Awesome-Referring-Image-Segmentation.svg?style=social&label=Star), A collection of referring image (video, 3D) segmentation papers and datasets. 
+
 Related Collections (Generation)
 
 - [Awesome-VQVAE](https://github.com/rese1f/Awesome-VQVAE) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/rese1f/Awesome-VQVAE?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/rese1f/Awesome-VQVAE.svg?style=social&label=Star), A collection of resources and papers on Vector Quantized Variational Autoencoder (VQ-VAE) and its application
