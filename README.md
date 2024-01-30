@@ -49,6 +49,7 @@ Related Collections (Understanding)
 - [Awesome-Multimodal-ML](https://github.com/pliang279/awesome-multimodal-ml) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/pliang279/awesome-multimodal-ml?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/pliang279/awesome-multimodal-ml.svg?style=social&label=Star), Reading list for research topics in multimodal machine learning
 
 - [Awesome-Referring-Image-Segmentation](https://github.com/MarkMoHR/Awesome-Referring-Image-Segmentation) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/MarkMoHR/Awesome-Referring-Image-Segmentation?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/MarkMoHR/Awesome-Referring-Image-Segmentation.svg?style=social&label=Star), A collection of referring image (video, 3D) segmentation papers and datasets. 
+- [Awesome-Prompting-on-Vision-Language-Model](https://github.com/JindongGu/Awesome-Prompting-on-Vision-Language-Model) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/JindongGu/Awesome-Prompting-on-Vision-Language-Model?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/JindongGu/Awesome-Prompting-on-Vision-Language-Model.svg?style=social&label=Star), This repo lists relevant papers summarized in our survey paper: A Systematic Survey of Prompt Engineering on Vision-Language Foundation Models.
 
 Related Collections (Generation)
 

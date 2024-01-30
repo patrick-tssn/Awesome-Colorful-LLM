@@ -131,6 +131,10 @@ Data Collection Tools
 - [VisionDatasets](https://github.com/kyegomez/VisionDatasets), Scripts and logic to create high quality pre-training and finetuning datasets for multi-modal models!
 - [Visual-Instruction-Tuning](https://github.com/BAAI-DCAI/Visual-Instruction-Tuning), Scale up visual instruction tuning to millions by GPT-4.
 
+### Tools
+
+- [EasyOCR](https://github.com/JaidedAI/EasyOCR), Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
+
 ## Image Generation
 
 ### Reading List
