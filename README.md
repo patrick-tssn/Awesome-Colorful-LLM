@@ -55,6 +55,7 @@ Related Collections (Generation)
 
 - [Awesome-VQVAE](https://github.com/rese1f/Awesome-VQVAE) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/rese1f/Awesome-VQVAE?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/rese1f/Awesome-VQVAE.svg?style=social&label=Star), A collection of resources and papers on Vector Quantized Variational Autoencoder (VQ-VAE) and its application
 - [Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/heejkoo/Awesome-Diffusion-Models?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/heejkoo/Awesome-Diffusion-Models.svg?style=social&label=Star), This repository contains a collection of resources and papers on Diffusion Models
+- [Awesome-Controllable-Diffusion](https://github.com/atfortes/Awesome-Controllable-Diffusion) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/atfortes/Awesome-Controllable-Diffusion?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/atfortes/Awesome-Controllable-Diffusion.svg?style=social&label=Star), Collection of papers and resources on Controllable Generation using Diffusion Models, including ControlNet, DreamBooth, and others.
 
 Tutorials
 
