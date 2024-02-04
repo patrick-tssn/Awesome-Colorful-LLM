@@ -101,6 +101,7 @@ Related Collections
 - [awesome-3D-gaussian-splatting](https://github.com/MrNeRF/awesome-3D-gaussian-splatting) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/MrNeRF/awesome-3D-gaussian-splatting?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/MrNeRF/awesome-3D-gaussian-splatting.svg?style=social&label=Star), A curated list of papers and open-source resources focused on 3D Gaussian Splatting, intended to keep pace with the anticipated surge of research in the coming months
 - [Awesome-LLM-3D](https://github.com/ActiveVisionLab/Awesome-LLM-3D) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/ActiveVisionLab/Awesome-LLM-3D?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/ActiveVisionLab/Awesome-LLM-3D.svg?style=social&label=Star), a curated list of Multi-modal Large Language Model in 3D world Resources
 - [Awesome-3D-Vision-and-Language](https://github.com/jianghaojun/Awesome-3D-Vision-and-Language) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/jianghaojun/Awesome-3D-Vision-and-Language?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/jianghaojun/Awesome-3D-Vision-and-Language.svg?style=social&label=Star), A curated list of research papers in 3D visual grounding
+- [awesome-scene-understanding](https://github.com/bertjiazheng/awesome-scene-understanding) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/bertjiazheng/awesome-scene-understanding?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/bertjiazheng/awesome-scene-understanding.svg?style=social&label=Star), A list of awesome scene understanding papers.
 
 
 ### 📰 Documnent
@@ -161,6 +162,9 @@ Related Collections (embodied)
 - [Awesome-Embodied-AI](https://github.com/haoranD/Awesome-Embodied-AI) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/haoranD/Awesome-Embodied-AI?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/haoranD/Awesome-Embodied-AI.svg?style=social&label=Star), A curated list of awesome papers on Embodied AI and related research/industry-driven resources
 - [awesome-embodied-vision](https://github.com/ChanganVR/awesome-embodied-vision) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/ChanganVR/awesome-embodied-vision?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/ChanganVR/awesome-embodied-vision.svg?style=social&label=Star), Reading list for research topics in embodied vision 
 
+
+Related Collections (autonomous driving)
+- [Awesome-LLM4AD](https://github.com/Thinklab-SJTU/Awesome-LLM4AD) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/Thinklab-SJTU/Awesome-LLM4AD?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/ChangThinklab-SJTUanVR/Awesome-LLM4AD.svg?style=social&label=Star), A curated list of awesome LLM for Autonomous Driving resources (continually updated)
 
 ## 🔬 Science
 
