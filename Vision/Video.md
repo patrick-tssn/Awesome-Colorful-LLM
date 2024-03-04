@@ -91,18 +91,19 @@
 - Video Language Matching (VLM)
 - Video Language Contrastive (VLC)
 
-## Datasets and Benchmarks
+## Datasets
 
 ### Pretraining Corpora
 
-| Paper                                                                                                | Video Clips | Duration | Sentences | Domain      | Download Link                                                              |
-| ---------------------------------------------------------------------------------------------------- | ----------- | -------- | --------- | ----------- | -------------------------------------------------------------------------- |
-| Frozen in Time: A Joint Video and Image Encoder for End-to-End Retrieval                             | 2.5M        | 18s      | 2.5M      | open        | [WebVid-2M](https://github.com/m-bain/webvid)                                 |
-| Howto100m: Learning a text-video embedding by watching hundred million narrated video clips          | 136M        | 4s       | 136M      | instruction | [HowTo100M](https://www.di.ens.fr/willow/research/howto100m/)                 |
-| Merlot: Multimodal neural script knowledge models. Advances in Neural Information Processing         | 6M          | -20m     | ~720M     | open        | [YT-Temporal-180M](https://rowanzellers.com/merlot/)                          |
-| Advancing High-Resolution Video-Language Representation with Large-Scale Video Transcriptions        | 100M        | 13.4s    | 100M      | open        | [HD-VILA-100M](https://github.com/microsoft/XPretrain/tree/main/hd-vila-100m) |
-| CHAMPAGNE: Learning Real-world Conversation from Large-Scale Web Videos                              | 18M         | 60s      |           | open        | [YTD-18M](https://seungjuhan.me/champagne/)                                   |
-| Youku-mPLUG: A 10 Million Large-scale Chinese Video-Language Dataset for Pre-training and Benchmarks | 10 M        | 54.2s    | 10 M      | open        | [Youku-mPLUG](https://github.com/X-PLUG/Youku-mPLUG#download)                 |
+| Paper                                                                                                | Video Clips | Duration | Sentences | Domain      | Download Link                                                                    |
+| ---------------------------------------------------------------------------------------------------- | ----------- | -------- | --------- | ----------- | -------------------------------------------------------------------------------- |
+| Frozen in Time: A Joint Video and Image Encoder for End-to-End Retrieval                             | 2.5M        | 18s      | 2.5M      | open        | [WebVid-2M](https://github.com/m-bain/webvid)                                       |
+| Howto100m: Learning a text-video embedding by watching hundred million narrated video clips          | 136M        | 4s       | 136M      | instruction | [HowTo100M](https://www.di.ens.fr/willow/research/howto100m/)                       |
+| Merlot: Multimodal neural script knowledge models. Advances in Neural Information Processing         | 6M          | -20m     | ~720M     | open        | [YT-Temporal-180M](https://rowanzellers.com/merlot/)                                |
+| Advancing High-Resolution Video-Language Representation with Large-Scale Video Transcriptions        | 100M        | 13.4s    | 100M      | open        | [HD-VILA-100M](https://github.com/microsoft/XPretrain/tree/main/hd-vila-100m)       |
+| CHAMPAGNE: Learning Real-world Conversation from Large-Scale Web Videos                              | 18M         | 60s      |           | open        | [YTD-18M](https://seungjuhan.me/champagne/)                                         |
+| Youku-mPLUG: A 10 Million Large-scale Chinese Video-Language Dataset for Pre-training and Benchmarks | 10 M        | 54.2s    | 10 M      | open        | [Youku-mPLUG](https://github.com/X-PLUG/Youku-mPLUG#download)                       |
+| Panda-70M: Captioning 70M Videos with Multiple Cross-Modality Teachers                               | 70M         | 8.5s     | 70M       | open        | [Panda-70M](https://github.com/snap-research/Panda-70M)  `from HD-VILA-100M` |
 
 ### Video Instructions
 
@@ -167,6 +168,10 @@
 | -------------------------------------------------------- | ------------------- | ------- | ----- | -------- | ----------- | ----------- |
 | [Video-Bench](https://github.com/PKU-YuanGroup/Video-Bench) | MC (general domain) | mixture |       |          |             |             |
 
+## Metrics
+
+- [Common Metrics on Video Quality](https://github.com/JunyaoHu/common_metrics_on_video_quality), You can easily calculate FVD, PSNR, SSIM, LPIPS for evaluating the quality of generated or predicted videos.
+
 ## Projects & Tools
 
 - [VideoDB](https://github.com/video-db/StreamRAG), It enables developers to: 1) Upload multiple videos to create a library or collection; 2) Search across these videos and get real-time video responses or compilations; 3) Publish your searchable collection on the ChatGPT store; 4) Receive summarized text answers (RAG); 5) Gain key insights from specific videos (e.g. "Top points from episode 31").
@@ -187,15 +192,15 @@ Survey
 
 Reading List
 
-| Paper                                                                               | Base Structure         | Data           | Code                                                           | Publication | Preprint                                    | Affiliation     |
-| ----------------------------------------------------------------------------------- | ---------------------- | -------------- | -------------------------------------------------------------- | ----------- | ------------------------------------------- | --------------- |
-|    Video generation models as world simulators                                                                                 |                    Transformer    |         -       |          -                                                      | -            |     [2402.blog](https://openai.com/research/video-generation-models-as-world-simulators)                                        |             OpenAI    |
-| Vlogger: Make Your Dream A Vlog                                                     | *Diffusion*          |                | [Vlogger](https://github.com/zhuangshaobin/Vlogger)               |             | [2401.09414](https://arxiv.org/abs/2401.09414) | Shanghai AI Lab |
-| FlowVid: Taming Imperfect Optical Flows for Consistent Video-to-Video Synthesis     | *ControlNet*         |                | [FlowVid](https://github.com/Jeff-LiangF/FlowVid)                 |             | [2312.17681](https://arxiv.org/abs/2312.17681) | Meta            |
-| SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction | *Diffusion*          |                | [SEINE](https://github.com/Vchitect/SEINE)                        |             | [2310.20700](https://arxiv.org/abs/2310.20700) | Shanghai AI Lab |
-| MotionDirector: Motion Customization of Text-to-Video Diffusion Models              | *Diffusion*          |                | [MotionDirector](https://github.com/showlab/MotionDirector)       |             | [2310.08465](https://arxiv.org/abs/2310.08465) | NUS             |
-| VideoDirectorGPT: Consistent Multi-scene Video Generation via LLM-Guided Planning   | GPT4 +*UNet*         |                | [VideoDirectorGPT](https://github.com/HL-hanlin/VideoDirectorGPT) |             | [2309.15091](https://arxiv.org/abs/2309.15091) | UNC             |
-| CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers     | Transformer +*VQVAE* | self-construct | [CogVideo](https://github.com/THUDM/CogVideo)                     |             | [2205.15868](https://arxiv.org/abs/2205.15868) | THU             |
+| Paper                                                                               | Base Structure         | Data           | Code                                                           | Publication | Preprint                                                                          | Affiliation     |
+| ----------------------------------------------------------------------------------- | ---------------------- | -------------- | -------------------------------------------------------------- | ----------- | --------------------------------------------------------------------------------- | --------------- |
+| Video generation models as world simulators                                         | Transformer            | -              | -                                                              | -           | [2402.blog](https://openai.com/research/video-generation-models-as-world-simulators) | OpenAI          |
+| Vlogger: Make Your Dream A Vlog                                                     | *Diffusion*          |                | [Vlogger](https://github.com/zhuangshaobin/Vlogger)               |             | [2401.09414](https://arxiv.org/abs/2401.09414)                                       | Shanghai AI Lab |
+| FlowVid: Taming Imperfect Optical Flows for Consistent Video-to-Video Synthesis     | *ControlNet*         |                | [FlowVid](https://github.com/Jeff-LiangF/FlowVid)                 |             | [2312.17681](https://arxiv.org/abs/2312.17681)                                       | Meta            |
+| SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction | *Diffusion*          |                | [SEINE](https://github.com/Vchitect/SEINE)                        |             | [2310.20700](https://arxiv.org/abs/2310.20700)                                       | Shanghai AI Lab |
+| MotionDirector: Motion Customization of Text-to-Video Diffusion Models              | *Diffusion*          |                | [MotionDirector](https://github.com/showlab/MotionDirector)       |             | [2310.08465](https://arxiv.org/abs/2310.08465)                                       | NUS             |
+| VideoDirectorGPT: Consistent Multi-scene Video Generation via LLM-Guided Planning   | GPT4 +*UNet*         |                | [VideoDirectorGPT](https://github.com/HL-hanlin/VideoDirectorGPT) |             | [2309.15091](https://arxiv.org/abs/2309.15091)                                       | UNC             |
+| CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers     | Transformer +*VQVAE* | self-construct | [CogVideo](https://github.com/THUDM/CogVideo)                     |             | [2205.15868](https://arxiv.org/abs/2205.15868)                                       | THU             |
 
 ## Metrics
 

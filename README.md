@@ -141,6 +141,8 @@ Related Collections
 - [Awesome-ALM](https://github.com/pbhu1024/awesome-augmented-language-model) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/pbhu1024/awesome-augmented-language-model?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/pbhu1024/awesome-augmented-language-model.svg?style=social&label=Star), This repo collect research papers about leveraging the capabilities of language models, which can be a good reference for building upper-layer applications
 - [LLM-powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/), Lil'Log, Overview: panning, memory, tool use
 
+- [World Model Papers](https://github.com/Timothyxxx/WorldModelPapers), ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/Timothyxxx/WorldModelPapers?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/Timothyxxx/WorldModelPapers.svg?style=social&label=Star), Paper collections of the continuous effort start from World Models
+
 ## 🤖 Robotic
 
 Collection of works about robotics+LLM, see [Robotic](Robotic/Robotic.md) for details
