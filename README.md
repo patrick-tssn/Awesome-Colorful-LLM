@@ -51,6 +51,9 @@ Related Collections (Understanding)
 - [Awesome-Referring-Image-Segmentation](https://github.com/MarkMoHR/Awesome-Referring-Image-Segmentation) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/MarkMoHR/Awesome-Referring-Image-Segmentation?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/MarkMoHR/Awesome-Referring-Image-Segmentation.svg?style=social&label=Star), A collection of referring image (video, 3D) segmentation papers and datasets. 
 - [Awesome-Prompting-on-Vision-Language-Model](https://github.com/JindongGu/Awesome-Prompting-on-Vision-Language-Model) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/JindongGu/Awesome-Prompting-on-Vision-Language-Model?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/JindongGu/Awesome-Prompting-on-Vision-Language-Model.svg?style=social&label=Star), This repo lists relevant papers summarized in our survey paper: A Systematic Survey of Prompt Engineering on Vision-Language Foundation Models.
 
+Related Collections (Evaluation)
+[Awesome-MLLM-Hallucination](https://github.com/showlab/Awesome-MLLM-Hallucination) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/showlab/Awesome-MLLM-Hallucination?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/showlab/Awesome-MLLM-Hallucination.svg?style=social&label=Star), A curated list of resources dedicated to hallucination of multimodal large language models (MLLM)
+
 Related Collections (Generation)
 
 - [Awesome-VQVAE](https://github.com/rese1f/Awesome-VQVAE) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/rese1f/Awesome-VQVAE?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/rese1f/Awesome-VQVAE.svg?style=social&label=Star), A collection of resources and papers on Vector Quantized Variational Autoencoder (VQ-VAE) and its application
