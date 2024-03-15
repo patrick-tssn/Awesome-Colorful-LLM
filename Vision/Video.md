@@ -13,8 +13,11 @@
     - [Advanced Downstream Tasks](#advanced-downstream-tasks)
       - [Task-Specific Benchmarks](#task-specific-benchmarks)
       - [Multifaceted Benchmarks](#multifaceted-benchmarks)
+  - [Metrics](#metrics)
+  - [Projects & Tools](#projects--tools)
 - [Video Generation](#video-generation)
   - [Reading List](#reading-list-1)
+  - [Metrics](#metrics-1)
   - [Projects](#projects)
 
 ## Reading List
