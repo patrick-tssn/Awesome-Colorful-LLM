@@ -47,8 +47,7 @@ Related Collections (Understanding)
 - [Awesome-Vision-and-Language](https://github.com/sangminwoo/awesome-vision-and-language) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/sangminwoo/awesome-vision-and-language?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/sangminwoo/awesome-vision-and-language.svg?style=social&label=Star), A curated list of awesome vision and language resources
 - [Awesome-Multimodal-Research](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/Eurus-Holmes/Awesome-Multimodal-Research?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/Eurus-Holmes/Awesome-Multimodal-Research.svg?style=social&label=Star), This repo is reorganized from Awesome-Multimodal-ML
 - [Awesome-Multimodal-ML](https://github.com/pliang279/awesome-multimodal-ml) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/pliang279/awesome-multimodal-ml?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/pliang279/awesome-multimodal-ml.svg?style=social&label=Star), Reading list for research topics in multimodal machine learning
-
-- [Awesome-Referring-Image-Segmentation](https://github.com/MarkMoHR/Awesome-Referring-Image-Segmentation) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/MarkMoHR/Awesome-Referring-Image-Segmentation?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/MarkMoHR/Awesome-Referring-Image-Segmentation.svg?style=social&label=Star), A collection of referring image (video, 3D) segmentation papers and datasets. 
+- [Awesome-Referring-Image-Segmentation](https://github.com/MarkMoHR/Awesome-Referring-Image-Segmentation) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/MarkMoHR/Awesome-Referring-Image-Segmentation?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/MarkMoHR/Awesome-Referring-Image-Segmentation.svg?style=social&label=Star), A collection of referring image (video, 3D) segmentation papers and datasets.
 - [Awesome-Prompting-on-Vision-Language-Model](https://github.com/JindongGu/Awesome-Prompting-on-Vision-Language-Model) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/JindongGu/Awesome-Prompting-on-Vision-Language-Model?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/JindongGu/Awesome-Prompting-on-Vision-Language-Model.svg?style=social&label=Star), This repo lists relevant papers summarized in our survey paper: A Systematic Survey of Prompt Engineering on Vision-Language Foundation Models.
 
 Related Collections (Evaluation)
@@ -78,8 +77,14 @@ Collection of works about Video-Language Pretraining, Video + LLMs, see [Video](
 >   - Benchmarks
 >     - Common Downstream Tasks
 >     - Advanced Downstream Tasks
-> - Video Understanding
+>       - Task-Specific Benchmarks
+>       - Multifaceted Benchmarks
+>   - Metrics
+>   - Projects & Tools
+> - Video Generation
 >   - Reading List
+>   - Metrics
+>   - Projects
 
 Related Collections (datasets)
 
@@ -106,7 +111,6 @@ Related Collections
 - [Awesome-LLM-3D](https://github.com/ActiveVisionLab/Awesome-LLM-3D) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/ActiveVisionLab/Awesome-LLM-3D?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/ActiveVisionLab/Awesome-LLM-3D.svg?style=social&label=Star), a curated list of Multi-modal Large Language Model in 3D world Resources
 - [Awesome-3D-Vision-and-Language](https://github.com/jianghaojun/Awesome-3D-Vision-and-Language) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/jianghaojun/Awesome-3D-Vision-and-Language?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/jianghaojun/Awesome-3D-Vision-and-Language.svg?style=social&label=Star), A curated list of research papers in 3D visual grounding
 - [awesome-scene-understanding](https://github.com/bertjiazheng/awesome-scene-understanding) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/bertjiazheng/awesome-scene-understanding?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/bertjiazheng/awesome-scene-understanding.svg?style=social&label=Star), A list of awesome scene understanding papers.
-
 
 ### 📰 Documnent
 
@@ -144,7 +148,6 @@ Related Collections
 - [ToolLearningPapers](https://github.com/thunlp/ToolLearningPapers) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/thunlp/ToolLearningPapers?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/thunlp/ToolLearningPapers.svg?style=social&label=Star), Must-read papers on tool learning with foundation models
 - [Awesome-ALM](https://github.com/pbhu1024/awesome-augmented-language-model) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/pbhu1024/awesome-augmented-language-model?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/pbhu1024/awesome-augmented-language-model.svg?style=social&label=Star), This repo collect research papers about leveraging the capabilities of language models, which can be a good reference for building upper-layer applications
 - [LLM-powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/), Lil'Log, Overview: panning, memory, tool use
-
 - [World Model Papers](https://github.com/Timothyxxx/WorldModelPapers), ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/Timothyxxx/WorldModelPapers?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/Timothyxxx/WorldModelPapers.svg?style=social&label=Star), Paper collections of the continuous effort start from World Models
 
 ## 🤖 Robotic
@@ -166,10 +169,10 @@ Related Collections (Robotics)
 Related Collections (embodied)
 
 - [Awesome-Embodied-AI](https://github.com/haoranD/Awesome-Embodied-AI) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/haoranD/Awesome-Embodied-AI?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/haoranD/Awesome-Embodied-AI.svg?style=social&label=Star), A curated list of awesome papers on Embodied AI and related research/industry-driven resources
-- [awesome-embodied-vision](https://github.com/ChanganVR/awesome-embodied-vision) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/ChanganVR/awesome-embodied-vision?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/ChanganVR/awesome-embodied-vision.svg?style=social&label=Star), Reading list for research topics in embodied vision 
-
+- [awesome-embodied-vision](https://github.com/ChanganVR/awesome-embodied-vision) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/ChanganVR/awesome-embodied-vision?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/ChanganVR/awesome-embodied-vision.svg?style=social&label=Star), Reading list for research topics in embodied vision
 
 Related Collections (autonomous driving)
+
 - [Awesome-LLM4AD](https://github.com/Thinklab-SJTU/Awesome-LLM4AD) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/Thinklab-SJTU/Awesome-LLM4AD?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/ChangThinklab-SJTUanVR/Awesome-LLM4AD.svg?style=social&label=Star), A curated list of awesome LLM for Autonomous Driving resources (continually updated)
 
 ## 🔬 Science
@@ -182,7 +185,7 @@ Collection of works about Mathematics + LLMs, see [AI4Math](AI4Science/AI4Math.m
 
 Related Collections
 
-- [Awesome-Scientific-Language-Models](https://github.com/yuzhimanhua/Awesome-Scientific-Language-Models) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/yuzhimanhua/Awesome-Scientific-Language-Models?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/yuzhimanhua/Awesome-Scientific-Language-Models.svg?style=social&label=Star), A curated list of pre-trained language models in scientific domains (e.g., mathematics, physics, chemistry, biology, medicine, materials science, and geoscience), covering different model sizes (from <100M to 70B parameters) and modalities (e.g., language, vision, molecule, protein, graph, and table) 
+- [Awesome-Scientific-Language-Models](https://github.com/yuzhimanhua/Awesome-Scientific-Language-Models) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/yuzhimanhua/Awesome-Scientific-Language-Models?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/yuzhimanhua/Awesome-Scientific-Language-Models.svg?style=social&label=Star), A curated list of pre-trained language models in scientific domains (e.g., mathematics, physics, chemistry, biology, medicine, materials science, and geoscience), covering different model sizes (from <100M to 70B parameters) and modalities (e.g., language, vision, molecule, protein, graph, and table)
 
 ## Contributing
 

@@ -225,4 +225,5 @@ Reading List
 
 ## Projects
 
+- [Open Sora](https://github.com/hpcaitech/Open-Sora), Open-Sora: Democratizing Efficient Video Production for All
 - [Open Chat Video Editor](https://github.com/SCUTlihaoyu/open-chat-video-editor), Open source short video automatic generation tool
