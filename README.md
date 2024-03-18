@@ -88,6 +88,7 @@ Related Collections (datasets)
 Related Collections (understanding)
 
 - [Awesome-LLMs-for-Video-Understanding](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/yunlong10/Awesome-LLMs-for-Video-Understanding?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/yunlong10/Awesome-LLMs-for-Video-Understanding.svg?style=social&label=Star), Latest Papers, Codes and Datasets on Vid-LLMs.
+- [Awesome Long-Term Video Understanding](https://github.com/ttengwang/Awesome_Long_Form_Video_Understanding)![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/ttengwang/Awesome_Long_Form_Video_Understanding?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/ttengwang/Awesome_Long_Form_Video_Understanding.svg?style=social&label=Star), Awesome papers & datasets specifically focused on long-term videos.
 
 Related Collections (generation)
 
