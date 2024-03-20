@@ -14,7 +14,7 @@
       - [Task-Specific Benchmarks](#task-specific-benchmarks)
       - [Multifaceted Benchmarks](#multifaceted-benchmarks)
   - [Metrics](#metrics)
-  - [Projects & Tools](#projects--tools)
+  - [Projects &amp; Tools](#projects--tools)
 - [Video Generation](#video-generation)
   - [Reading List](#reading-list-1)
   - [Metrics](#metrics-1)
@@ -165,7 +165,8 @@
 
 | paper                                                                                                          | task                     | duration    | domain          | link                                                                                         | publication |
 | -------------------------------------------------------------------------------------------------------------- | ------------------------ | ----------- | --------------- | -------------------------------------------------------------------------------------------- | ----------- |
-| MovieChat: From Dense Token to Sparse Memory for Long Video Understanding                                      | Video QA                 | ~8m         | movie           | [MovieChat](https://github.com/rese1f/MovieChat)                                                | ZJU         |
+| MovieChat: From Dense Token to Sparse Memory for Long Video Understanding                                      | Video QA                 | ~8m         | movie           | [MovieChat](https://github.com/rese1f/MovieChat)                                                | CVPR 2024         |
+| EgoSchema: A Diagnostic Benchmark for Very Long-form Video Language Understanding                              | Video QA                 | ~3m         | open (ego)      |     [EgoSchema](https://github.com/egoschema/EgoSchema)                                                                                         |             |
 | ViLMA: A Zero-Shot Benchmark for Linguistic and Temporal Grounding in Video-Language Models                    | Temporal Grounding       | ~60s (mix.) | open            | [ViLMA](https://github.com/ilkerkesen/ViLMA)                                                    | ICLR 2024   |
 | From Representation to Reasoning: Towards both Evidence and Commonsense Reasoning for Video Question-Answering | Video QA                 | 9s          | open            | [Causal-VidQA](https://github.com/bcmi/Causal-VidQA)                                            | CVPR 2022   |
 | VIOLIN: A Large-Scale Dataset for Video-and-Language Inference                                                 | Video Language Inference | 35.2s       | movie           | [VIOLIN](https://github.com/jimmy646/violin)                                                    | CVPR 2020   |
