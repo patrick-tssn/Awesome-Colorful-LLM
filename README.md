@@ -51,7 +51,8 @@ Related Collections (Understanding)
 - [Awesome-Prompting-on-Vision-Language-Model](https://github.com/JindongGu/Awesome-Prompting-on-Vision-Language-Model) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/JindongGu/Awesome-Prompting-on-Vision-Language-Model?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/JindongGu/Awesome-Prompting-on-Vision-Language-Model.svg?style=social&label=Star), This repo lists relevant papers summarized in our survey paper: A Systematic Survey of Prompt Engineering on Vision-Language Foundation Models.
 
 Related Collections (Evaluation)
-[Awesome-MLLM-Hallucination](https://github.com/showlab/Awesome-MLLM-Hallucination) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/showlab/Awesome-MLLM-Hallucination?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/showlab/Awesome-MLLM-Hallucination.svg?style=social&label=Star), A curated list of resources dedicated to hallucination of multimodal large language models (MLLM)
+- [Awesome-MLLM-Hallucination](https://github.com/showlab/Awesome-MLLM-Hallucination) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/showlab/Awesome-MLLM-Hallucination?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/showlab/Awesome-MLLM-Hallucination.svg?style=social&label=Star), A curated list of resources dedicated to hallucination of multimodal large language models (MLLM)
+- [awesome-Large-MultiModal-Hallucination](https://github.com/xieyuquanxx/awesome-Large-MultiModal-Hallucination) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/xieyuquanxx/awesome-Large-MultiModal-Hallucination?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/xieyuquanxx/awesome-Large-MultiModal-Hallucination.svg?style=social&label=Star),
 
 Related Collections (Generation)
 
