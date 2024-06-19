@@ -131,6 +131,7 @@ Collection of works about audio+LLM, see [Audio](Audio/Audio.md) for details
 
 Related Collections
 
+- [speech-trident](https://github.com/ga642381/speech-trident) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/ga642381/speech-trident?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/ga642381/speech-trident.svg?style=social&label=Star), Awesome speech/audio LLMs, representation learning, and codec models
 - [Audio-AI-Timeline](https://github.com/archinetai/audio-ai-timeline) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/archinetai/audio-ai-timeline?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/archinetai/audio-ai-timeline.svg?style=social&label=Star), Here we will keep track of the latest AI models for waveform based audio generation, starting in 2023!
 
 ## 🔧 Agent
