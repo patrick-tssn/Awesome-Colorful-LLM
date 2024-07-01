@@ -6,7 +6,7 @@
     </a>
 </p>
 
-Welcome to our meticulously assembled anthology of vibrant multimodal research, encompassing an array of domains including **Vision**, **Audio**, **Agent**, **Robotics**, and **Fundamental Sciences** such as Mathematics. Our collection primarily focuses on the advancements propelled by **large language models (LLMs)**, complemented by an assortment of related collections.
+Welcome to our meticulously assembled anthology of vibrant multimodal research, encompassing an array of domains including **Vision**, **Audio**, **Agent**, **Robotics**, and **Fundamental Sciences** such as Mathematics, and **Ominous** including anything you want. Our collection primarily focuses on the advancements propelled by **large language models (LLMs)**, complemented by an assortment of related collections.
 
 ## Table of Contents
 
