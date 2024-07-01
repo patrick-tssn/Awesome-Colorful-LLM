@@ -20,6 +20,7 @@ Welcome to our meticulously assembled anthology of vibrant multimodal research, 
 - [🤖 Robotic](#-robotic)
 - [🔬 Science](#-science)
   - [Math](#%EF%B8%8F-ai-for-math)
+- [🌏 Ominous](#-ominous)
 - [🙌 Contributing](#contributing)
 
 ## 👀 Vision
@@ -193,6 +194,12 @@ Collection of works about Mathematics + LLMs, see [AI4Math](AI4Science/AI4Math.m
 Related Collections
 
 - [Awesome-Scientific-Language-Models](https://github.com/yuzhimanhua/Awesome-Scientific-Language-Models) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/yuzhimanhua/Awesome-Scientific-Language-Models?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/yuzhimanhua/Awesome-Scientific-Language-Models.svg?style=social&label=Star), A curated list of pre-trained language models in scientific domains (e.g., mathematics, physics, chemistry, biology, medicine, materials science, and geoscience), covering different model sizes (from <100M to 70B parameters) and modalities (e.g., language, vision, molecule, protein, graph, and table)
+
+## 🌏 Ominous
+
+Collection of works about LLM + ominous modality, see [Ominous](Ominous/ominous.md) for details
+
+> - Reading List
 
 ## Contributing
 
