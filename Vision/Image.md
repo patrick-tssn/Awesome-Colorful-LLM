@@ -121,7 +121,9 @@ Datasets
 | [MGM](https://github.com/dvlab-research/MGM) | mixture  INST | instruciton (1.2M) | Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models | [2403.18814](https://arxiv.org/abs/2403.18814) |             | CUHK      |
 | [ALLaVA-4V](https://github.com/FreedomIntelligence/ALLaVA) | LAION/Vision-FLAN (GPT4V) | instruciton (505k/203k) | ALLaVA: Harnessing GPT4V-synthesized Data for A Lite Vision-Language Model | [2401.06209](https://arxiv.org/abs/2401.06209) |             | CUHKSZ      |
 | [M3IT](https://huggingface.co/datasets/MMInstruction/M3IT)                                 | mixture INST                                                                                                         | self-construct INSTs (2.4M)                                                          | M3IT: A Large-Scale Dataset towards Multi-Modal Multilingual Instruction Tuning                                                     | [2306.04387](https://arxiv.org/abs/2306.04387) |              | HKU              |
+| [OBELICS](https://github.com/huggingface/OBELICS) | I-T pairs | corpora (353M imgs) | OBELICS: An Open Web-Scale Filtered Dataset of Interleaved Image-Text Documents | [2306.16527](https://arxiv.org/abs/2306.16527) |             | Huggingface      |
 | [LLaVA](https://github.com/haotian-liu/LLaVA) | mixture INST | instruciton ( 675k) | LLaVA: Large Language and Vision Assistant | [2304.08485](https://arxiv.org/abs/2304.08485) |             | Microsoft      |
+| [LAION](https://laion.ai/blog/laion-5b/) | I-T pairs | corpora (2.32b) | LAION-5B: An open large-scale dataset for training next generation image-text models  | [2210.08402](https://arxiv.org/abs/2210.08402) |             | UCB      |
 
 Benchmarks
 

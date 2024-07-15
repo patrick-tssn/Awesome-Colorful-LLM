@@ -15,6 +15,7 @@ Welcome to our meticulously assembled anthology of vibrant multimodal research, 
   - [Video](#-video)
   - [3D](#-3d)
   - [Document](#-documnent)
+  - [Vision Encoder]()
 - [👂 Audio](#-audio)
 - [🔧 Agent](#-agent)
 - [🤖 Robotic](#-robotic)
@@ -123,6 +124,14 @@ Related Collections
 Related Collections
 
 - [Awesome Document Understanding](https://github.com/tstanislawek/awesome-document-understanding) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/tstanislawek/awesome-document-understanding?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/tstanislawek/awesome-document-understanding.svg?style=social&label=Star), A curated list of resources for Document Understanding (DU) topic related to Intelligent Document Processing (IDP), which is relative to Robotic Process Automation (RPA) from unstructured data, especially form Visually Rich Documents (VRDs).
+
+### Vision Encoder
+
+Collection of existing popular vision encoder, see [Vision Encoder](Vision/VisionEncoder.md) for details
+
+> - Image Encoder
+> - Video Encoder
+> - Audio Encoder
 
 ## 👂 Audio
 
