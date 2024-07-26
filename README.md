@@ -185,6 +185,7 @@ Related Collections (Robotics)
 
 Related Collections (embodied)
 
+- [Embodied_AI_Paper_List](https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/HCPLab-SYSU/Embodied_AI_Paper_List?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/HCPLab-SYSU/Embodied_AI_Paper_List.svg?style=social&label=Star), Awesome Paper list for Embodied AI and its related projects and applications
 - [Awesome-Embodied-AI](https://github.com/haoranD/Awesome-Embodied-AI) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/haoranD/Awesome-Embodied-AI?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/haoranD/Awesome-Embodied-AI.svg?style=social&label=Star), A curated list of awesome papers on Embodied AI and related research/industry-driven resources
 - [awesome-embodied-vision](https://github.com/ChanganVR/awesome-embodied-vision) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/ChanganVR/awesome-embodied-vision?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/ChanganVR/awesome-embodied-vision.svg?style=social&label=Star), Reading list for research topics in embodied vision
 
