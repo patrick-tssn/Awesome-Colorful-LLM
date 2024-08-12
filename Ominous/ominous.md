@@ -29,6 +29,7 @@ Papers
 Projects:
 
 - [2024.07] [SAM2](https://github.com/facebookresearch/segment-anything-2), Introducing Meta Segment Anything Model 2 (SAM 2)
+    - [2024.08] [segment-anything-2-real-time](https://github.com/Gy920/segment-anything-2-real-time), Run Segment Anything Model 2 on a live video stream
 - [2024.06] [LLaVA-Magvit2](https://github.com/lucasjinreal/LLaVA-Magvit2), LLaVA MagVit2: Combines MLLM Understanding and Generation with MagVit2
 - [2024.05] [GPT-4o system card](https://openai.com/index/hello-gpt-4o/), We’re announcing GPT-4o, our new flagship model that can reason across audio, vision, and text in real time.
 
