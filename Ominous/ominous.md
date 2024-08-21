@@ -36,3 +36,11 @@ Projects:
 ## Dataset
 
 - [2024.06] [ShareGPT4Omni Dataset](https://sharegpt4omni.github.io/), ShareGPT4Omni: Towards Building Omni Large Multi-modal Models with Comprehensive Multi-modal Annotations.
+
+## Benchmark
+
+#timestampQA
+- [2024.06] [VStream-QA](https://invinciblewyq.github.io/vstream-page/), Flash-VStream: Memory-Based Real-Time Understanding for Long Video Streams
+#state#episodic
+- [2024.04] [OpenEQA](https://open-eqa.github.io/), OpenEQA: Embodied Question Answering in the Era of Foundation Models
+- [2021.10] [Env-QA](https://envqa.github.io/), Env-QA: A Video Question Answering Benchmark for Comprehensive Understanding of Dynamic Environments
