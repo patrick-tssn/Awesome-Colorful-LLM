@@ -68,8 +68,23 @@ Related Collections (Generation)
 
 Tutorials
 
-- [CVPR2023 Tutorial] [Recent Advances in Vision Foundation Models](https://vlp-tutorial.github.io/)
-- [CVPR2022 Tutorial] [Recent Advances in Vision-and-Language Pre-training](https://vlp-tutorial.github.io/)
+- [CVPR2024 Tutorial] [Recent Advances in Vision Foundation Models](https://vlp-tutorial.github.io/)
+  - Large Multimodal Models: Towards Building General-Purpose Multimodal Assistant, Chunyuan Li
+  - Methods, Analysis & Insights from Multimodal LLM Pre-training, Zhe Gan
+  - LMMs with Fine-Grained Grounding Capabilities, Haotian Zhang
+  - A Close Look at Vision in Large Multimodal Models, Jianwei Yang
+  - Multimodal Agents, Linjie Li
+  - Recent Advances in Image Generative Foundation Models, Zhengyuan Yang
+  - Video and 3D Generation, Kevin Lin
+- [CVPR2023 Tutorial] [Recent Advances in Vision Foundation Models](https://vlp-tutorial.github.io/2023/index.html)
+  - Opening Remarks & Visual and Vision-Language Pre-training, Zhe Gan
+  - From Representation to Interface: The Evolution of Foundation for Vision Understanding, Jianwei Yang
+  - Alignments in Text-to-Image Generation, Zhengyuan Yang
+  - Large Multimodal Models, Chunyuan Li
+  - Multimodal Agents: Chaining Multimodal Experts with LLMs, Linjie Li
+- [CVPR2022 Tutorial] [Recent Advances in Vision-and-Language Pre-training](https://vlp-tutorial.github.io/2022/index.html)
+- [CVPR2021 Tutorial] [From VQA to VLN: Recent Advances in Vision-and-Language Research](https://vqa2vln-tutorial.github.io/)
+- [CVPR2020 Tutorial] [Recent Advances in Vision-and-Language Research](https://rohit497.github.io/Recent-Advances-in-Vision-and-Language-Research/)
 
 ### 📺 Video
 
@@ -141,6 +156,7 @@ Collection of works about audio+LLM, see [Audio](Audio/Audio.md) for details
 
 Related Collections
 
+- [awesome-large-audio-models](https://github.com/EmulationAI/awesome-large-audio-models) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/EmulationAI/awesome-large-audio-models?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/EmulationAI/awesome-large-audio-models.svg?style=social&label=Star), Collection of resources on the applications of Large Language Models (LLMs) in Audio AI.
 - [speech-trident](https://github.com/ga642381/speech-trident) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/ga642381/speech-trident?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/ga642381/speech-trident.svg?style=social&label=Star), Awesome speech/audio LLMs, representation learning, and codec models
 - [Audio-AI-Timeline](https://github.com/archinetai/audio-ai-timeline) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/archinetai/audio-ai-timeline?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/archinetai/audio-ai-timeline.svg?style=social&label=Star), Here we will keep track of the latest AI models for waveform based audio generation, starting in 2023!
 

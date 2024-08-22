@@ -6,15 +6,17 @@ Papers
 
 #Multimodal #End2end Understanding+Generation:
 
-| Paper                                                                                                 | Base Model    | Framework                                     | Data                                            | Code                                                       | Publication | Preprint                                    | Affiliation     |
-| ----------------------------------------------------------------------------------------------------- | ------------- | --------------------------------------------- | ----------------------------------------------- | ---------------------------------------------------------- | ----------- | ------------------------------------------- | --------------- |
-| Explore the Limits of Omni-modal Pretraining at Scale                                                 | vicuna        | PT + INST                                     | mixture (image, video, audio, depth)            | [MiCo](https://github.com/invictus717/MiCo)                   |             | [2406.09412](https://arxiv.org/pdf/2406.09412) | Shanghai AI Lab |
-| X-VILA: Cross-Modality Alignment for Large Language Model                                             | vicuna        | INST + Diffusion Decoder                      | mixture (image, video, audio)                   |                                                            |             | [2405.19335](https://arxiv.org/abs/2405.19335) | NVIDIA          |
-| Chameleon: Mixed-Modal Early-Fusion Foundation Models                                                 | - (chameleon) | PT + FT (AS + image detokenizer)              | mixture (image)                                 |                                                            |             | [2405.09818](https://arxiv.org/abs/2405.09818) | Meta            |
-| AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling                                        | LLaMA2        | INST + NAS-decoder                            | mixture(image, speech, music)                   | [AnyGPT](https://github.com/OpenMOSS/AnyGPT)                  |             | [2402.12226](https://arxiv.org/abs/2402.12226) | FDU             |
-| OneLLM: One Framework to Align All Modalities with Language                                           | LLaMA2        | PT + INST (universal encoder + moe projector) | mixture (image, audio, point, depth, IMU, fMRI) | [OneLLM](https://github.com/csuhan/OneLLM)                    | CVPR2024    | [2312.03700](https://arxiv.org/abs/2312.03700) | Shanghai AI lab |
-| LanguageBind: Extending Video-Language Pretraining to N-modality by Language-based Semantic Alignment | -             | INST                                          | mixture (video, infrared, depth, audio)         | [LanguageBind](https://github.com/PKU-YuanGroup/LanguageBind) | ICLR2024    | [2310.01852](https://arxiv.org/abs/2310.01852) | PKU             |
-| ImageBind: One Embedding Space To Bind Them All                                                       | CLIP          | Contrastive + Diffusion Decoder               | mixture(image, video, audio, depth)             | [ImageBind](https://github.com/facebookresearch/ImageBind)    |             | [2305.05665](https://arxiv.org/abs/2305.05665) | Meta            |
+| Paper                                                                                                 | Base Model    | Framework                                     | Data                                            | Code                                                       | Publication | Preprint                                        | Affiliation     |
+| ----------------------------------------------------------------------------------------------------- | ------------- | --------------------------------------------- | ----------------------------------------------- | ---------------------------------------------------------- | ----------- | ----------------------------------------------- | --------------- |
+| Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model                     | LLaMA         | PT (LM-loss + DDPM-loss)                      | self-collect (image)                            |                                                            |             | [2408.11039](https://www.arxiv.org/abs/2408.11039) | Meta            |
+| Explore the Limits of Omni-modal Pretraining at Scale                                                 | vicuna        | PT + INST                                     | mixture (image, video, audio, depth)            | [MiCo](https://github.com/invictus717/MiCo)                   |             | [2406.09412](https://arxiv.org/pdf/2406.09412)     | Shanghai AI Lab |
+| X-VILA: Cross-Modality Alignment for Large Language Model                                             | vicuna        | INST + Diffusion Decoder                      | mixture (image, video, audio)                   |                                                            |             | [2405.19335](https://arxiv.org/abs/2405.19335)     | NVIDIA          |
+| Chameleon: Mixed-Modal Early-Fusion Foundation Models                                                 | - (chameleon) | PT + FT (AR + image detokenizer)              | mixture (image)                                 | [chameleon](https://github.com/facebookresearch/chameleon)    |             | [2405.09818](https://arxiv.org/abs/2405.09818)     | Meta            |
+| SEED-X: Multimodal Models with Unified Multi-granularity Comprehension and Generation                 | LLaMA         | PT + INST (interleaved)                       | mixture (image)                                 | [SEED-X](https://github.com/AILab-CVC/SEED-X)                 |             | [2404.14396](https://arxiv.org/abs/2404.14396)     | Tencent         |
+| AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling                                        | LLaMA2        | INST + NAR-decoder                            | mixture(image, speech, music)                   | [AnyGPT](https://github.com/OpenMOSS/AnyGPT)                  |             | [2402.12226](https://arxiv.org/abs/2402.12226)     | FDU             |
+| OneLLM: One Framework to Align All Modalities with Language                                           | LLaMA2        | PT + INST (universal encoder + moe projector) | mixture (image, audio, point, depth, IMU, fMRI) | [OneLLM](https://github.com/csuhan/OneLLM)                    | CVPR2024    | [2312.03700](https://arxiv.org/abs/2312.03700)     | Shanghai AI lab |
+| LanguageBind: Extending Video-Language Pretraining to N-modality by Language-based Semantic Alignment | -             | INST                                          | mixture (video, infrared, depth, audio)         | [LanguageBind](https://github.com/PKU-YuanGroup/LanguageBind) | ICLR2024    | [2310.01852](https://arxiv.org/abs/2310.01852)     | PKU             |
+| ImageBind: One Embedding Space To Bind Them All                                                       | CLIP          | Contrastive + Diffusion Decoder               | mixture(image, video, audio, depth)             | [ImageBind](https://github.com/facebookresearch/ImageBind)    |             | [2305.05665](https://arxiv.org/abs/2305.05665)     | Meta            |
 
 #Streaming #Real-Time #Online
 
@@ -35,12 +37,18 @@ Projects:
 
 ## Dataset
 
+#omininou-modality
 - [2024.06] [ShareGPT4Omni Dataset](https://sharegpt4omni.github.io/), ShareGPT4Omni: Towards Building Omni Large Multi-modal Models with Comprehensive Multi-modal Annotations.
+
+#streaming-data
+- [2024.06] VideoLLM-online: Online Large Language Model for Streaming Video
+- [2024.05] Streaming Long Video Understanding with Large Language Models
 
 ## Benchmark
 
 #timestampQA
 - [2024.06] [VStream-QA](https://invinciblewyq.github.io/vstream-page/), Flash-VStream: Memory-Based Real-Time Understanding for Long Video Streams
+
 #state#episodic
 - [2024.04] [OpenEQA](https://open-eqa.github.io/), OpenEQA: Embodied Question Answering in the Era of Foundation Models
 - [2021.10] [Env-QA](https://envqa.github.io/), Env-QA: A Video Question Answering Benchmark for Comprehensive Understanding of Dynamic Environments

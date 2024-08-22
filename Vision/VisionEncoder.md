@@ -2,6 +2,11 @@
 
 commonly used vision encoder
 
+Table of contents
+- [Image Encoder](#image-encoder)
+- [Video Encoder](#video-encoder)
+- [Encoder Analysis](#encoder-analysis)
+
 ## Image Encoder
 | Paper                                                                                                                                                                          | Framework                                | Data                                                                                                                                        | Code                                                                                          | Publication                                     | Preprint                                                                           | Affiliation       |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ----------------------------------------------- | ---------------------------------------------------------------------------------- |
@@ -14,6 +19,7 @@ commonly used vision encoder
 ## Video Encoder
 
 
-## Audio Encoder
 
+## Encoder Analysis
 
+- [2024-06] Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs [arxiv](https://arxiv.org/abs/2406.16860) | comparison of different image encoder on LLM
