@@ -6,7 +6,7 @@
     </a>
 </p>
 
-Welcome to our meticulously assembled anthology of vibrant multimodal research, encompassing an array of domains including **Vision**, **Audio**, **Agent**, **Robotics**, and **Fundamental Sciences** such as Mathematics, and **Ominous** including anything you want. Our collection primarily focuses on the advancements propelled by **large language models (LLMs)**, complemented by an assortment of related collections.
+Welcome to our meticulously assembled anthology of vibrant multimodal research, encompassing an array of domains including **Vision**, **Audio**, **Agent**, **Robotics**, **Fundamental Sciences**, and **Ominous** including anything you want. Our collection primarily focuses on the advancements propelled by **large language models (LLMs)**, complemented by an assortment of related collections.
 
 ## Table of Contents
 
@@ -55,6 +55,7 @@ Related Collections (Understanding)
 - [Efficient-Multimodal-LLMs-Survey](https://github.com/lijiannuist/Efficient-Multimodal-LLMs-Survey) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/lijiannuist/Efficient-Multimodal-LLMs-Survey?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/lijiannuist/Efficient-Multimodal-LLMs-Survey.svg?style=social&label=Star), Efficient Multimodal Large Language Models: A Survey
 
 Related Collections (Evaluation)
+
 - [Awesome-MLLM-Hallucination](https://github.com/showlab/Awesome-MLLM-Hallucination) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/showlab/Awesome-MLLM-Hallucination?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/showlab/Awesome-MLLM-Hallucination.svg?style=social&label=Star), A curated list of resources dedicated to hallucination of multimodal large language models (MLLM)
 - [awesome-Large-MultiModal-Hallucination](https://github.com/xieyuquanxx/awesome-Large-MultiModal-Hallucination) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/xieyuquanxx/awesome-Large-MultiModal-Hallucination?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/xieyuquanxx/awesome-Large-MultiModal-Hallucination.svg?style=social&label=Star),
 
@@ -64,7 +65,6 @@ Related Collections (Generation)
 - [Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/heejkoo/Awesome-Diffusion-Models?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/heejkoo/Awesome-Diffusion-Models.svg?style=social&label=Star), This repository contains a collection of resources and papers on Diffusion Models
 - [Awesome-Controllable-Diffusion](https://github.com/atfortes/Awesome-Controllable-Diffusion) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/atfortes/Awesome-Controllable-Diffusion?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/atfortes/Awesome-Controllable-Diffusion.svg?style=social&label=Star), Collection of papers and resources on Controllable Generation using Diffusion Models, including ControlNet, DreamBooth, and others.
 - [Awesome-LLMs-meet-Multimodal-Generation](https://github.com/YingqingHe/Awesome-LLMs-meet-Multimodal-Generation) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/YingqingHe/Awesome-LLMs-meet-Multimodal-Generation?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/YingqingHe/Awesome-LLMs-meet-Multimodal-Generation.svg?style=social&label=Star), A curated list of papers on LLMs-based multimodal generation (image, video, 3D and audio).
-
 
 Tutorials
 
@@ -224,6 +224,10 @@ Related Collections
 ## 🌏 Ominous
 
 Collection of works about LLM + ominous modality, see [Ominous](Ominous/ominous.md) for details
+
+Related Collections
+
+- [Awesome-Unified-Multimodal-Models](https://github.com/showlab/Awesome-Unified-Multimodal-Models) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/showlab/Awesome-Unified-Multimodal-Models?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/showlab/Awesome-Unified-Multimodal-Models.svg?style=social&label=Star), This is a repository for organizing papers, codes and other resources related to unified multimodal models.
 
 > - Reading List
 
