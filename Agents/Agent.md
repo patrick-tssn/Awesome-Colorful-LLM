@@ -11,6 +11,9 @@ Table of Contents
 
 ## Reading List
 
+Technical Report
+- (2024-12) Genie 2: A large-scale foundation world model, [Genie2](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/)
+
 Survey
 
 - (2023-09) The Rise and Potential of Large Language Model Based Agents: A Survey [paper](https://arxiv.org/abs/2309.07864)
