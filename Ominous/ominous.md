@@ -4,6 +4,13 @@
 
 Papers
 
+#Interaction+Generation:
+
+| Paper                                                                                                                            | Base Model          | Framework                                        | Data                                                      | Code                                                         | Publication | Preprint                                        | Affiliation     |
+| -------------------------------------------------------------------------------------------------------------------------------- | ------------------- | ------------------------------------------------ | --------------------------------------------------------- | ------------------------------------------------------------ | ----------- | ----------------------------------------------- | --------------- |
+| Genie 2: A large-scale foundation world model                                                     |               |                                           |                                    | [genie2](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/)                          |             |     | DeepMind          |
+
+
 #Multimodal #End2end Understanding+Generation:
 
 | Paper                                                                                                                            | Base Model          | Framework                                        | Data                                                      | Code                                                         | Publication | Preprint                                        | Affiliation     |
