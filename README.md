@@ -222,9 +222,9 @@ Related Collections
 
 - [Awesome-Scientific-Language-Models](https://github.com/yuzhimanhua/Awesome-Scientific-Language-Models) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/yuzhimanhua/Awesome-Scientific-Language-Models?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/yuzhimanhua/Awesome-Scientific-Language-Models.svg?style=social&label=Star), A curated list of pre-trained language models in scientific domains (e.g., mathematics, physics, chemistry, biology, medicine, materials science, and geoscience), covering different model sizes (from <100M to 70B parameters) and modalities (e.g., language, vision, molecule, protein, graph, and table)
 
-## 🌏 Ominous
+## 🌏 Omni
 
-Collection of works about LLM + ominous modality, see [Ominous](Ominous/ominous.md) for details
+Collection of works about LLM + ominous modality, see [Omni](Omni/omni.md) for details
 
 Related Collections
 
@@ -233,8 +233,6 @@ Related Collections
 > - Benchmark
 
 - [Awesome-Unified-Multimodal-Models](https://github.com/showlab/Awesome-Unified-Multimodal-Models) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/showlab/Awesome-Unified-Multimodal-Models?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/showlab/Awesome-Unified-Multimodal-Models.svg?style=social&label=Star), This is a repository for organizing papers, codes and other resources related to unified multimodal models.
-
-
 
 ## Contributing
 
