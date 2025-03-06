@@ -57,7 +57,8 @@ Related Collections (Understanding)
 Related Collections (Evaluation)
 
 - [Awesome-MLLM-Hallucination](https://github.com/showlab/Awesome-MLLM-Hallucination) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/showlab/Awesome-MLLM-Hallucination?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/showlab/Awesome-MLLM-Hallucination.svg?style=social&label=Star), A curated list of resources dedicated to hallucination of multimodal large language models (MLLM)
-- [awesome-Large-MultiModal-Hallucination](https://github.com/xieyuquanxx/awesome-Large-MultiModal-Hallucination) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/xieyuquanxx/awesome-Large-MultiModal-Hallucination?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/xieyuquanxx/awesome-Large-MultiModal-Hallucination.svg?style=social&label=Star),
+- [awesome-Large-MultiModal-Hallucination](https://github.com/xieyuquanxx/awesome-Large-MultiModal-Hallucination) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/xieyuquanxx/awesome-Large-MultiModal-Hallucination?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/xieyuquanxx/awesome-Large-MultiModal-Hallucination.svg?style=social&label=Star)
+- [Awesome-MLLM-Reasoning-Benchmarks](https://github.com/Wild-Cooperation-Hub/Awesome-MLLM-Reasoning-Benchmarks) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/Wild-Cooperation-Hub/Awesome-MLLM-Reasoning-Benchmarks?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/Wild-Cooperation-Hub/Awesome-MLLM-Reasoning-Benchmarks.svg?style=social&label=Star)
 
 Related Collections (Generation)
 
