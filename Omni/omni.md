@@ -93,15 +93,22 @@ Projects:
 ## Benchmark
 
 #streaming
-
+- [2025.03] [OmniMMI](https://github.com/OmniMMI/OmniMMI), A Comprehensive Multi-modal Interaction Benchmark in Streaming Video Contexts
 - [2025.01] [OVO-Bench](https://github.com/JoeLeelyf/OVO-Bench), OVO-Bench: How Far is Your Video-LLMs from Real-World Online Video Understanding?
-- [2024.11] [StreamingBench](https://github.com/THUNLP-MT/StreamingBench), StreamingBench evaluates **Multimodal Large Language Models (MLLMs)** in real-time, streaming video understanding tasks.
+- [2024.11] [StreamingBench](https://github.com/THUNLP-MT/StreamingBench), StreamingBench evaluates Multimodal Large Language Models (MLLMs) in real-time, streaming video understanding tasks.
+
+#omni
+- [2025.03] [ACVUBench](https://github.com/lark-png/ACVUBench), ACVUBench: Audio-Centric Video Understanding Benchmark
+- [2024.11] [LongVALE](https://github.com/ttgeng233/LongVALE), LongVALE: Vision-Audio-Language-Event Benchmark Towards Time-Aware Omni-Modal Perception of Long Videos
+- [2024.10] [AVHBench](https://github.com/kaist-ami/AVHBench), AVHBench: A Cross-Modal Hallucination Benchmark for Audio-Visual Large Language Models
+- [2024.09] [OmniBench](https://github.com/multimodal-art-projection/OmniBench), OmniBench: Towards The Future of Universal Omni-Language Models
 
 #timestampQA
-
 - [2024.06] [VStream-QA](https://invinciblewyq.github.io/vstream-page/), Flash-VStream: Memory-Based Real-Time Understanding for Long Video Streams
 
-#state#episodic
+#multihop
+- [2024.08] [MultiHop-EgoQA](https://qirui-chen.github.io/MultiHop-EgoQA/), Grounded Multi-Hop VideoQA in Long-Form Egocentric Videos
 
+#state#episodic
 - [2024.04] [OpenEQA](https://open-eqa.github.io/), OpenEQA: Embodied Question Answering in the Era of Foundation Models
 - [2021.10] [Env-QA](https://envqa.github.io/), Env-QA: A Video Question Answering Benchmark for Comprehensive Understanding of Dynamic Environments
