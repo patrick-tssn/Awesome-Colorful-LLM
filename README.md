@@ -8,21 +8,22 @@
 
 Welcome to our meticulously assembled anthology of vibrant multimodal research, encompassing an array of domains including **Vision**, **Audio**, **Agent**, **Robotics**, **Fundamental Sciences**, and **Ominous** including anything you want. Our collection primarily focuses on the advancements propelled by **large language models (LLMs)**, complemented by an assortment of related collections.
 
-## Table of Contents
+## 📚 Table of Contents
 
+- [📚 Table of Contents](#-table-of-contents)
 - [👀 Vision](#-vision)
-  - [Image](#-image)
-  - [Video](#-video)
-  - [3D](#-3d)
-  - [Document](#-documnent)
-  - [Vision Encoder](#vision-encoder)
+  - [🖼 Image](#-image)
+  - [📺 Video](#-video)
+  - [📷 3D](#-3d)
+  - [📰 Document](#-document)
+  - [👁️ Vision Encoder](#️-vision-encoder)
 - [👂 Audio](#-audio)
 - [🔧 Agent](#-agent)
 - [🤖 Robotic](#-robotic)
 - [🔬 Science](#-science)
-  - [Math](#%EF%B8%8F-ai-for-math)
+  - [♾️ AI for Math](#️-ai-for-math)
 - [🌏 Ominous](#-ominous)
-- [🙌 Contributing](#contributing)
+- [🙌 Contributing](#-contributing)
 
 ## 👀 Vision
 
@@ -136,13 +137,13 @@ Related Collections
 - [Awesome-3D-Vision-and-Language](https://github.com/jianghaojun/Awesome-3D-Vision-and-Language) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/jianghaojun/Awesome-3D-Vision-and-Language?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/jianghaojun/Awesome-3D-Vision-and-Language.svg?style=social&label=Star), A curated list of research papers in 3D visual grounding
 - [awesome-scene-understanding](https://github.com/bertjiazheng/awesome-scene-understanding) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/bertjiazheng/awesome-scene-understanding?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/bertjiazheng/awesome-scene-understanding.svg?style=social&label=Star), A list of awesome scene understanding papers.
 
-### 📰 Documnent
+### 📰 Document
 
 Related Collections
 
 - [Awesome Document Understanding](https://github.com/tstanislawek/awesome-document-understanding) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/tstanislawek/awesome-document-understanding?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/tstanislawek/awesome-document-understanding.svg?style=social&label=Star), A curated list of resources for Document Understanding (DU) topic related to Intelligent Document Processing (IDP), which is relative to Robotic Process Automation (RPA) from unstructured data, especially form Visually Rich Documents (VRDs).
 
-### Vision Encoder
+### 👁️ Vision Encoder
 
 Collection of existing popular vision encoder, see [Vision Encoder](Vision/VisionEncoder.md) for details
 
@@ -223,7 +224,7 @@ Related Collections
 
 - [Awesome-Scientific-Language-Models](https://github.com/yuzhimanhua/Awesome-Scientific-Language-Models) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/yuzhimanhua/Awesome-Scientific-Language-Models?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/yuzhimanhua/Awesome-Scientific-Language-Models.svg?style=social&label=Star), A curated list of pre-trained language models in scientific domains (e.g., mathematics, physics, chemistry, biology, medicine, materials science, and geoscience), covering different model sizes (from <100M to 70B parameters) and modalities (e.g., language, vision, molecule, protein, graph, and table)
 
-## 🌏 Omni
+## 🌏 Ominous
 
 Collection of works about LLM + ominous modality, see [Omni](Omni/omni.md) for details
 
@@ -235,6 +236,6 @@ Related Collections
 
 - [Awesome-Unified-Multimodal-Models](https://github.com/showlab/Awesome-Unified-Multimodal-Models) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/showlab/Awesome-Unified-Multimodal-Models?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/showlab/Awesome-Unified-Multimodal-Models.svg?style=social&label=Star), This is a repository for organizing papers, codes and other resources related to unified multimodal models.
 
-## Contributing
+## 🙌 Contributing
 
 Please freely create a [pull request](https://github.com/patrick-tssn/Awesome-Colorful-LLM/pulls) or drop me an email: [flagwyx@gmail.com](flagwyx@gmail.com)
