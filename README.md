@@ -22,6 +22,7 @@ Welcome to our meticulously assembled anthology of vibrant multimodal research, 
 - [🤖 Robotic](#-robotic)
 - [🔬 Science](#-science)
   - [♾️ AI for Math](#️-ai-for-math)
+  - [📝 AI for Scientific Research](#-ai-for-scientific-research)
 - [🌏 Ominous](#-ominous)
 - [🙌 Contributing](#-contributing)
 
@@ -223,6 +224,10 @@ Collection of works about Mathematics + LLMs, see [AI4Math](AI4Science/AI4Math.m
 Related Collections
 
 - [Awesome-Scientific-Language-Models](https://github.com/yuzhimanhua/Awesome-Scientific-Language-Models) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/yuzhimanhua/Awesome-Scientific-Language-Models?style=flat)![Dynamic JSON Badge](https://img.shields.io/github/stars/yuzhimanhua/Awesome-Scientific-Language-Models.svg?style=social&label=Star), A curated list of pre-trained language models in scientific domains (e.g., mathematics, physics, chemistry, biology, medicine, materials science, and geoscience), covering different model sizes (from <100M to 70B parameters) and modalities (e.g., language, vision, molecule, protein, graph, and table)
+
+### 📝 AI for Scientific Research
+
+- [CAJAL](https://github.com/Agnuxo1/CAJAL) ![GitHub last commit](https://img.shields.io/github/last-commit/Agnuxo1/CAJAL?style=flat)![GitHub stars](https://img.shields.io/github/stars/Agnuxo1/CAJAL.svg?style=social&label=Star), A fine-tuned open-source LLM (Qwen3.6 base) specialized for generating publication-ready scientific papers. Runs 100% locally with 4B–9B parameters, ranked #3 on scientific paper benchmarks, surpassing most SOTA cloud models including Claude Sonnet 4.6 competitors.
 
 ## 🌏 Ominous
 
